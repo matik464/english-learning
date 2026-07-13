@@ -1,0 +1,4512 @@
+[
+  {
+    "word": "a, an",
+    "pos": "indefinite article",
+    "raw": "a, an indefinite article"
+  },
+  {
+    "word": "about",
+    "pos": "prep., adv.",
+    "raw": "about prep., adv."
+  },
+  {
+    "word": "above",
+    "pos": "prep., adv.",
+    "raw": "above prep., adv."
+  },
+  {
+    "word": "across",
+    "pos": "prep., adv.",
+    "raw": "across prep., adv."
+  },
+  {
+    "word": "action",
+    "pos": "n.",
+    "raw": "action n."
+  },
+  {
+    "word": "activity",
+    "pos": "n.",
+    "raw": "activity n."
+  },
+  {
+    "word": "actor",
+    "pos": "n.",
+    "raw": "actor n."
+  },
+  {
+    "word": "actress",
+    "pos": "n.",
+    "raw": "actress n."
+  },
+  {
+    "word": "add",
+    "pos": "v.",
+    "raw": "add v."
+  },
+  {
+    "word": "address",
+    "pos": "n.",
+    "raw": "address n."
+  },
+  {
+    "word": "adult",
+    "pos": "n.",
+    "raw": "adult n."
+  },
+  {
+    "word": "advice",
+    "pos": "n.",
+    "raw": "advice n."
+  },
+  {
+    "word": "afraid",
+    "pos": "adj.",
+    "raw": "afraid adj."
+  },
+  {
+    "word": "after",
+    "pos": "prep.",
+    "raw": "after prep."
+  },
+  {
+    "word": "afternoon",
+    "pos": "n.",
+    "raw": "afternoon n."
+  },
+  {
+    "word": "again",
+    "pos": "adv.",
+    "raw": "again adv."
+  },
+  {
+    "word": "age",
+    "pos": "n.",
+    "raw": "age n."
+  },
+  {
+    "word": "ago",
+    "pos": "adv.",
+    "raw": "ago adv."
+  },
+  {
+    "word": "agree",
+    "pos": "v.",
+    "raw": "agree v."
+  },
+  {
+    "word": "air",
+    "pos": "n.",
+    "raw": "air n."
+  },
+  {
+    "word": "airport",
+    "pos": "n.",
+    "raw": "airport n."
+  },
+  {
+    "word": "all",
+    "pos": "det., pron.",
+    "raw": "all det., pron."
+  },
+  {
+    "word": "also",
+    "pos": "adv.",
+    "raw": "also adv."
+  },
+  {
+    "word": "always",
+    "pos": "adv.",
+    "raw": "always adv."
+  },
+  {
+    "word": "amazing",
+    "pos": "adj.",
+    "raw": "amazing adj."
+  },
+  {
+    "word": "and",
+    "pos": "conj.",
+    "raw": "and conj."
+  },
+  {
+    "word": "angry",
+    "pos": "adj.",
+    "raw": "angry adj."
+  },
+  {
+    "word": "animal",
+    "pos": "n.",
+    "raw": "animal n."
+  },
+  {
+    "word": "another",
+    "pos": "det./pron.",
+    "raw": "another det./pron."
+  },
+  {
+    "word": "answer",
+    "pos": "n., v.",
+    "raw": "answer n., v."
+  },
+  {
+    "word": "any",
+    "pos": "det., pron.",
+    "raw": "any det., pron."
+  },
+  {
+    "word": "anyone",
+    "pos": "pron.",
+    "raw": "anyone pron."
+  },
+  {
+    "word": "anything",
+    "pos": "pron.",
+    "raw": "anything pron."
+  },
+  {
+    "word": "apartment",
+    "pos": "n.",
+    "raw": "apartment n."
+  },
+  {
+    "word": "apple",
+    "pos": "n.",
+    "raw": "apple n."
+  },
+  {
+    "word": "April",
+    "pos": "n.",
+    "raw": "April n."
+  },
+  {
+    "word": "area",
+    "pos": "n.",
+    "raw": "area n."
+  },
+  {
+    "word": "arm",
+    "pos": "n.",
+    "raw": "arm n."
+  },
+  {
+    "word": "around",
+    "pos": "prep., adv.",
+    "raw": "around prep., adv."
+  },
+  {
+    "word": "arrive",
+    "pos": "v.",
+    "raw": "arrive v."
+  },
+  {
+    "word": "art",
+    "pos": "n.",
+    "raw": "art n."
+  },
+  {
+    "word": "article",
+    "pos": "n.",
+    "raw": "article n."
+  },
+  {
+    "word": "artist",
+    "pos": "n.",
+    "raw": "artist n."
+  },
+  {
+    "word": "as",
+    "pos": "prep.",
+    "raw": "as prep."
+  },
+  {
+    "word": "ask",
+    "pos": "v.",
+    "raw": "ask v."
+  },
+  {
+    "word": "at",
+    "pos": "prep.",
+    "raw": "at prep."
+  },
+  {
+    "word": "August",
+    "pos": "n.",
+    "raw": "August n."
+  },
+  {
+    "word": "aunt",
+    "pos": "n.",
+    "raw": "aunt n."
+  },
+  {
+    "word": "autumn",
+    "pos": "n.",
+    "raw": "autumn n."
+  },
+  {
+    "word": "away",
+    "pos": "adv.",
+    "raw": "away adv."
+  },
+  {
+    "word": "baby",
+    "pos": "n.",
+    "raw": "baby n."
+  },
+  {
+    "word": "back",
+    "pos": "n., adv.",
+    "raw": "back n., adv."
+  },
+  {
+    "word": "bad",
+    "pos": "adj.",
+    "raw": "bad adj."
+  },
+  {
+    "word": "bag",
+    "pos": "n.",
+    "raw": "bag n."
+  },
+  {
+    "word": "ball",
+    "pos": "n.",
+    "raw": "ball n."
+  },
+  {
+    "word": "banana",
+    "pos": "n.",
+    "raw": "banana n."
+  },
+  {
+    "word": "band",
+    "pos": "n.",
+    "raw": "band n."
+  },
+  {
+    "word": "bank (money)",
+    "pos": "n.",
+    "raw": "bank (money) n."
+  },
+  {
+    "word": "bath",
+    "pos": "n.",
+    "raw": "bath n."
+  },
+  {
+    "word": "bathroom",
+    "pos": "n.",
+    "raw": "bathroom n."
+  },
+  {
+    "word": "be",
+    "pos": "v., auxiliary v.",
+    "raw": "be v., auxiliary v."
+  },
+  {
+    "word": "beach",
+    "pos": "n.",
+    "raw": "beach n."
+  },
+  {
+    "word": "beautiful",
+    "pos": "adj.",
+    "raw": "beautiful adj."
+  },
+  {
+    "word": "because",
+    "pos": "conj.",
+    "raw": "because conj."
+  },
+  {
+    "word": "become",
+    "pos": "v.",
+    "raw": "become v."
+  },
+  {
+    "word": "bed",
+    "pos": "n.",
+    "raw": "bed n."
+  },
+  {
+    "word": "bedroom",
+    "pos": "n.",
+    "raw": "bedroom n."
+  },
+  {
+    "word": "beer",
+    "pos": "n.",
+    "raw": "beer n."
+  },
+  {
+    "word": "before",
+    "pos": "prep.",
+    "raw": "before prep."
+  },
+  {
+    "word": "begin",
+    "pos": "v.",
+    "raw": "begin v."
+  },
+  {
+    "word": "beginning",
+    "pos": "n.",
+    "raw": "beginning n."
+  },
+  {
+    "word": "behind",
+    "pos": "prep., adv.",
+    "raw": "behind prep., adv."
+  },
+  {
+    "word": "believe",
+    "pos": "v.",
+    "raw": "believe v."
+  },
+  {
+    "word": "below",
+    "pos": "adv., prep.",
+    "raw": "below adv., prep."
+  },
+  {
+    "word": "best",
+    "pos": "adj.",
+    "raw": "best adj."
+  },
+  {
+    "word": "better",
+    "pos": "adj.",
+    "raw": "better adj."
+  },
+  {
+    "word": "between",
+    "pos": "prep.",
+    "raw": "between prep."
+  },
+  {
+    "word": "bicycle",
+    "pos": "n.",
+    "raw": "bicycle n."
+  },
+  {
+    "word": "big",
+    "pos": "adj.",
+    "raw": "big adj."
+  },
+  {
+    "word": "bike",
+    "pos": "n.",
+    "raw": "bike n."
+  },
+  {
+    "word": "bill",
+    "pos": "n.",
+    "raw": "bill n."
+  },
+  {
+    "word": "bird",
+    "pos": "n.",
+    "raw": "bird n."
+  },
+  {
+    "word": "birthday",
+    "pos": "n.",
+    "raw": "birthday n."
+  },
+  {
+    "word": "black",
+    "pos": "adj., n.",
+    "raw": "black adj., n."
+  },
+  {
+    "word": "blog",
+    "pos": "n.",
+    "raw": "blog n."
+  },
+  {
+    "word": "blonde",
+    "pos": "adj.",
+    "raw": "blonde adj."
+  },
+  {
+    "word": "blue",
+    "pos": "adj., n.",
+    "raw": "blue adj., n."
+  },
+  {
+    "word": "boat",
+    "pos": "n.",
+    "raw": "boat n."
+  },
+  {
+    "word": "body",
+    "pos": "n.",
+    "raw": "body n."
+  },
+  {
+    "word": "book",
+    "pos": "n.",
+    "raw": "book n."
+  },
+  {
+    "word": "boot",
+    "pos": "n.",
+    "raw": "boot n."
+  },
+  {
+    "word": "bored",
+    "pos": "adj.",
+    "raw": "bored adj."
+  },
+  {
+    "word": "boring",
+    "pos": "adj.",
+    "raw": "boring adj."
+  },
+  {
+    "word": "born",
+    "pos": "v.",
+    "raw": "born v."
+  },
+  {
+    "word": "both",
+    "pos": "det./pron.",
+    "raw": "both det./pron."
+  },
+  {
+    "word": "bottle",
+    "pos": "n.",
+    "raw": "bottle n."
+  },
+  {
+    "word": "box",
+    "pos": "n.",
+    "raw": "box n."
+  },
+  {
+    "word": "boy",
+    "pos": "n.",
+    "raw": "boy n."
+  },
+  {
+    "word": "boyfriend",
+    "pos": "n.",
+    "raw": "boyfriend n."
+  },
+  {
+    "word": "bread",
+    "pos": "n.",
+    "raw": "bread n."
+  },
+  {
+    "word": "break",
+    "pos": "v., n.",
+    "raw": "break v., n."
+  },
+  {
+    "word": "breakfast",
+    "pos": "n.",
+    "raw": "breakfast n."
+  },
+  {
+    "word": "bring",
+    "pos": "v.",
+    "raw": "bring v."
+  },
+  {
+    "word": "brother",
+    "pos": "n.",
+    "raw": "brother n."
+  },
+  {
+    "word": "brown",
+    "pos": "adj., n.",
+    "raw": "brown adj., n."
+  },
+  {
+    "word": "build",
+    "pos": "v.",
+    "raw": "build v."
+  },
+  {
+    "word": "building",
+    "pos": "n.",
+    "raw": "building n."
+  },
+  {
+    "word": "bus",
+    "pos": "n.",
+    "raw": "bus n."
+  },
+  {
+    "word": "business",
+    "pos": "n.",
+    "raw": "business n."
+  },
+  {
+    "word": "busy",
+    "pos": "adj.",
+    "raw": "busy adj."
+  },
+  {
+    "word": "but",
+    "pos": "conj.",
+    "raw": "but conj."
+  },
+  {
+    "word": "butter",
+    "pos": "n.",
+    "raw": "butter n."
+  },
+  {
+    "word": "buy",
+    "pos": "v.",
+    "raw": "buy v."
+  },
+  {
+    "word": "by",
+    "pos": "prep.",
+    "raw": "by prep."
+  },
+  {
+    "word": "bye",
+    "pos": "exclam.",
+    "raw": "bye exclam."
+  },
+  {
+    "word": "cafe",
+    "pos": "n.",
+    "raw": "cafe n."
+  },
+  {
+    "word": "cake",
+    "pos": "n.",
+    "raw": "cake n."
+  },
+  {
+    "word": "call",
+    "pos": "v., n.",
+    "raw": "call v., n."
+  },
+  {
+    "word": "camera",
+    "pos": "n.",
+    "raw": "camera n."
+  },
+  {
+    "word": "can1",
+    "pos": "modal v.",
+    "raw": "can1 modal v."
+  },
+  {
+    "word": "cannot",
+    "pos": "modal v.",
+    "raw": "cannot modal v."
+  },
+  {
+    "word": "capital",
+    "pos": "n., adj.",
+    "raw": "capital n., adj."
+  },
+  {
+    "word": "car",
+    "pos": "n.",
+    "raw": "car n."
+  },
+  {
+    "word": "card",
+    "pos": "n.",
+    "raw": "card n."
+  },
+  {
+    "word": "career",
+    "pos": "n.",
+    "raw": "career n."
+  },
+  {
+    "word": "carrot",
+    "pos": "n.",
+    "raw": "carrot n."
+  },
+  {
+    "word": "carry",
+    "pos": "v.",
+    "raw": "carry v."
+  },
+  {
+    "word": "cat",
+    "pos": "n.",
+    "raw": "cat n."
+  },
+  {
+    "word": "CD",
+    "pos": "n.",
+    "raw": "CD n."
+  },
+  {
+    "word": "cent",
+    "pos": "n.",
+    "raw": "cent n."
+  },
+  {
+    "word": "centre",
+    "pos": "n.",
+    "raw": "centre n."
+  },
+  {
+    "word": "century",
+    "pos": "n.",
+    "raw": "century n."
+  },
+  {
+    "word": "chair",
+    "pos": "n.",
+    "raw": "chair n."
+  },
+  {
+    "word": "change",
+    "pos": "v., n.",
+    "raw": "change v., n."
+  },
+  {
+    "word": "chart",
+    "pos": "n.",
+    "raw": "chart n."
+  },
+  {
+    "word": "cheap",
+    "pos": "adj.",
+    "raw": "cheap adj."
+  },
+  {
+    "word": "check",
+    "pos": "v.",
+    "raw": "check v."
+  },
+  {
+    "word": "cheese",
+    "pos": "n.",
+    "raw": "cheese n."
+  },
+  {
+    "word": "chicken",
+    "pos": "n.",
+    "raw": "chicken n."
+  },
+  {
+    "word": "child",
+    "pos": "n.",
+    "raw": "child n."
+  },
+  {
+    "word": "chocolate",
+    "pos": "n.",
+    "raw": "chocolate n."
+  },
+  {
+    "word": "choose",
+    "pos": "v.",
+    "raw": "choose v."
+  },
+  {
+    "word": "cinema",
+    "pos": "n.",
+    "raw": "cinema n."
+  },
+  {
+    "word": "city",
+    "pos": "n.",
+    "raw": "city n."
+  },
+  {
+    "word": "class",
+    "pos": "n.",
+    "raw": "class n."
+  },
+  {
+    "word": "classroom",
+    "pos": "n.",
+    "raw": "classroom n."
+  },
+  {
+    "word": "clean",
+    "pos": "adj., v.",
+    "raw": "clean adj., v."
+  },
+  {
+    "word": "climb",
+    "pos": "v.",
+    "raw": "climb v."
+  },
+  {
+    "word": "clock",
+    "pos": "n.",
+    "raw": "clock n."
+  },
+  {
+    "word": "close1",
+    "pos": "v.",
+    "raw": "close1 v."
+  },
+  {
+    "word": "clothes",
+    "pos": "n.",
+    "raw": "clothes n."
+  },
+  {
+    "word": "club",
+    "pos": "n.",
+    "raw": "club n."
+  },
+  {
+    "word": "coat",
+    "pos": "n.",
+    "raw": "coat n."
+  },
+  {
+    "word": "coffee",
+    "pos": "n.",
+    "raw": "coffee n."
+  },
+  {
+    "word": "cold",
+    "pos": "adj., n.",
+    "raw": "cold adj., n."
+  },
+  {
+    "word": "college",
+    "pos": "n.",
+    "raw": "college n."
+  },
+  {
+    "word": "colour",
+    "pos": "n.",
+    "raw": "colour n."
+  },
+  {
+    "word": "come",
+    "pos": "v.",
+    "raw": "come v."
+  },
+  {
+    "word": "common",
+    "pos": "adj.",
+    "raw": "common adj."
+  },
+  {
+    "word": "company",
+    "pos": "n.",
+    "raw": "company n."
+  },
+  {
+    "word": "compare",
+    "pos": "v.",
+    "raw": "compare v."
+  },
+  {
+    "word": "complete",
+    "pos": "adj., v.",
+    "raw": "complete adj., v."
+  },
+  {
+    "word": "computer",
+    "pos": "n.",
+    "raw": "computer n."
+  },
+  {
+    "word": "concert",
+    "pos": "n.",
+    "raw": "concert n."
+  },
+  {
+    "word": "conversation",
+    "pos": "n.",
+    "raw": "conversation n."
+  },
+  {
+    "word": "cook",
+    "pos": "v.",
+    "raw": "cook v."
+  },
+  {
+    "word": "cooking",
+    "pos": "n.",
+    "raw": "cooking n."
+  },
+  {
+    "word": "cool",
+    "pos": "adj.",
+    "raw": "cool adj."
+  },
+  {
+    "word": "correct",
+    "pos": "adj., v.",
+    "raw": "correct adj., v."
+  },
+  {
+    "word": "cost",
+    "pos": "n., v.",
+    "raw": "cost n., v."
+  },
+  {
+    "word": "could",
+    "pos": "modal v.",
+    "raw": "could modal v."
+  },
+  {
+    "word": "country",
+    "pos": "n.",
+    "raw": "country n."
+  },
+  {
+    "word": "course",
+    "pos": "n.",
+    "raw": "course n."
+  },
+  {
+    "word": "cousin",
+    "pos": "n.",
+    "raw": "cousin n."
+  },
+  {
+    "word": "cow",
+    "pos": "n.",
+    "raw": "cow n."
+  },
+  {
+    "word": "cream",
+    "pos": "n.",
+    "raw": "cream n."
+  },
+  {
+    "word": "create",
+    "pos": "v.",
+    "raw": "create v."
+  },
+  {
+    "word": "culture",
+    "pos": "n.",
+    "raw": "culture n."
+  },
+  {
+    "word": "cup",
+    "pos": "n.",
+    "raw": "cup n."
+  },
+  {
+    "word": "customer",
+    "pos": "n.",
+    "raw": "customer n."
+  },
+  {
+    "word": "cut",
+    "pos": "v.",
+    "raw": "cut v."
+  },
+  {
+    "word": "dad",
+    "pos": "n.",
+    "raw": "dad n."
+  },
+  {
+    "word": "dance",
+    "pos": "n., v.",
+    "raw": "dance n., v."
+  },
+  {
+    "word": "dancer",
+    "pos": "n.",
+    "raw": "dancer n."
+  },
+  {
+    "word": "dancing",
+    "pos": "n.",
+    "raw": "dancing n."
+  },
+  {
+    "word": "dangerous",
+    "pos": "adj.",
+    "raw": "dangerous adj."
+  },
+  {
+    "word": "dark",
+    "pos": "adj.",
+    "raw": "dark adj."
+  },
+  {
+    "word": "date",
+    "pos": "n.",
+    "raw": "date n."
+  },
+  {
+    "word": "daughter",
+    "pos": "n.",
+    "raw": "daughter n."
+  },
+  {
+    "word": "day",
+    "pos": "n.",
+    "raw": "day n."
+  },
+  {
+    "word": "dear",
+    "pos": "adj.",
+    "raw": "dear adj."
+  },
+  {
+    "word": "December",
+    "pos": "n.",
+    "raw": "December n."
+  },
+  {
+    "word": "decide",
+    "pos": "v.",
+    "raw": "decide v."
+  },
+  {
+    "word": "delicious",
+    "pos": "adj.",
+    "raw": "delicious adj."
+  },
+  {
+    "word": "describe",
+    "pos": "v.",
+    "raw": "describe v."
+  },
+  {
+    "word": "description",
+    "pos": "n.",
+    "raw": "description n."
+  },
+  {
+    "word": "design",
+    "pos": "n., v.",
+    "raw": "design n., v."
+  },
+  {
+    "word": "desk",
+    "pos": "n.",
+    "raw": "desk n."
+  },
+  {
+    "word": "detail",
+    "pos": "n.",
+    "raw": "detail n."
+  },
+  {
+    "word": "dialogue",
+    "pos": "n.",
+    "raw": "dialogue n."
+  },
+  {
+    "word": "dictionary",
+    "pos": "n.",
+    "raw": "dictionary n."
+  },
+  {
+    "word": "die",
+    "pos": "v.",
+    "raw": "die v."
+  },
+  {
+    "word": "diet",
+    "pos": "n.",
+    "raw": "diet n."
+  },
+  {
+    "word": "difference",
+    "pos": "n.",
+    "raw": "difference n."
+  },
+  {
+    "word": "different",
+    "pos": "adj.",
+    "raw": "different adj."
+  },
+  {
+    "word": "difficult",
+    "pos": "adj.",
+    "raw": "difficult adj."
+  },
+  {
+    "word": "dinner",
+    "pos": "n.",
+    "raw": "dinner n."
+  },
+  {
+    "word": "dirty",
+    "pos": "adj.",
+    "raw": "dirty adj."
+  },
+  {
+    "word": "discuss",
+    "pos": "v.",
+    "raw": "discuss v."
+  },
+  {
+    "word": "dish",
+    "pos": "n.",
+    "raw": "dish n."
+  },
+  {
+    "word": "do1",
+    "pos": "v., auxiliary v.",
+    "raw": "do1 v., auxiliary v."
+  },
+  {
+    "word": "doctor",
+    "pos": "n.",
+    "raw": "doctor n."
+  },
+  {
+    "word": "dog",
+    "pos": "n.",
+    "raw": "dog n."
+  },
+  {
+    "word": "dollar",
+    "pos": "n.",
+    "raw": "dollar n."
+  },
+  {
+    "word": "door",
+    "pos": "n.",
+    "raw": "door n."
+  },
+  {
+    "word": "down",
+    "pos": "adv., prep.",
+    "raw": "down adv., prep."
+  },
+  {
+    "word": "downstairs",
+    "pos": "adv.",
+    "raw": "downstairs adv."
+  },
+  {
+    "word": "draw",
+    "pos": "v.",
+    "raw": "draw v."
+  },
+  {
+    "word": "dress",
+    "pos": "n., v.",
+    "raw": "dress n., v."
+  },
+  {
+    "word": "drink",
+    "pos": "n., v.",
+    "raw": "drink n., v."
+  },
+  {
+    "word": "drive",
+    "pos": "v.",
+    "raw": "drive v."
+  },
+  {
+    "word": "driver",
+    "pos": "n.",
+    "raw": "driver n."
+  },
+  {
+    "word": "during",
+    "pos": "prep.",
+    "raw": "during prep."
+  },
+  {
+    "word": "DVD",
+    "pos": "n.",
+    "raw": "DVD n."
+  },
+  {
+    "word": "each",
+    "pos": "det./pron./adv.",
+    "raw": "each det./pron./adv."
+  },
+  {
+    "word": "ear",
+    "pos": "n.",
+    "raw": "ear n."
+  },
+  {
+    "word": "early",
+    "pos": "adj., adv.",
+    "raw": "early adj., adv."
+  },
+  {
+    "word": "east",
+    "pos": "n., adj., adv.",
+    "raw": "east n., adj., adv."
+  },
+  {
+    "word": "easy",
+    "pos": "adj.",
+    "raw": "easy adj."
+  },
+  {
+    "word": "eat",
+    "pos": "v.",
+    "raw": "eat v."
+  },
+  {
+    "word": "egg",
+    "pos": "n.",
+    "raw": "egg n."
+  },
+  {
+    "word": "eight",
+    "pos": "number",
+    "raw": "eight number"
+  },
+  {
+    "word": "eighteen",
+    "pos": "number",
+    "raw": "eighteen number"
+  },
+  {
+    "word": "eighty",
+    "pos": "number",
+    "raw": "eighty number"
+  },
+  {
+    "word": "elephant",
+    "pos": "n.",
+    "raw": "elephant n."
+  },
+  {
+    "word": "eleven",
+    "pos": "number",
+    "raw": "eleven number"
+  },
+  {
+    "word": "else",
+    "pos": "adv.",
+    "raw": "else adv."
+  },
+  {
+    "word": "email",
+    "pos": "n., v.",
+    "raw": "email n., v."
+  },
+  {
+    "word": "end",
+    "pos": "n., v.",
+    "raw": "end n., v."
+  },
+  {
+    "word": "enjoy",
+    "pos": "v.",
+    "raw": "enjoy v."
+  },
+  {
+    "word": "enough",
+    "pos": "det., pron., adv.",
+    "raw": "enough det., pron., adv."
+  },
+  {
+    "word": "euro",
+    "pos": "n. -- 1 of 12 --",
+    "raw": "euro n. -- 1 of 12 --"
+  },
+  {
+    "word": "even",
+    "pos": "adv.",
+    "raw": "even adv."
+  },
+  {
+    "word": "evening",
+    "pos": "n.",
+    "raw": "evening n."
+  },
+  {
+    "word": "event",
+    "pos": "n.",
+    "raw": "event n."
+  },
+  {
+    "word": "ever",
+    "pos": "adv.",
+    "raw": "ever adv."
+  },
+  {
+    "word": "every",
+    "pos": "det.",
+    "raw": "every det."
+  },
+  {
+    "word": "everybody",
+    "pos": "pron.",
+    "raw": "everybody pron."
+  },
+  {
+    "word": "everyone",
+    "pos": "pron.",
+    "raw": "everyone pron."
+  },
+  {
+    "word": "everything",
+    "pos": "pron.",
+    "raw": "everything pron."
+  },
+  {
+    "word": "exam",
+    "pos": "n.",
+    "raw": "exam n."
+  },
+  {
+    "word": "example",
+    "pos": "n.",
+    "raw": "example n."
+  },
+  {
+    "word": "excited",
+    "pos": "adj.",
+    "raw": "excited adj."
+  },
+  {
+    "word": "exciting",
+    "pos": "adj.",
+    "raw": "exciting adj."
+  },
+  {
+    "word": "exercise",
+    "pos": "n., v.",
+    "raw": "exercise n., v."
+  },
+  {
+    "word": "expensive",
+    "pos": "adj.",
+    "raw": "expensive adj."
+  },
+  {
+    "word": "explain",
+    "pos": "v.",
+    "raw": "explain v."
+  },
+  {
+    "word": "extra",
+    "pos": "adj.",
+    "raw": "extra adj."
+  },
+  {
+    "word": "eye",
+    "pos": "n.",
+    "raw": "eye n."
+  },
+  {
+    "word": "face",
+    "pos": "n.",
+    "raw": "face n."
+  },
+  {
+    "word": "fact",
+    "pos": "n.",
+    "raw": "fact n."
+  },
+  {
+    "word": "fall",
+    "pos": "v.",
+    "raw": "fall v."
+  },
+  {
+    "word": "false",
+    "pos": "adj.",
+    "raw": "false adj."
+  },
+  {
+    "word": "family",
+    "pos": "n., adj.",
+    "raw": "family n., adj."
+  },
+  {
+    "word": "famous",
+    "pos": "adj.",
+    "raw": "famous adj."
+  },
+  {
+    "word": "fantastic",
+    "pos": "adj.",
+    "raw": "fantastic adj."
+  },
+  {
+    "word": "far",
+    "pos": "adv.",
+    "raw": "far adv."
+  },
+  {
+    "word": "farm",
+    "pos": "n.",
+    "raw": "farm n."
+  },
+  {
+    "word": "farmer",
+    "pos": "n.",
+    "raw": "farmer n."
+  },
+  {
+    "word": "fast",
+    "pos": "adj., adv.",
+    "raw": "fast adj., adv."
+  },
+  {
+    "word": "fat",
+    "pos": "adj.",
+    "raw": "fat adj."
+  },
+  {
+    "word": "father",
+    "pos": "n.",
+    "raw": "father n."
+  },
+  {
+    "word": "favourite",
+    "pos": "adj., n.",
+    "raw": "favourite adj., n."
+  },
+  {
+    "word": "February",
+    "pos": "n.",
+    "raw": "February n."
+  },
+  {
+    "word": "feel",
+    "pos": "v.",
+    "raw": "feel v."
+  },
+  {
+    "word": "feeling",
+    "pos": "n.",
+    "raw": "feeling n."
+  },
+  {
+    "word": "festival",
+    "pos": "n.",
+    "raw": "festival n."
+  },
+  {
+    "word": "few",
+    "pos": "det./adj., pron.",
+    "raw": "few det./adj., pron."
+  },
+  {
+    "word": "fifteen",
+    "pos": "number",
+    "raw": "fifteen number"
+  },
+  {
+    "word": "fifth",
+    "pos": "number",
+    "raw": "fifth number"
+  },
+  {
+    "word": "fifty",
+    "pos": "number",
+    "raw": "fifty number"
+  },
+  {
+    "word": "fill",
+    "pos": "v.",
+    "raw": "fill v."
+  },
+  {
+    "word": "film",
+    "pos": "n.",
+    "raw": "film n."
+  },
+  {
+    "word": "final",
+    "pos": "adj.",
+    "raw": "final adj."
+  },
+  {
+    "word": "find",
+    "pos": "v.",
+    "raw": "find v."
+  },
+  {
+    "word": "fine",
+    "pos": "adj.",
+    "raw": "fine adj."
+  },
+  {
+    "word": "finish",
+    "pos": "v.",
+    "raw": "finish v."
+  },
+  {
+    "word": "fire",
+    "pos": "n.",
+    "raw": "fire n."
+  },
+  {
+    "word": "first",
+    "pos": "det./number, adv.",
+    "raw": "first det./number, adv."
+  },
+  {
+    "word": "fish",
+    "pos": "n.",
+    "raw": "fish n."
+  },
+  {
+    "word": "five",
+    "pos": "number",
+    "raw": "five number"
+  },
+  {
+    "word": "flat",
+    "pos": "n.",
+    "raw": "flat n."
+  },
+  {
+    "word": "flight",
+    "pos": "n.",
+    "raw": "flight n."
+  },
+  {
+    "word": "floor",
+    "pos": "n.",
+    "raw": "floor n."
+  },
+  {
+    "word": "flower",
+    "pos": "n.",
+    "raw": "flower n."
+  },
+  {
+    "word": "fly",
+    "pos": "v.",
+    "raw": "fly v."
+  },
+  {
+    "word": "follow",
+    "pos": "v.",
+    "raw": "follow v."
+  },
+  {
+    "word": "food",
+    "pos": "n.",
+    "raw": "food n."
+  },
+  {
+    "word": "foot",
+    "pos": "n.",
+    "raw": "foot n."
+  },
+  {
+    "word": "football",
+    "pos": "n.",
+    "raw": "football n."
+  },
+  {
+    "word": "for",
+    "pos": "prep.",
+    "raw": "for prep."
+  },
+  {
+    "word": "forget",
+    "pos": "v.",
+    "raw": "forget v."
+  },
+  {
+    "word": "form",
+    "pos": "n., v.",
+    "raw": "form n., v."
+  },
+  {
+    "word": "forty",
+    "pos": "number",
+    "raw": "forty number"
+  },
+  {
+    "word": "four",
+    "pos": "number",
+    "raw": "four number"
+  },
+  {
+    "word": "fourteen",
+    "pos": "number",
+    "raw": "fourteen number"
+  },
+  {
+    "word": "fourth",
+    "pos": "number",
+    "raw": "fourth number"
+  },
+  {
+    "word": "free",
+    "pos": "adj.",
+    "raw": "free adj."
+  },
+  {
+    "word": "Friday",
+    "pos": "n.",
+    "raw": "Friday n."
+  },
+  {
+    "word": "friend",
+    "pos": "n.",
+    "raw": "friend n."
+  },
+  {
+    "word": "friendly",
+    "pos": "adj.",
+    "raw": "friendly adj."
+  },
+  {
+    "word": "from",
+    "pos": "prep.",
+    "raw": "from prep."
+  },
+  {
+    "word": "front",
+    "pos": "n., adj.",
+    "raw": "front n., adj."
+  },
+  {
+    "word": "fruit",
+    "pos": "n.",
+    "raw": "fruit n."
+  },
+  {
+    "word": "full",
+    "pos": "adj.",
+    "raw": "full adj."
+  },
+  {
+    "word": "fun",
+    "pos": "n.",
+    "raw": "fun n."
+  },
+  {
+    "word": "funny",
+    "pos": "adj.",
+    "raw": "funny adj."
+  },
+  {
+    "word": "future",
+    "pos": "n.",
+    "raw": "future n."
+  },
+  {
+    "word": "game",
+    "pos": "n.",
+    "raw": "game n."
+  },
+  {
+    "word": "garden",
+    "pos": "n.",
+    "raw": "garden n."
+  },
+  {
+    "word": "geography",
+    "pos": "n.",
+    "raw": "geography n."
+  },
+  {
+    "word": "get",
+    "pos": "v.",
+    "raw": "get v."
+  },
+  {
+    "word": "girl",
+    "pos": "n.",
+    "raw": "girl n."
+  },
+  {
+    "word": "girlfriend",
+    "pos": "n.",
+    "raw": "girlfriend n."
+  },
+  {
+    "word": "give",
+    "pos": "v.",
+    "raw": "give v."
+  },
+  {
+    "word": "glass",
+    "pos": "n.",
+    "raw": "glass n."
+  },
+  {
+    "word": "go",
+    "pos": "v.",
+    "raw": "go v."
+  },
+  {
+    "word": "good",
+    "pos": "adj.",
+    "raw": "good adj."
+  },
+  {
+    "word": "goodbye",
+    "pos": "exclam./n.",
+    "raw": "goodbye exclam./n."
+  },
+  {
+    "word": "grandfather",
+    "pos": "n.",
+    "raw": "grandfather n."
+  },
+  {
+    "word": "grandmother",
+    "pos": "n.",
+    "raw": "grandmother n."
+  },
+  {
+    "word": "grandparent",
+    "pos": "n.",
+    "raw": "grandparent n."
+  },
+  {
+    "word": "great",
+    "pos": "adj.",
+    "raw": "great adj."
+  },
+  {
+    "word": "green",
+    "pos": "adj., n.",
+    "raw": "green adj., n."
+  },
+  {
+    "word": "grey",
+    "pos": "adj., n.",
+    "raw": "grey adj., n."
+  },
+  {
+    "word": "group",
+    "pos": "n.",
+    "raw": "group n."
+  },
+  {
+    "word": "grow",
+    "pos": "v.",
+    "raw": "grow v."
+  },
+  {
+    "word": "guess",
+    "pos": "v., n.",
+    "raw": "guess v., n."
+  },
+  {
+    "word": "guitar",
+    "pos": "n.",
+    "raw": "guitar n."
+  },
+  {
+    "word": "gym",
+    "pos": "n.",
+    "raw": "gym n."
+  },
+  {
+    "word": "hair",
+    "pos": "n.",
+    "raw": "hair n."
+  },
+  {
+    "word": "half",
+    "pos": "n., det./pron.",
+    "raw": "half n., det./pron."
+  },
+  {
+    "word": "hand",
+    "pos": "n.",
+    "raw": "hand n."
+  },
+  {
+    "word": "happen",
+    "pos": "v.",
+    "raw": "happen v."
+  },
+  {
+    "word": "happy",
+    "pos": "adj.",
+    "raw": "happy adj."
+  },
+  {
+    "word": "hard",
+    "pos": "adj., adv.",
+    "raw": "hard adj., adv."
+  },
+  {
+    "word": "hat",
+    "pos": "n.",
+    "raw": "hat n."
+  },
+  {
+    "word": "hate",
+    "pos": "v.",
+    "raw": "hate v."
+  },
+  {
+    "word": "have",
+    "pos": "v.",
+    "raw": "have v."
+  },
+  {
+    "word": "have to",
+    "pos": "modal v.",
+    "raw": "have to modal v."
+  },
+  {
+    "word": "he",
+    "pos": "pron.",
+    "raw": "he pron."
+  },
+  {
+    "word": "head",
+    "pos": "n.",
+    "raw": "head n."
+  },
+  {
+    "word": "health",
+    "pos": "n.",
+    "raw": "health n."
+  },
+  {
+    "word": "healthy",
+    "pos": "adj.",
+    "raw": "healthy adj."
+  },
+  {
+    "word": "hear",
+    "pos": "v.",
+    "raw": "hear v."
+  },
+  {
+    "word": "hello",
+    "pos": "exclam./n.",
+    "raw": "hello exclam./n."
+  },
+  {
+    "word": "help",
+    "pos": "v., n.",
+    "raw": "help v., n."
+  },
+  {
+    "word": "her",
+    "pos": "pron., det.",
+    "raw": "her pron., det."
+  },
+  {
+    "word": "here",
+    "pos": "adv.",
+    "raw": "here adv."
+  },
+  {
+    "word": "hey",
+    "pos": "exclam.",
+    "raw": "hey exclam."
+  },
+  {
+    "word": "hi",
+    "pos": "exclam.",
+    "raw": "hi exclam."
+  },
+  {
+    "word": "high",
+    "pos": "adj.",
+    "raw": "high adj."
+  },
+  {
+    "word": "him",
+    "pos": "pron.",
+    "raw": "him pron."
+  },
+  {
+    "word": "his",
+    "pos": "det.",
+    "raw": "his det."
+  },
+  {
+    "word": "history",
+    "pos": "n.",
+    "raw": "history n."
+  },
+  {
+    "word": "hobby",
+    "pos": "n.",
+    "raw": "hobby n."
+  },
+  {
+    "word": "holiday",
+    "pos": "n.",
+    "raw": "holiday n."
+  },
+  {
+    "word": "home",
+    "pos": "n., adv.",
+    "raw": "home n., adv."
+  },
+  {
+    "word": "homework",
+    "pos": "n.",
+    "raw": "homework n."
+  },
+  {
+    "word": "hope",
+    "pos": "v.",
+    "raw": "hope v."
+  },
+  {
+    "word": "horse",
+    "pos": "n.",
+    "raw": "horse n."
+  },
+  {
+    "word": "hospital",
+    "pos": "n.",
+    "raw": "hospital n."
+  },
+  {
+    "word": "hot",
+    "pos": "adj.",
+    "raw": "hot adj."
+  },
+  {
+    "word": "hotel",
+    "pos": "n.",
+    "raw": "hotel n."
+  },
+  {
+    "word": "hour",
+    "pos": "n.",
+    "raw": "hour n."
+  },
+  {
+    "word": "house",
+    "pos": "n.",
+    "raw": "house n."
+  },
+  {
+    "word": "how",
+    "pos": "adv.",
+    "raw": "how adv."
+  },
+  {
+    "word": "however",
+    "pos": "adv.",
+    "raw": "however adv."
+  },
+  {
+    "word": "hundred",
+    "pos": "number",
+    "raw": "hundred number"
+  },
+  {
+    "word": "hungry",
+    "pos": "adj.",
+    "raw": "hungry adj."
+  },
+  {
+    "word": "husband",
+    "pos": "n.",
+    "raw": "husband n."
+  },
+  {
+    "word": "I",
+    "pos": "pron.",
+    "raw": "I pron."
+  },
+  {
+    "word": "ice",
+    "pos": "n.",
+    "raw": "ice n."
+  },
+  {
+    "word": "ice cream",
+    "pos": "n.",
+    "raw": "ice cream n."
+  },
+  {
+    "word": "idea",
+    "pos": "n.",
+    "raw": "idea n."
+  },
+  {
+    "word": "if",
+    "pos": "conj.",
+    "raw": "if conj."
+  },
+  {
+    "word": "imagine",
+    "pos": "v.",
+    "raw": "imagine v."
+  },
+  {
+    "word": "important",
+    "pos": "adj.",
+    "raw": "important adj."
+  },
+  {
+    "word": "improve",
+    "pos": "v.",
+    "raw": "improve v."
+  },
+  {
+    "word": "in",
+    "pos": "prep., adv.",
+    "raw": "in prep., adv."
+  },
+  {
+    "word": "include",
+    "pos": "v.",
+    "raw": "include v."
+  },
+  {
+    "word": "information",
+    "pos": "n.",
+    "raw": "information n."
+  },
+  {
+    "word": "interest",
+    "pos": "n., v.",
+    "raw": "interest n., v."
+  },
+  {
+    "word": "interested",
+    "pos": "adj.",
+    "raw": "interested adj."
+  },
+  {
+    "word": "interesting",
+    "pos": "adj.",
+    "raw": "interesting adj."
+  },
+  {
+    "word": "internet",
+    "pos": "n.",
+    "raw": "internet n."
+  },
+  {
+    "word": "interview",
+    "pos": "n., v.",
+    "raw": "interview n., v."
+  },
+  {
+    "word": "into",
+    "pos": "prep.",
+    "raw": "into prep."
+  },
+  {
+    "word": "introduce",
+    "pos": "v.",
+    "raw": "introduce v."
+  },
+  {
+    "word": "island",
+    "pos": "n.",
+    "raw": "island n."
+  },
+  {
+    "word": "it",
+    "pos": "pron.",
+    "raw": "it pron."
+  },
+  {
+    "word": "its",
+    "pos": "det.",
+    "raw": "its det."
+  },
+  {
+    "word": "jacket",
+    "pos": "n.",
+    "raw": "jacket n."
+  },
+  {
+    "word": "January",
+    "pos": "n.",
+    "raw": "January n."
+  },
+  {
+    "word": "jeans",
+    "pos": "n.",
+    "raw": "jeans n."
+  },
+  {
+    "word": "job",
+    "pos": "n.",
+    "raw": "job n."
+  },
+  {
+    "word": "join",
+    "pos": "v.",
+    "raw": "join v."
+  },
+  {
+    "word": "journey",
+    "pos": "n.",
+    "raw": "journey n."
+  },
+  {
+    "word": "juice",
+    "pos": "n.",
+    "raw": "juice n."
+  },
+  {
+    "word": "July",
+    "pos": "n.",
+    "raw": "July n."
+  },
+  {
+    "word": "June",
+    "pos": "n.",
+    "raw": "June n."
+  },
+  {
+    "word": "just",
+    "pos": "adv.",
+    "raw": "just adv."
+  },
+  {
+    "word": "keep",
+    "pos": "v.",
+    "raw": "keep v."
+  },
+  {
+    "word": "key",
+    "pos": "n., adj.",
+    "raw": "key n., adj."
+  },
+  {
+    "word": "kilometre",
+    "pos": "n.",
+    "raw": "kilometre n."
+  },
+  {
+    "word": "kind (type)",
+    "pos": "n.",
+    "raw": "kind (type) n."
+  },
+  {
+    "word": "kitchen",
+    "pos": "n.",
+    "raw": "kitchen n."
+  },
+  {
+    "word": "know",
+    "pos": "v.",
+    "raw": "know v."
+  },
+  {
+    "word": "land",
+    "pos": "n.",
+    "raw": "land n."
+  },
+  {
+    "word": "language",
+    "pos": "n.",
+    "raw": "language n."
+  },
+  {
+    "word": "large",
+    "pos": "adj.",
+    "raw": "large adj."
+  },
+  {
+    "word": "last1 (final)",
+    "pos": "det.",
+    "raw": "last1 (final) det."
+  },
+  {
+    "word": "late",
+    "pos": "adj., adv.",
+    "raw": "late adj., adv."
+  },
+  {
+    "word": "later",
+    "pos": "adv.",
+    "raw": "later adv."
+  },
+  {
+    "word": "laugh",
+    "pos": "v., n.",
+    "raw": "laugh v., n."
+  },
+  {
+    "word": "learn",
+    "pos": "v.",
+    "raw": "learn v."
+  },
+  {
+    "word": "leave",
+    "pos": "v.",
+    "raw": "leave v."
+  },
+  {
+    "word": "left",
+    "pos": "adj., adv., n.",
+    "raw": "left adj., adv., n."
+  },
+  {
+    "word": "leg",
+    "pos": "n.",
+    "raw": "leg n."
+  },
+  {
+    "word": "lesson",
+    "pos": "n.",
+    "raw": "lesson n."
+  },
+  {
+    "word": "let",
+    "pos": "v.",
+    "raw": "let v."
+  },
+  {
+    "word": "letter",
+    "pos": "n.",
+    "raw": "letter n."
+  },
+  {
+    "word": "library",
+    "pos": "n.",
+    "raw": "library n."
+  },
+  {
+    "word": "lie1",
+    "pos": "v.",
+    "raw": "lie1 v."
+  },
+  {
+    "word": "life",
+    "pos": "n.",
+    "raw": "life n."
+  },
+  {
+    "word": "light (from the sun/a lamp)",
+    "pos": "n.,",
+    "raw": "light (from the sun/a lamp) n.,"
+  },
+  {
+    "word": "",
+    "pos": "adj.",
+    "raw": "adj."
+  },
+  {
+    "word": "like (similar)",
+    "pos": "prep.",
+    "raw": "like (similar) prep."
+  },
+  {
+    "word": "like (find sb/sth pleasant)",
+    "pos": "v.",
+    "raw": "like (find sb/sth pleasant) v."
+  },
+  {
+    "word": "line",
+    "pos": "n.",
+    "raw": "line n."
+  },
+  {
+    "word": "lion",
+    "pos": "n.",
+    "raw": "lion n."
+  },
+  {
+    "word": "list",
+    "pos": "n., v.",
+    "raw": "list n., v."
+  },
+  {
+    "word": "listen",
+    "pos": "v.",
+    "raw": "listen v."
+  },
+  {
+    "word": "little",
+    "pos": "adj., det./pron.",
+    "raw": "little adj., det./pron."
+  },
+  {
+    "word": "live1",
+    "pos": "v.",
+    "raw": "live1 v."
+  },
+  {
+    "word": "local",
+    "pos": "adj.",
+    "raw": "local adj."
+  },
+  {
+    "word": "long1",
+    "pos": "adj., adv.",
+    "raw": "long1 adj., adv."
+  },
+  {
+    "word": "look",
+    "pos": "v.",
+    "raw": "look v."
+  },
+  {
+    "word": "lose",
+    "pos": "v.",
+    "raw": "lose v."
+  },
+  {
+    "word": "lot",
+    "pos": "pron., det., adv.",
+    "raw": "lot pron., det., adv."
+  },
+  {
+    "word": "love",
+    "pos": "n., v.",
+    "raw": "love n., v."
+  },
+  {
+    "word": "lunch",
+    "pos": "n.",
+    "raw": "lunch n."
+  },
+  {
+    "word": "machine",
+    "pos": "n.",
+    "raw": "machine n."
+  },
+  {
+    "word": "magazine",
+    "pos": "n.",
+    "raw": "magazine n."
+  },
+  {
+    "word": "main",
+    "pos": "adj.",
+    "raw": "main adj."
+  },
+  {
+    "word": "make",
+    "pos": "v.",
+    "raw": "make v."
+  },
+  {
+    "word": "man",
+    "pos": "n.",
+    "raw": "man n."
+  },
+  {
+    "word": "many",
+    "pos": "det./pron.",
+    "raw": "many det./pron."
+  },
+  {
+    "word": "map",
+    "pos": "n.",
+    "raw": "map n."
+  },
+  {
+    "word": "March",
+    "pos": "n.",
+    "raw": "March n."
+  },
+  {
+    "word": "market",
+    "pos": "n.",
+    "raw": "market n."
+  },
+  {
+    "word": "married",
+    "pos": "adj.",
+    "raw": "married adj."
+  },
+  {
+    "word": "match (contest/correspond)",
+    "pos": "n., v.",
+    "raw": "match (contest/correspond) n., v."
+  },
+  {
+    "word": "May",
+    "pos": "n.",
+    "raw": "May n."
+  },
+  {
+    "word": "maybe",
+    "pos": "adv.",
+    "raw": "maybe adv."
+  },
+  {
+    "word": "me",
+    "pos": "pron.",
+    "raw": "me pron."
+  },
+  {
+    "word": "meal",
+    "pos": "n.",
+    "raw": "meal n."
+  },
+  {
+    "word": "mean",
+    "pos": "v.",
+    "raw": "mean v."
+  },
+  {
+    "word": "meaning",
+    "pos": "n.",
+    "raw": "meaning n."
+  },
+  {
+    "word": "meat",
+    "pos": "n.",
+    "raw": "meat n."
+  },
+  {
+    "word": "meet",
+    "pos": "v.",
+    "raw": "meet v."
+  },
+  {
+    "word": "meeting",
+    "pos": "n.",
+    "raw": "meeting n."
+  },
+  {
+    "word": "member",
+    "pos": "n.",
+    "raw": "member n."
+  },
+  {
+    "word": "menu",
+    "pos": "n.",
+    "raw": "menu n."
+  },
+  {
+    "word": "message",
+    "pos": "n.",
+    "raw": "message n."
+  },
+  {
+    "word": "metre",
+    "pos": "n.",
+    "raw": "metre n."
+  },
+  {
+    "word": "midnight",
+    "pos": "n.",
+    "raw": "midnight n."
+  },
+  {
+    "word": "mile",
+    "pos": "n.",
+    "raw": "mile n."
+  },
+  {
+    "word": "milk",
+    "pos": "n.",
+    "raw": "milk n."
+  },
+  {
+    "word": "million",
+    "pos": "number",
+    "raw": "million number"
+  },
+  {
+    "word": "minute1",
+    "pos": "n.",
+    "raw": "minute1 n."
+  },
+  {
+    "word": "miss",
+    "pos": "v.",
+    "raw": "miss v."
+  },
+  {
+    "word": "mistake",
+    "pos": "n.",
+    "raw": "mistake n."
+  },
+  {
+    "word": "model",
+    "pos": "n.",
+    "raw": "model n."
+  },
+  {
+    "word": "modern",
+    "pos": "adj.",
+    "raw": "modern adj."
+  },
+  {
+    "word": "moment",
+    "pos": "n.",
+    "raw": "moment n."
+  },
+  {
+    "word": "Monday",
+    "pos": "n.",
+    "raw": "Monday n."
+  },
+  {
+    "word": "money",
+    "pos": "n.",
+    "raw": "money n."
+  },
+  {
+    "word": "month",
+    "pos": "n.",
+    "raw": "month n."
+  },
+  {
+    "word": "more",
+    "pos": "det./pron., adv.",
+    "raw": "more det./pron., adv."
+  },
+  {
+    "word": "morning",
+    "pos": "n.",
+    "raw": "morning n."
+  },
+  {
+    "word": "most",
+    "pos": "det./pron., adv.",
+    "raw": "most det./pron., adv."
+  },
+  {
+    "word": "mother",
+    "pos": "n.",
+    "raw": "mother n."
+  },
+  {
+    "word": "mountain",
+    "pos": "n.",
+    "raw": "mountain n."
+  },
+  {
+    "word": "mouse",
+    "pos": "n.",
+    "raw": "mouse n."
+  },
+  {
+    "word": "mouth",
+    "pos": "n.",
+    "raw": "mouth n."
+  },
+  {
+    "word": "move",
+    "pos": "v.",
+    "raw": "move v."
+  },
+  {
+    "word": "movie",
+    "pos": "n.",
+    "raw": "movie n."
+  },
+  {
+    "word": "much",
+    "pos": "det./pron., adv.",
+    "raw": "much det./pron., adv."
+  },
+  {
+    "word": "mum",
+    "pos": "n.",
+    "raw": "mum n."
+  },
+  {
+    "word": "museum",
+    "pos": "n.",
+    "raw": "museum n."
+  },
+  {
+    "word": "music",
+    "pos": "n.",
+    "raw": "music n."
+  },
+  {
+    "word": "must",
+    "pos": "modal v.",
+    "raw": "must modal v."
+  },
+  {
+    "word": "my",
+    "pos": "det.",
+    "raw": "my det."
+  },
+  {
+    "word": "name",
+    "pos": "n., v.",
+    "raw": "name n., v."
+  },
+  {
+    "word": "natural",
+    "pos": "adj.",
+    "raw": "natural adj."
+  },
+  {
+    "word": "near",
+    "pos": "prep., adj., adv.",
+    "raw": "near prep., adj., adv."
+  },
+  {
+    "word": "need",
+    "pos": "v.",
+    "raw": "need v."
+  },
+  {
+    "word": "negative",
+    "pos": "adj.",
+    "raw": "negative adj."
+  },
+  {
+    "word": "neighbour",
+    "pos": "n.",
+    "raw": "neighbour n."
+  },
+  {
+    "word": "never",
+    "pos": "adv.",
+    "raw": "never adv."
+  },
+  {
+    "word": "new",
+    "pos": "adj.",
+    "raw": "new adj."
+  },
+  {
+    "word": "news",
+    "pos": "n.",
+    "raw": "news n."
+  },
+  {
+    "word": "newspaper",
+    "pos": "n.",
+    "raw": "newspaper n."
+  },
+  {
+    "word": "next",
+    "pos": "adj., adv.",
+    "raw": "next adj., adv."
+  },
+  {
+    "word": "next to",
+    "pos": "prep.",
+    "raw": "next to prep."
+  },
+  {
+    "word": "nice",
+    "pos": "adj.",
+    "raw": "nice adj."
+  },
+  {
+    "word": "night",
+    "pos": "n.",
+    "raw": "night n."
+  },
+  {
+    "word": "nine",
+    "pos": "number",
+    "raw": "nine number"
+  },
+  {
+    "word": "nineteen",
+    "pos": "number",
+    "raw": "nineteen number"
+  },
+  {
+    "word": "ninety",
+    "pos": "number",
+    "raw": "ninety number"
+  },
+  {
+    "word": "no",
+    "pos": "exclam., det. -- 2 of 12 --",
+    "raw": "no exclam., det. -- 2 of 12 --"
+  },
+  {
+    "word": "no one",
+    "pos": "pron.",
+    "raw": "no one pron."
+  },
+  {
+    "word": "nobody",
+    "pos": "pron.",
+    "raw": "nobody pron."
+  },
+  {
+    "word": "north",
+    "pos": "n., adj., adv.",
+    "raw": "north n., adj., adv."
+  },
+  {
+    "word": "nose",
+    "pos": "n.",
+    "raw": "nose n."
+  },
+  {
+    "word": "not",
+    "pos": "adv.",
+    "raw": "not adv."
+  },
+  {
+    "word": "note",
+    "pos": "n.",
+    "raw": "note n."
+  },
+  {
+    "word": "nothing",
+    "pos": "pron.",
+    "raw": "nothing pron."
+  },
+  {
+    "word": "November",
+    "pos": "n.",
+    "raw": "November n."
+  },
+  {
+    "word": "now",
+    "pos": "adv.",
+    "raw": "now adv."
+  },
+  {
+    "word": "",
+    "pos": "number n.",
+    "raw": "number n."
+  },
+  {
+    "word": "nurse",
+    "pos": "n.",
+    "raw": "nurse n."
+  },
+  {
+    "word": "object",
+    "pos": "n.",
+    "raw": "object n."
+  },
+  {
+    "word": "o’clock",
+    "pos": "adv.",
+    "raw": "o’clock adv."
+  },
+  {
+    "word": "October",
+    "pos": "n.",
+    "raw": "October n."
+  },
+  {
+    "word": "of",
+    "pos": "prep.",
+    "raw": "of prep."
+  },
+  {
+    "word": "off",
+    "pos": "adv., prep.",
+    "raw": "off adv., prep."
+  },
+  {
+    "word": "office",
+    "pos": "n.",
+    "raw": "office n."
+  },
+  {
+    "word": "often",
+    "pos": "adv.",
+    "raw": "often adv."
+  },
+  {
+    "word": "oh",
+    "pos": "exclam.",
+    "raw": "oh exclam."
+  },
+  {
+    "word": "OK",
+    "pos": "exclam., adj./adv.",
+    "raw": "OK exclam., adj./adv."
+  },
+  {
+    "word": "old",
+    "pos": "adj.",
+    "raw": "old adj."
+  },
+  {
+    "word": "on",
+    "pos": "prep., adv.",
+    "raw": "on prep., adv."
+  },
+  {
+    "word": "once",
+    "pos": "adv.",
+    "raw": "once adv."
+  },
+  {
+    "word": "one",
+    "pos": "number/det., pron.",
+    "raw": "one number/det., pron."
+  },
+  {
+    "word": "onion",
+    "pos": "n.",
+    "raw": "onion n."
+  },
+  {
+    "word": "online",
+    "pos": "adj., adv.",
+    "raw": "online adj., adv."
+  },
+  {
+    "word": "only",
+    "pos": "adj., adv.",
+    "raw": "only adj., adv."
+  },
+  {
+    "word": "open",
+    "pos": "adj., v.",
+    "raw": "open adj., v."
+  },
+  {
+    "word": "opinion",
+    "pos": "n.",
+    "raw": "opinion n."
+  },
+  {
+    "word": "opposite",
+    "pos": "adj., n., prep., adv.",
+    "raw": "opposite adj., n., prep., adv."
+  },
+  {
+    "word": "or",
+    "pos": "conj.",
+    "raw": "or conj."
+  },
+  {
+    "word": "orange",
+    "pos": "n., adj.",
+    "raw": "orange n., adj."
+  },
+  {
+    "word": "order",
+    "pos": "n., v.",
+    "raw": "order n., v."
+  },
+  {
+    "word": "other",
+    "pos": "adj./pron.",
+    "raw": "other adj./pron."
+  },
+  {
+    "word": "our",
+    "pos": "det.",
+    "raw": "our det."
+  },
+  {
+    "word": "out",
+    "pos": "adv./prep.",
+    "raw": "out adv./prep."
+  },
+  {
+    "word": "outside",
+    "pos": "adv.",
+    "raw": "outside adv."
+  },
+  {
+    "word": "over",
+    "pos": "prep., adv.",
+    "raw": "over prep., adv."
+  },
+  {
+    "word": "own",
+    "pos": "adj./pron.",
+    "raw": "own adj./pron."
+  },
+  {
+    "word": "page",
+    "pos": "n.",
+    "raw": "page n."
+  },
+  {
+    "word": "paint",
+    "pos": "v., n.",
+    "raw": "paint v., n."
+  },
+  {
+    "word": "painting",
+    "pos": "n.",
+    "raw": "painting n."
+  },
+  {
+    "word": "pair",
+    "pos": "n.",
+    "raw": "pair n."
+  },
+  {
+    "word": "paper",
+    "pos": "n.",
+    "raw": "paper n."
+  },
+  {
+    "word": "paragraph",
+    "pos": "n.",
+    "raw": "paragraph n."
+  },
+  {
+    "word": "parent",
+    "pos": "n.",
+    "raw": "parent n."
+  },
+  {
+    "word": "park",
+    "pos": "n., v.",
+    "raw": "park n., v."
+  },
+  {
+    "word": "part",
+    "pos": "n.",
+    "raw": "part n."
+  },
+  {
+    "word": "partner",
+    "pos": "n.",
+    "raw": "partner n."
+  },
+  {
+    "word": "party",
+    "pos": "n.",
+    "raw": "party n."
+  },
+  {
+    "word": "passport",
+    "pos": "n.",
+    "raw": "passport n."
+  },
+  {
+    "word": "past",
+    "pos": "adj., n., prep.",
+    "raw": "past adj., n., prep."
+  },
+  {
+    "word": "pay",
+    "pos": "v.",
+    "raw": "pay v."
+  },
+  {
+    "word": "pen",
+    "pos": "n.",
+    "raw": "pen n."
+  },
+  {
+    "word": "pencil",
+    "pos": "n.",
+    "raw": "pencil n."
+  },
+  {
+    "word": "people",
+    "pos": "n.",
+    "raw": "people n."
+  },
+  {
+    "word": "pepper",
+    "pos": "n.",
+    "raw": "pepper n."
+  },
+  {
+    "word": "perfect",
+    "pos": "adj.",
+    "raw": "perfect adj."
+  },
+  {
+    "word": "period",
+    "pos": "n.",
+    "raw": "period n."
+  },
+  {
+    "word": "person",
+    "pos": "n.",
+    "raw": "person n."
+  },
+  {
+    "word": "personal",
+    "pos": "adj.",
+    "raw": "personal adj."
+  },
+  {
+    "word": "phone",
+    "pos": "n., v.",
+    "raw": "phone n., v."
+  },
+  {
+    "word": "photo",
+    "pos": "n.",
+    "raw": "photo n."
+  },
+  {
+    "word": "photograph",
+    "pos": "n.",
+    "raw": "photograph n."
+  },
+  {
+    "word": "phrase",
+    "pos": "n.",
+    "raw": "phrase n."
+  },
+  {
+    "word": "piano",
+    "pos": "n.",
+    "raw": "piano n."
+  },
+  {
+    "word": "picture",
+    "pos": "n.",
+    "raw": "picture n."
+  },
+  {
+    "word": "piece",
+    "pos": "n.",
+    "raw": "piece n."
+  },
+  {
+    "word": "pig",
+    "pos": "n.",
+    "raw": "pig n."
+  },
+  {
+    "word": "pink",
+    "pos": "adj., n.",
+    "raw": "pink adj., n."
+  },
+  {
+    "word": "place",
+    "pos": "n.",
+    "raw": "place n."
+  },
+  {
+    "word": "plan",
+    "pos": "n., v.",
+    "raw": "plan n., v."
+  },
+  {
+    "word": "plane",
+    "pos": "n.",
+    "raw": "plane n."
+  },
+  {
+    "word": "plant",
+    "pos": "n.",
+    "raw": "plant n."
+  },
+  {
+    "word": "play",
+    "pos": "v., n.",
+    "raw": "play v., n."
+  },
+  {
+    "word": "player",
+    "pos": "n.",
+    "raw": "player n."
+  },
+  {
+    "word": "please",
+    "pos": "exclam.",
+    "raw": "please exclam."
+  },
+  {
+    "word": "point",
+    "pos": "n.",
+    "raw": "point n."
+  },
+  {
+    "word": "police",
+    "pos": "n.",
+    "raw": "police n."
+  },
+  {
+    "word": "policeman",
+    "pos": "n.",
+    "raw": "policeman n."
+  },
+  {
+    "word": "pool",
+    "pos": "n.",
+    "raw": "pool n."
+  },
+  {
+    "word": "poor",
+    "pos": "adj.",
+    "raw": "poor adj."
+  },
+  {
+    "word": "popular",
+    "pos": "adj.",
+    "raw": "popular adj."
+  },
+  {
+    "word": "positive",
+    "pos": "adj.",
+    "raw": "positive adj."
+  },
+  {
+    "word": "possible",
+    "pos": "adj.",
+    "raw": "possible adj."
+  },
+  {
+    "word": "post",
+    "pos": "n., v.",
+    "raw": "post n., v."
+  },
+  {
+    "word": "potato",
+    "pos": "n.",
+    "raw": "potato n."
+  },
+  {
+    "word": "pound",
+    "pos": "n.",
+    "raw": "pound n."
+  },
+  {
+    "word": "practice",
+    "pos": "n.",
+    "raw": "practice n."
+  },
+  {
+    "word": "practise",
+    "pos": "v.",
+    "raw": "practise v."
+  },
+  {
+    "word": "prefer",
+    "pos": "v.",
+    "raw": "prefer v."
+  },
+  {
+    "word": "prepare",
+    "pos": "v.",
+    "raw": "prepare v."
+  },
+  {
+    "word": "present",
+    "pos": "adj., n.",
+    "raw": "present adj., n."
+  },
+  {
+    "word": "pretty",
+    "pos": "adj., adv.",
+    "raw": "pretty adj., adv."
+  },
+  {
+    "word": "price",
+    "pos": "n.",
+    "raw": "price n."
+  },
+  {
+    "word": "probably",
+    "pos": "adv.",
+    "raw": "probably adv."
+  },
+  {
+    "word": "problem",
+    "pos": "n.",
+    "raw": "problem n."
+  },
+  {
+    "word": "product",
+    "pos": "n.",
+    "raw": "product n."
+  },
+  {
+    "word": "programme",
+    "pos": "n.",
+    "raw": "programme n."
+  },
+  {
+    "word": "project",
+    "pos": "n.",
+    "raw": "project n."
+  },
+  {
+    "word": "purple",
+    "pos": "adj., n.",
+    "raw": "purple adj., n."
+  },
+  {
+    "word": "put",
+    "pos": "v.",
+    "raw": "put v."
+  },
+  {
+    "word": "quarter",
+    "pos": "n.",
+    "raw": "quarter n."
+  },
+  {
+    "word": "question",
+    "pos": "n.",
+    "raw": "question n."
+  },
+  {
+    "word": "quick",
+    "pos": "adj.",
+    "raw": "quick adj."
+  },
+  {
+    "word": "quickly",
+    "pos": "adv.",
+    "raw": "quickly adv."
+  },
+  {
+    "word": "quiet",
+    "pos": "adj.",
+    "raw": "quiet adj."
+  },
+  {
+    "word": "quite",
+    "pos": "adv.",
+    "raw": "quite adv."
+  },
+  {
+    "word": "radio",
+    "pos": "n.",
+    "raw": "radio n."
+  },
+  {
+    "word": "rain",
+    "pos": "n., v.",
+    "raw": "rain n., v."
+  },
+  {
+    "word": "read",
+    "pos": "v.",
+    "raw": "read v."
+  },
+  {
+    "word": "reader",
+    "pos": "n.",
+    "raw": "reader n."
+  },
+  {
+    "word": "reading",
+    "pos": "n.",
+    "raw": "reading n."
+  },
+  {
+    "word": "ready",
+    "pos": "adj.",
+    "raw": "ready adj."
+  },
+  {
+    "word": "real",
+    "pos": "adj.",
+    "raw": "real adj."
+  },
+  {
+    "word": "really",
+    "pos": "adv.",
+    "raw": "really adv."
+  },
+  {
+    "word": "reason",
+    "pos": "n.",
+    "raw": "reason n."
+  },
+  {
+    "word": "red",
+    "pos": "adj., n.",
+    "raw": "red adj., n."
+  },
+  {
+    "word": "relax",
+    "pos": "v.",
+    "raw": "relax v."
+  },
+  {
+    "word": "remember",
+    "pos": "v.",
+    "raw": "remember v."
+  },
+  {
+    "word": "repeat",
+    "pos": "v.",
+    "raw": "repeat v."
+  },
+  {
+    "word": "report",
+    "pos": "n.",
+    "raw": "report n."
+  },
+  {
+    "word": "restaurant",
+    "pos": "n.",
+    "raw": "restaurant n."
+  },
+  {
+    "word": "result",
+    "pos": "n.",
+    "raw": "result n."
+  },
+  {
+    "word": "return",
+    "pos": "v., n.",
+    "raw": "return v., n."
+  },
+  {
+    "word": "rice",
+    "pos": "n.",
+    "raw": "rice n."
+  },
+  {
+    "word": "rich",
+    "pos": "adj.",
+    "raw": "rich adj."
+  },
+  {
+    "word": "ride",
+    "pos": "v.",
+    "raw": "ride v."
+  },
+  {
+    "word": "right",
+    "pos": "adj., adv., n.",
+    "raw": "right adj., adv., n."
+  },
+  {
+    "word": "river",
+    "pos": "n.",
+    "raw": "river n."
+  },
+  {
+    "word": "road",
+    "pos": "n.",
+    "raw": "road n."
+  },
+  {
+    "word": "room",
+    "pos": "n.",
+    "raw": "room n."
+  },
+  {
+    "word": "routine",
+    "pos": "n.",
+    "raw": "routine n."
+  },
+  {
+    "word": "rule",
+    "pos": "n.",
+    "raw": "rule n."
+  },
+  {
+    "word": "run",
+    "pos": "v.",
+    "raw": "run v."
+  },
+  {
+    "word": "sad",
+    "pos": "adj.",
+    "raw": "sad adj."
+  },
+  {
+    "word": "salad",
+    "pos": "n.",
+    "raw": "salad n."
+  },
+  {
+    "word": "salt",
+    "pos": "n.",
+    "raw": "salt n."
+  },
+  {
+    "word": "same",
+    "pos": "adj., pron., adv.",
+    "raw": "same adj., pron., adv."
+  },
+  {
+    "word": "sandwich",
+    "pos": "n.",
+    "raw": "sandwich n."
+  },
+  {
+    "word": "Saturday",
+    "pos": "n.",
+    "raw": "Saturday n."
+  },
+  {
+    "word": "say",
+    "pos": "v.",
+    "raw": "say v."
+  },
+  {
+    "word": "school",
+    "pos": "n.",
+    "raw": "school n."
+  },
+  {
+    "word": "science",
+    "pos": "n.",
+    "raw": "science n."
+  },
+  {
+    "word": "scientist",
+    "pos": "n.",
+    "raw": "scientist n."
+  },
+  {
+    "word": "sea",
+    "pos": "n.",
+    "raw": "sea n."
+  },
+  {
+    "word": "second1 (next after the first)",
+    "pos": "det./",
+    "raw": "second1 (next after the first) det./"
+  },
+  {
+    "word": "",
+    "pos": "number",
+    "raw": "number"
+  },
+  {
+    "word": "second1 (unit of time)",
+    "pos": "n.",
+    "raw": "second1 (unit of time) n."
+  },
+  {
+    "word": "section",
+    "pos": "n.",
+    "raw": "section n."
+  },
+  {
+    "word": "see",
+    "pos": "v.",
+    "raw": "see v."
+  },
+  {
+    "word": "sell",
+    "pos": "v.",
+    "raw": "sell v."
+  },
+  {
+    "word": "send",
+    "pos": "v.",
+    "raw": "send v."
+  },
+  {
+    "word": "sentence",
+    "pos": "n.",
+    "raw": "sentence n."
+  },
+  {
+    "word": "September",
+    "pos": "n.",
+    "raw": "September n."
+  },
+  {
+    "word": "seven",
+    "pos": "number",
+    "raw": "seven number"
+  },
+  {
+    "word": "seventeen",
+    "pos": "number",
+    "raw": "seventeen number"
+  },
+  {
+    "word": "seventy",
+    "pos": "number",
+    "raw": "seventy number"
+  },
+  {
+    "word": "share",
+    "pos": "v.",
+    "raw": "share v."
+  },
+  {
+    "word": "she",
+    "pos": "pron.",
+    "raw": "she pron."
+  },
+  {
+    "word": "sheep",
+    "pos": "n.",
+    "raw": "sheep n."
+  },
+  {
+    "word": "shirt",
+    "pos": "n.",
+    "raw": "shirt n."
+  },
+  {
+    "word": "shoe",
+    "pos": "n.",
+    "raw": "shoe n."
+  },
+  {
+    "word": "shop",
+    "pos": "n., v.",
+    "raw": "shop n., v."
+  },
+  {
+    "word": "shopping",
+    "pos": "n.",
+    "raw": "shopping n."
+  },
+  {
+    "word": "short",
+    "pos": "adj.",
+    "raw": "short adj."
+  },
+  {
+    "word": "should",
+    "pos": "modal v.",
+    "raw": "should modal v."
+  },
+  {
+    "word": "show",
+    "pos": "v., n.",
+    "raw": "show v., n."
+  },
+  {
+    "word": "shower",
+    "pos": "n.",
+    "raw": "shower n."
+  },
+  {
+    "word": "sick",
+    "pos": "adj.",
+    "raw": "sick adj."
+  },
+  {
+    "word": "similar",
+    "pos": "adj.",
+    "raw": "similar adj."
+  },
+  {
+    "word": "sing",
+    "pos": "v.",
+    "raw": "sing v."
+  },
+  {
+    "word": "singer",
+    "pos": "n.",
+    "raw": "singer n."
+  },
+  {
+    "word": "sister",
+    "pos": "n.",
+    "raw": "sister n."
+  },
+  {
+    "word": "sit",
+    "pos": "v.",
+    "raw": "sit v."
+  },
+  {
+    "word": "situation",
+    "pos": "n.",
+    "raw": "situation n."
+  },
+  {
+    "word": "six",
+    "pos": "number",
+    "raw": "six number"
+  },
+  {
+    "word": "sixteen",
+    "pos": "number",
+    "raw": "sixteen number"
+  },
+  {
+    "word": "sixty",
+    "pos": "number",
+    "raw": "sixty number"
+  },
+  {
+    "word": "skill",
+    "pos": "n.",
+    "raw": "skill n."
+  },
+  {
+    "word": "skirt",
+    "pos": "n.",
+    "raw": "skirt n."
+  },
+  {
+    "word": "sleep",
+    "pos": "v.",
+    "raw": "sleep v."
+  },
+  {
+    "word": "slow",
+    "pos": "adj.",
+    "raw": "slow adj."
+  },
+  {
+    "word": "small",
+    "pos": "adj.",
+    "raw": "small adj."
+  },
+  {
+    "word": "snake",
+    "pos": "n.",
+    "raw": "snake n."
+  },
+  {
+    "word": "snow",
+    "pos": "n., v.",
+    "raw": "snow n., v."
+  },
+  {
+    "word": "so",
+    "pos": "adv., conj.",
+    "raw": "so adv., conj."
+  },
+  {
+    "word": "some",
+    "pos": "det., pron.",
+    "raw": "some det., pron."
+  },
+  {
+    "word": "somebody",
+    "pos": "pron.",
+    "raw": "somebody pron."
+  },
+  {
+    "word": "someone",
+    "pos": "pron.",
+    "raw": "someone pron."
+  },
+  {
+    "word": "something",
+    "pos": "pron.",
+    "raw": "something pron."
+  },
+  {
+    "word": "sometimes",
+    "pos": "adv.",
+    "raw": "sometimes adv."
+  },
+  {
+    "word": "son",
+    "pos": "n.",
+    "raw": "son n."
+  },
+  {
+    "word": "song",
+    "pos": "n.",
+    "raw": "song n."
+  },
+  {
+    "word": "soon",
+    "pos": "adv.",
+    "raw": "soon adv."
+  },
+  {
+    "word": "sorry",
+    "pos": "adj., exclam.",
+    "raw": "sorry adj., exclam."
+  },
+  {
+    "word": "sound",
+    "pos": "n., v.",
+    "raw": "sound n., v."
+  },
+  {
+    "word": "soup",
+    "pos": "n.",
+    "raw": "soup n."
+  },
+  {
+    "word": "south",
+    "pos": "n., adj., adv.",
+    "raw": "south n., adj., adv."
+  },
+  {
+    "word": "space",
+    "pos": "n.",
+    "raw": "space n."
+  },
+  {
+    "word": "speak",
+    "pos": "v.",
+    "raw": "speak v."
+  },
+  {
+    "word": "special",
+    "pos": "adj.",
+    "raw": "special adj."
+  },
+  {
+    "word": "spell",
+    "pos": "v.",
+    "raw": "spell v."
+  },
+  {
+    "word": "spelling",
+    "pos": "n.",
+    "raw": "spelling n."
+  },
+  {
+    "word": "spend",
+    "pos": "v.",
+    "raw": "spend v."
+  },
+  {
+    "word": "sport",
+    "pos": "n.",
+    "raw": "sport n."
+  },
+  {
+    "word": "spring",
+    "pos": "n.",
+    "raw": "spring n."
+  },
+  {
+    "word": "stand",
+    "pos": "v.",
+    "raw": "stand v."
+  },
+  {
+    "word": "star",
+    "pos": "n.",
+    "raw": "star n."
+  },
+  {
+    "word": "start",
+    "pos": "v.",
+    "raw": "start v."
+  },
+  {
+    "word": "statement",
+    "pos": "n.",
+    "raw": "statement n."
+  },
+  {
+    "word": "station",
+    "pos": "n.",
+    "raw": "station n."
+  },
+  {
+    "word": "stay",
+    "pos": "v.",
+    "raw": "stay v."
+  },
+  {
+    "word": "still",
+    "pos": "adv.",
+    "raw": "still adv."
+  },
+  {
+    "word": "stop",
+    "pos": "v., n.",
+    "raw": "stop v., n."
+  },
+  {
+    "word": "story",
+    "pos": "n.",
+    "raw": "story n."
+  },
+  {
+    "word": "street",
+    "pos": "n.",
+    "raw": "street n."
+  },
+  {
+    "word": "strong",
+    "pos": "adj.",
+    "raw": "strong adj."
+  },
+  {
+    "word": "student",
+    "pos": "n.",
+    "raw": "student n."
+  },
+  {
+    "word": "study",
+    "pos": "n., v.",
+    "raw": "study n., v."
+  },
+  {
+    "word": "style",
+    "pos": "n.",
+    "raw": "style n."
+  },
+  {
+    "word": "subject",
+    "pos": "n.",
+    "raw": "subject n."
+  },
+  {
+    "word": "success",
+    "pos": "n.",
+    "raw": "success n."
+  },
+  {
+    "word": "sugar",
+    "pos": "n.",
+    "raw": "sugar n."
+  },
+  {
+    "word": "summer",
+    "pos": "n.",
+    "raw": "summer n."
+  },
+  {
+    "word": "sun",
+    "pos": "n.",
+    "raw": "sun n."
+  },
+  {
+    "word": "Sunday",
+    "pos": "n.",
+    "raw": "Sunday n."
+  },
+  {
+    "word": "supermarket",
+    "pos": "n.",
+    "raw": "supermarket n."
+  },
+  {
+    "word": "sure",
+    "pos": "adj.",
+    "raw": "sure adj."
+  },
+  {
+    "word": "sweater",
+    "pos": "n.",
+    "raw": "sweater n."
+  },
+  {
+    "word": "swim",
+    "pos": "v.",
+    "raw": "swim v."
+  },
+  {
+    "word": "swimming",
+    "pos": "n.",
+    "raw": "swimming n."
+  },
+  {
+    "word": "table",
+    "pos": "n.",
+    "raw": "table n."
+  },
+  {
+    "word": "take",
+    "pos": "v.",
+    "raw": "take v."
+  },
+  {
+    "word": "talk",
+    "pos": "v.",
+    "raw": "talk v."
+  },
+  {
+    "word": "tall",
+    "pos": "adj.",
+    "raw": "tall adj."
+  },
+  {
+    "word": "taxi",
+    "pos": "n.",
+    "raw": "taxi n."
+  },
+  {
+    "word": "tea",
+    "pos": "n.",
+    "raw": "tea n."
+  },
+  {
+    "word": "teach",
+    "pos": "v.",
+    "raw": "teach v."
+  },
+  {
+    "word": "teacher",
+    "pos": "n.",
+    "raw": "teacher n."
+  },
+  {
+    "word": "team",
+    "pos": "n.",
+    "raw": "team n."
+  },
+  {
+    "word": "teenager",
+    "pos": "n.",
+    "raw": "teenager n."
+  },
+  {
+    "word": "telephone",
+    "pos": "n., v.",
+    "raw": "telephone n., v."
+  },
+  {
+    "word": "television",
+    "pos": "n.",
+    "raw": "television n."
+  },
+  {
+    "word": "tell",
+    "pos": "v.",
+    "raw": "tell v."
+  },
+  {
+    "word": "ten",
+    "pos": "number",
+    "raw": "ten number"
+  },
+  {
+    "word": "tennis",
+    "pos": "n.",
+    "raw": "tennis n."
+  },
+  {
+    "word": "terrible",
+    "pos": "adj.",
+    "raw": "terrible adj."
+  },
+  {
+    "word": "test",
+    "pos": "n., v.",
+    "raw": "test n., v."
+  },
+  {
+    "word": "text",
+    "pos": "n.",
+    "raw": "text n."
+  },
+  {
+    "word": "than",
+    "pos": "conj.",
+    "raw": "than conj."
+  },
+  {
+    "word": "thank",
+    "pos": "v.",
+    "raw": "thank v."
+  },
+  {
+    "word": "thanks",
+    "pos": "exclam., n.",
+    "raw": "thanks exclam., n."
+  },
+  {
+    "word": "that",
+    "pos": "det., pron., conj.",
+    "raw": "that det., pron., conj."
+  },
+  {
+    "word": "the",
+    "pos": "definite article",
+    "raw": "the definite article"
+  },
+  {
+    "word": "theatre",
+    "pos": "n.",
+    "raw": "theatre n."
+  },
+  {
+    "word": "their",
+    "pos": "det.",
+    "raw": "their det."
+  },
+  {
+    "word": "them",
+    "pos": "pron.",
+    "raw": "them pron."
+  },
+  {
+    "word": "then",
+    "pos": "adv.",
+    "raw": "then adv."
+  },
+  {
+    "word": "there",
+    "pos": "adv.",
+    "raw": "there adv."
+  },
+  {
+    "word": "they",
+    "pos": "pron.",
+    "raw": "they pron."
+  },
+  {
+    "word": "thing",
+    "pos": "n.",
+    "raw": "thing n."
+  },
+  {
+    "word": "think",
+    "pos": "v.",
+    "raw": "think v."
+  },
+  {
+    "word": "third",
+    "pos": "number",
+    "raw": "third number"
+  },
+  {
+    "word": "thirsty",
+    "pos": "adj.",
+    "raw": "thirsty adj."
+  },
+  {
+    "word": "thirteen",
+    "pos": "number",
+    "raw": "thirteen number"
+  },
+  {
+    "word": "thirty",
+    "pos": "number",
+    "raw": "thirty number"
+  },
+  {
+    "word": "this",
+    "pos": "det./pron.",
+    "raw": "this det./pron."
+  },
+  {
+    "word": "thousand",
+    "pos": "number",
+    "raw": "thousand number"
+  },
+  {
+    "word": "three",
+    "pos": "number",
+    "raw": "three number"
+  },
+  {
+    "word": "through",
+    "pos": "prep., adv.",
+    "raw": "through prep., adv."
+  },
+  {
+    "word": "Thursday",
+    "pos": "n.",
+    "raw": "Thursday n."
+  },
+  {
+    "word": "ticket",
+    "pos": "n.",
+    "raw": "ticket n."
+  },
+  {
+    "word": "time",
+    "pos": "n.",
+    "raw": "time n."
+  },
+  {
+    "word": "tired",
+    "pos": "adj.",
+    "raw": "tired adj."
+  },
+  {
+    "word": "title",
+    "pos": "n.",
+    "raw": "title n."
+  },
+  {
+    "word": "to",
+    "pos": "prep., infinitive marker",
+    "raw": "to prep., infinitive marker"
+  },
+  {
+    "word": "today",
+    "pos": "adv., n.",
+    "raw": "today adv., n."
+  },
+  {
+    "word": "together",
+    "pos": "adv.",
+    "raw": "together adv."
+  },
+  {
+    "word": "toilet",
+    "pos": "n. -- 3 of 12 --",
+    "raw": "toilet n. -- 3 of 12 --"
+  },
+  {
+    "word": "tomato",
+    "pos": "n.",
+    "raw": "tomato n."
+  },
+  {
+    "word": "tomorrow",
+    "pos": "adv., n.",
+    "raw": "tomorrow adv., n."
+  },
+  {
+    "word": "tonight",
+    "pos": "adv., n.",
+    "raw": "tonight adv., n."
+  },
+  {
+    "word": "too",
+    "pos": "adv.",
+    "raw": "too adv."
+  },
+  {
+    "word": "tooth",
+    "pos": "n.",
+    "raw": "tooth n."
+  },
+  {
+    "word": "topic",
+    "pos": "n.",
+    "raw": "topic n."
+  },
+  {
+    "word": "tourist",
+    "pos": "n.",
+    "raw": "tourist n."
+  },
+  {
+    "word": "town",
+    "pos": "n.",
+    "raw": "town n."
+  },
+  {
+    "word": "traffic",
+    "pos": "n.",
+    "raw": "traffic n."
+  },
+  {
+    "word": "train",
+    "pos": "n.",
+    "raw": "train n."
+  },
+  {
+    "word": "travel",
+    "pos": "v., n.",
+    "raw": "travel v., n."
+  },
+  {
+    "word": "tree",
+    "pos": "n.",
+    "raw": "tree n."
+  },
+  {
+    "word": "trip",
+    "pos": "n.",
+    "raw": "trip n."
+  },
+  {
+    "word": "trousers",
+    "pos": "n.",
+    "raw": "trousers n."
+  },
+  {
+    "word": "true",
+    "pos": "adj.",
+    "raw": "true adj."
+  },
+  {
+    "word": "try",
+    "pos": "v.",
+    "raw": "try v."
+  },
+  {
+    "word": "T-shirt",
+    "pos": "n.",
+    "raw": "T-shirt n."
+  },
+  {
+    "word": "Tuesday",
+    "pos": "n.",
+    "raw": "Tuesday n."
+  },
+  {
+    "word": "turn",
+    "pos": "v., n.",
+    "raw": "turn v., n."
+  },
+  {
+    "word": "TV",
+    "pos": "n.",
+    "raw": "TV n."
+  },
+  {
+    "word": "twelve",
+    "pos": "number",
+    "raw": "twelve number"
+  },
+  {
+    "word": "twenty",
+    "pos": "number",
+    "raw": "twenty number"
+  },
+  {
+    "word": "twice",
+    "pos": "adv.",
+    "raw": "twice adv."
+  },
+  {
+    "word": "two",
+    "pos": "number",
+    "raw": "two number"
+  },
+  {
+    "word": "type",
+    "pos": "n.",
+    "raw": "type n."
+  },
+  {
+    "word": "umbrella",
+    "pos": "n.",
+    "raw": "umbrella n."
+  },
+  {
+    "word": "uncle",
+    "pos": "n.",
+    "raw": "uncle n."
+  },
+  {
+    "word": "under",
+    "pos": "prep., adv.",
+    "raw": "under prep., adv."
+  },
+  {
+    "word": "understand",
+    "pos": "v.",
+    "raw": "understand v."
+  },
+  {
+    "word": "university",
+    "pos": "n.",
+    "raw": "university n."
+  },
+  {
+    "word": "until",
+    "pos": "conj./prep.",
+    "raw": "until conj./prep."
+  },
+  {
+    "word": "up",
+    "pos": "adv., prep.",
+    "raw": "up adv., prep."
+  },
+  {
+    "word": "upstairs",
+    "pos": "adv.",
+    "raw": "upstairs adv."
+  },
+  {
+    "word": "us",
+    "pos": "pron.",
+    "raw": "us pron."
+  },
+  {
+    "word": "use",
+    "pos": "v.",
+    "raw": "use v."
+  },
+  {
+    "word": "useful",
+    "pos": "adj.",
+    "raw": "useful adj."
+  },
+  {
+    "word": "usually",
+    "pos": "adv.",
+    "raw": "usually adv."
+  },
+  {
+    "word": "vacation",
+    "pos": "n.",
+    "raw": "vacation n."
+  },
+  {
+    "word": "vegetable",
+    "pos": "n.",
+    "raw": "vegetable n."
+  },
+  {
+    "word": "very",
+    "pos": "adv.",
+    "raw": "very adv."
+  },
+  {
+    "word": "video",
+    "pos": "n.",
+    "raw": "video n."
+  },
+  {
+    "word": "village",
+    "pos": "n.",
+    "raw": "village n."
+  },
+  {
+    "word": "visit",
+    "pos": "v., n.",
+    "raw": "visit v., n."
+  },
+  {
+    "word": "visitor",
+    "pos": "n.",
+    "raw": "visitor n."
+  },
+  {
+    "word": "wait",
+    "pos": "v.",
+    "raw": "wait v."
+  },
+  {
+    "word": "waiter",
+    "pos": "n.",
+    "raw": "waiter n."
+  },
+  {
+    "word": "wake",
+    "pos": "v.",
+    "raw": "wake v."
+  },
+  {
+    "word": "walk",
+    "pos": "v., n.",
+    "raw": "walk v., n."
+  },
+  {
+    "word": "wall",
+    "pos": "n.",
+    "raw": "wall n."
+  },
+  {
+    "word": "want",
+    "pos": "v.",
+    "raw": "want v."
+  },
+  {
+    "word": "warm",
+    "pos": "adj.",
+    "raw": "warm adj."
+  },
+  {
+    "word": "wash",
+    "pos": "v.",
+    "raw": "wash v."
+  },
+  {
+    "word": "watch",
+    "pos": "v., n.",
+    "raw": "watch v., n."
+  },
+  {
+    "word": "water",
+    "pos": "n.",
+    "raw": "water n."
+  },
+  {
+    "word": "way",
+    "pos": "n.",
+    "raw": "way n."
+  },
+  {
+    "word": "we",
+    "pos": "pron.",
+    "raw": "we pron."
+  },
+  {
+    "word": "wear",
+    "pos": "v.",
+    "raw": "wear v."
+  },
+  {
+    "word": "weather",
+    "pos": "n.",
+    "raw": "weather n."
+  },
+  {
+    "word": "website",
+    "pos": "n.",
+    "raw": "website n."
+  },
+  {
+    "word": "Wednesday",
+    "pos": "n.",
+    "raw": "Wednesday n."
+  },
+  {
+    "word": "week",
+    "pos": "n.",
+    "raw": "week n."
+  },
+  {
+    "word": "weekend",
+    "pos": "n.",
+    "raw": "weekend n."
+  },
+  {
+    "word": "welcome",
+    "pos": "exclam., v., adj.",
+    "raw": "welcome exclam., v., adj."
+  },
+  {
+    "word": "well",
+    "pos": "adv., adj., exclam.",
+    "raw": "well adv., adj., exclam."
+  },
+  {
+    "word": "west",
+    "pos": "n., adj., adv.",
+    "raw": "west n., adj., adv."
+  },
+  {
+    "word": "what",
+    "pos": "pron./det.",
+    "raw": "what pron./det."
+  },
+  {
+    "word": "when",
+    "pos": "adv., pron., conj.",
+    "raw": "when adv., pron., conj."
+  },
+  {
+    "word": "where",
+    "pos": "adv., conj.",
+    "raw": "where adv., conj."
+  },
+  {
+    "word": "which",
+    "pos": "pron./det.",
+    "raw": "which pron./det."
+  },
+  {
+    "word": "white",
+    "pos": "adj., n.",
+    "raw": "white adj., n."
+  },
+  {
+    "word": "who",
+    "pos": "pron.",
+    "raw": "who pron."
+  },
+  {
+    "word": "why",
+    "pos": "adv.",
+    "raw": "why adv."
+  },
+  {
+    "word": "wife",
+    "pos": "n.",
+    "raw": "wife n."
+  },
+  {
+    "word": "will",
+    "pos": "modal v.",
+    "raw": "will modal v."
+  },
+  {
+    "word": "win",
+    "pos": "v.",
+    "raw": "win v."
+  },
+  {
+    "word": "window",
+    "pos": "n.",
+    "raw": "window n."
+  },
+  {
+    "word": "wine",
+    "pos": "n.",
+    "raw": "wine n."
+  },
+  {
+    "word": "winter",
+    "pos": "n.",
+    "raw": "winter n."
+  },
+  {
+    "word": "with",
+    "pos": "prep.",
+    "raw": "with prep."
+  },
+  {
+    "word": "without",
+    "pos": "prep.",
+    "raw": "without prep."
+  },
+  {
+    "word": "woman",
+    "pos": "n.",
+    "raw": "woman n."
+  },
+  {
+    "word": "wonderful",
+    "pos": "adj.",
+    "raw": "wonderful adj."
+  },
+  {
+    "word": "word",
+    "pos": "n.",
+    "raw": "word n."
+  },
+  {
+    "word": "work",
+    "pos": "v., n.",
+    "raw": "work v., n."
+  },
+  {
+    "word": "worker",
+    "pos": "n.",
+    "raw": "worker n."
+  },
+  {
+    "word": "world",
+    "pos": "n.",
+    "raw": "world n."
+  },
+  {
+    "word": "would",
+    "pos": "modal v.",
+    "raw": "would modal v."
+  },
+  {
+    "word": "write",
+    "pos": "v.",
+    "raw": "write v."
+  },
+  {
+    "word": "writer",
+    "pos": "n.",
+    "raw": "writer n."
+  },
+  {
+    "word": "writing",
+    "pos": "n.",
+    "raw": "writing n."
+  },
+  {
+    "word": "wrong",
+    "pos": "adj.",
+    "raw": "wrong adj."
+  },
+  {
+    "word": "yeah",
+    "pos": "exclam.",
+    "raw": "yeah exclam."
+  },
+  {
+    "word": "year",
+    "pos": "n.",
+    "raw": "year n."
+  },
+  {
+    "word": "yellow",
+    "pos": "adj., n.",
+    "raw": "yellow adj., n."
+  },
+  {
+    "word": "yes",
+    "pos": "exclam.",
+    "raw": "yes exclam."
+  },
+  {
+    "word": "yesterday",
+    "pos": "adv., n.",
+    "raw": "yesterday adv., n."
+  },
+  {
+    "word": "you",
+    "pos": "pron.",
+    "raw": "you pron."
+  },
+  {
+    "word": "young",
+    "pos": "adj.",
+    "raw": "young adj."
+  },
+  {
+    "word": "your",
+    "pos": "det.",
+    "raw": "your det."
+  },
+  {
+    "word": "yourself",
+    "pos": "pron.",
+    "raw": "yourself pron."
+  }
+]

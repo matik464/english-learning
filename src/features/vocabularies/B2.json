@@ -1,0 +1,7137 @@
+[
+  {
+    "word": "abandon",
+    "pos": "v.",
+    "raw": "abandon v."
+  },
+  {
+    "word": "absolute",
+    "pos": "adj.",
+    "raw": "absolute adj."
+  },
+  {
+    "word": "academic",
+    "pos": "n.",
+    "raw": "academic n."
+  },
+  {
+    "word": "acceptable",
+    "pos": "adj.",
+    "raw": "acceptable adj."
+  },
+  {
+    "word": "accompany",
+    "pos": "v.",
+    "raw": "accompany v."
+  },
+  {
+    "word": "account",
+    "pos": "v.",
+    "raw": "account v."
+  },
+  {
+    "word": "accurate",
+    "pos": "adj.",
+    "raw": "accurate adj."
+  },
+  {
+    "word": "accuse",
+    "pos": "v.",
+    "raw": "accuse v."
+  },
+  {
+    "word": "acknowledge",
+    "pos": "v.",
+    "raw": "acknowledge v."
+  },
+  {
+    "word": "acquire",
+    "pos": "v.",
+    "raw": "acquire v."
+  },
+  {
+    "word": "actual",
+    "pos": "adj.",
+    "raw": "actual adj."
+  },
+  {
+    "word": "adapt",
+    "pos": "v.",
+    "raw": "adapt v."
+  },
+  {
+    "word": "additional",
+    "pos": "adj.",
+    "raw": "additional adj."
+  },
+  {
+    "word": "address",
+    "pos": "v.",
+    "raw": "address v."
+  },
+  {
+    "word": "administration",
+    "pos": "n.",
+    "raw": "administration n."
+  },
+  {
+    "word": "adopt",
+    "pos": "v.",
+    "raw": "adopt v."
+  },
+  {
+    "word": "advance",
+    "pos": "n., v., adj.",
+    "raw": "advance n., v., adj."
+  },
+  {
+    "word": "affair",
+    "pos": "n.",
+    "raw": "affair n."
+  },
+  {
+    "word": "afterwards",
+    "pos": "adv.",
+    "raw": "afterwards adv."
+  },
+  {
+    "word": "agency",
+    "pos": "n.",
+    "raw": "agency n."
+  },
+  {
+    "word": "agenda",
+    "pos": "n.",
+    "raw": "agenda n."
+  },
+  {
+    "word": "aggressive",
+    "pos": "adj.",
+    "raw": "aggressive adj."
+  },
+  {
+    "word": "aid",
+    "pos": "n., v.",
+    "raw": "aid n., v."
+  },
+  {
+    "word": "aircraft",
+    "pos": "n.",
+    "raw": "aircraft n."
+  },
+  {
+    "word": "alarm",
+    "pos": "v.",
+    "raw": "alarm v."
+  },
+  {
+    "word": "alter",
+    "pos": "v.",
+    "raw": "alter v."
+  },
+  {
+    "word": "amount",
+    "pos": "v.",
+    "raw": "amount v."
+  },
+  {
+    "word": "anger",
+    "pos": "n.",
+    "raw": "anger n."
+  },
+  {
+    "word": "angle",
+    "pos": "n.",
+    "raw": "angle n."
+  },
+  {
+    "word": "anniversary",
+    "pos": "n.",
+    "raw": "anniversary n."
+  },
+  {
+    "word": "annual",
+    "pos": "adj.",
+    "raw": "annual adj."
+  },
+  {
+    "word": "anxious",
+    "pos": "adj.",
+    "raw": "anxious adj."
+  },
+  {
+    "word": "apparent",
+    "pos": "adj.",
+    "raw": "apparent adj."
+  },
+  {
+    "word": "apparently",
+    "pos": "adv.",
+    "raw": "apparently adv."
+  },
+  {
+    "word": "appeal",
+    "pos": "n., v.",
+    "raw": "appeal n., v."
+  },
+  {
+    "word": "approach",
+    "pos": "n., v.",
+    "raw": "approach n., v."
+  },
+  {
+    "word": "appropriate",
+    "pos": "adj.",
+    "raw": "appropriate adj."
+  },
+  {
+    "word": "approval",
+    "pos": "n.",
+    "raw": "approval n."
+  },
+  {
+    "word": "approve",
+    "pos": "v.",
+    "raw": "approve v."
+  },
+  {
+    "word": "arise",
+    "pos": "v.",
+    "raw": "arise v."
+  },
+  {
+    "word": "armed",
+    "pos": "adj.",
+    "raw": "armed adj."
+  },
+  {
+    "word": "arms",
+    "pos": "n.",
+    "raw": "arms n."
+  },
+  {
+    "word": "artificial",
+    "pos": "adj.",
+    "raw": "artificial adj."
+  },
+  {
+    "word": "artistic",
+    "pos": "adj.",
+    "raw": "artistic adj."
+  },
+  {
+    "word": "ashamed",
+    "pos": "adj.",
+    "raw": "ashamed adj."
+  },
+  {
+    "word": "aspect",
+    "pos": "n.",
+    "raw": "aspect n."
+  },
+  {
+    "word": "assess",
+    "pos": "v.",
+    "raw": "assess v."
+  },
+  {
+    "word": "assessment",
+    "pos": "n.",
+    "raw": "assessment n."
+  },
+  {
+    "word": "associate",
+    "pos": "v.",
+    "raw": "associate v."
+  },
+  {
+    "word": "associated",
+    "pos": "adj.",
+    "raw": "associated adj."
+  },
+  {
+    "word": "association",
+    "pos": "n.",
+    "raw": "association n."
+  },
+  {
+    "word": "assume",
+    "pos": "v.",
+    "raw": "assume v."
+  },
+  {
+    "word": "attempt",
+    "pos": "n., v.",
+    "raw": "attempt n., v."
+  },
+  {
+    "word": "back",
+    "pos": "v.",
+    "raw": "back v."
+  },
+  {
+    "word": "bacteria",
+    "pos": "n.",
+    "raw": "bacteria n."
+  },
+  {
+    "word": "bar",
+    "pos": "v.",
+    "raw": "bar v."
+  },
+  {
+    "word": "barrier",
+    "pos": "n.",
+    "raw": "barrier n."
+  },
+  {
+    "word": "basically",
+    "pos": "adv.",
+    "raw": "basically adv."
+  },
+  {
+    "word": "battle",
+    "pos": "v.",
+    "raw": "battle v."
+  },
+  {
+    "word": "bear (deal with)",
+    "pos": "v.",
+    "raw": "bear (deal with) v."
+  },
+  {
+    "word": "beat",
+    "pos": "n.",
+    "raw": "beat n."
+  },
+  {
+    "word": "beg",
+    "pos": "v.",
+    "raw": "beg v."
+  },
+  {
+    "word": "being",
+    "pos": "n.",
+    "raw": "being n."
+  },
+  {
+    "word": "bent",
+    "pos": "adj.",
+    "raw": "bent adj."
+  },
+  {
+    "word": "bet",
+    "pos": "v., n.",
+    "raw": "bet v., n."
+  },
+  {
+    "word": "beyond",
+    "pos": "prep., adv.",
+    "raw": "beyond prep., adv."
+  },
+  {
+    "word": "bill",
+    "pos": "v.",
+    "raw": "bill v."
+  },
+  {
+    "word": "bitter",
+    "pos": "adj.",
+    "raw": "bitter adj."
+  },
+  {
+    "word": "blame",
+    "pos": "v., n.",
+    "raw": "blame v., n."
+  },
+  {
+    "word": "blind",
+    "pos": "adj.",
+    "raw": "blind adj."
+  },
+  {
+    "word": "bond",
+    "pos": "n.",
+    "raw": "bond n."
+  },
+  {
+    "word": "border",
+    "pos": "v.",
+    "raw": "border v."
+  },
+  {
+    "word": "breast",
+    "pos": "n.",
+    "raw": "breast n."
+  },
+  {
+    "word": "brief",
+    "pos": "adj.",
+    "raw": "brief adj."
+  },
+  {
+    "word": "broad",
+    "pos": "adj.",
+    "raw": "broad adj."
+  },
+  {
+    "word": "broadcast",
+    "pos": "v., n.",
+    "raw": "broadcast v., n."
+  },
+  {
+    "word": "budget",
+    "pos": "n.",
+    "raw": "budget n."
+  },
+  {
+    "word": "bullet",
+    "pos": "n.",
+    "raw": "bullet n."
+  },
+  {
+    "word": "bunch",
+    "pos": "n.",
+    "raw": "bunch n."
+  },
+  {
+    "word": "burn",
+    "pos": "n.",
+    "raw": "burn n."
+  },
+  {
+    "word": "bush",
+    "pos": "n.",
+    "raw": "bush n."
+  },
+  {
+    "word": "but",
+    "pos": "prep.",
+    "raw": "but prep."
+  },
+  {
+    "word": "cable",
+    "pos": "n.",
+    "raw": "cable n."
+  },
+  {
+    "word": "calculate",
+    "pos": "v.",
+    "raw": "calculate v."
+  },
+  {
+    "word": "cancel",
+    "pos": "v.",
+    "raw": "cancel v."
+  },
+  {
+    "word": "cancer",
+    "pos": "n.",
+    "raw": "cancer n."
+  },
+  {
+    "word": "capable",
+    "pos": "adj.",
+    "raw": "capable adj."
+  },
+  {
+    "word": "capacity",
+    "pos": "n.",
+    "raw": "capacity n."
+  },
+  {
+    "word": "capture",
+    "pos": "v., n.",
+    "raw": "capture v., n."
+  },
+  {
+    "word": "cast",
+    "pos": "n., v.",
+    "raw": "cast n., v."
+  },
+  {
+    "word": "catch",
+    "pos": "n.",
+    "raw": "catch n."
+  },
+  {
+    "word": "cell",
+    "pos": "n.",
+    "raw": "cell n."
+  },
+  {
+    "word": "chain",
+    "pos": "v.",
+    "raw": "chain v."
+  },
+  {
+    "word": "chair",
+    "pos": "v.",
+    "raw": "chair v."
+  },
+  {
+    "word": "chairman",
+    "pos": "n.",
+    "raw": "chairman n."
+  },
+  {
+    "word": "challenge",
+    "pos": "v.",
+    "raw": "challenge v."
+  },
+  {
+    "word": "characteristic",
+    "pos": "n., adj.",
+    "raw": "characteristic n., adj."
+  },
+  {
+    "word": "chart",
+    "pos": "v.",
+    "raw": "chart v."
+  },
+  {
+    "word": "chief",
+    "pos": "adj., n.",
+    "raw": "chief adj., n."
+  },
+  {
+    "word": "circumstance",
+    "pos": "n.",
+    "raw": "circumstance n."
+  },
+  {
+    "word": "cite",
+    "pos": "v.",
+    "raw": "cite v."
+  },
+  {
+    "word": "citizen",
+    "pos": "n.",
+    "raw": "citizen n."
+  },
+  {
+    "word": "civil",
+    "pos": "adj.",
+    "raw": "civil adj."
+  },
+  {
+    "word": "classic",
+    "pos": "adj., n.",
+    "raw": "classic adj., n."
+  },
+  {
+    "word": "close1",
+    "pos": "n.",
+    "raw": "close1 n."
+  },
+  {
+    "word": "closely",
+    "pos": "adv.",
+    "raw": "closely adv."
+  },
+  {
+    "word": "collapse",
+    "pos": "v., n.",
+    "raw": "collapse v., n."
+  },
+  {
+    "word": "combination",
+    "pos": "n.",
+    "raw": "combination n."
+  },
+  {
+    "word": "comfort",
+    "pos": "n., v.",
+    "raw": "comfort n., v."
+  },
+  {
+    "word": "command",
+    "pos": "n., v.",
+    "raw": "command n., v."
+  },
+  {
+    "word": "commission",
+    "pos": "n., v.",
+    "raw": "commission n., v."
+  },
+  {
+    "word": "commitment",
+    "pos": "n.",
+    "raw": "commitment n."
+  },
+  {
+    "word": "committee",
+    "pos": "n.",
+    "raw": "committee n."
+  },
+  {
+    "word": "commonly",
+    "pos": "adv.",
+    "raw": "commonly adv."
+  },
+  {
+    "word": "complex",
+    "pos": "n.",
+    "raw": "complex n."
+  },
+  {
+    "word": "complicated",
+    "pos": "adj.",
+    "raw": "complicated adj."
+  },
+  {
+    "word": "component",
+    "pos": "n.",
+    "raw": "component n."
+  },
+  {
+    "word": "concentration",
+    "pos": "n.",
+    "raw": "concentration n."
+  },
+  {
+    "word": "concept",
+    "pos": "n.",
+    "raw": "concept n."
+  },
+  {
+    "word": "concern",
+    "pos": "n., v.",
+    "raw": "concern n., v."
+  },
+  {
+    "word": "concerned",
+    "pos": "adj.",
+    "raw": "concerned adj."
+  },
+  {
+    "word": "conduct",
+    "pos": "v., n.",
+    "raw": "conduct v., n."
+  },
+  {
+    "word": "confidence",
+    "pos": "n.",
+    "raw": "confidence n."
+  },
+  {
+    "word": "conflict",
+    "pos": "n., v.",
+    "raw": "conflict n., v."
+  },
+  {
+    "word": "confusing",
+    "pos": "adj.",
+    "raw": "confusing adj."
+  },
+  {
+    "word": "conscious",
+    "pos": "adj.",
+    "raw": "conscious adj."
+  },
+  {
+    "word": "conservative",
+    "pos": "adj., n.",
+    "raw": "conservative adj., n."
+  },
+  {
+    "word": "consideration",
+    "pos": "n.",
+    "raw": "consideration n."
+  },
+  {
+    "word": "consistent",
+    "pos": "adj.",
+    "raw": "consistent adj."
+  },
+  {
+    "word": "constant",
+    "pos": "adj.",
+    "raw": "constant adj."
+  },
+  {
+    "word": "constantly",
+    "pos": "adv.",
+    "raw": "constantly adv."
+  },
+  {
+    "word": "construct",
+    "pos": "v.",
+    "raw": "construct v."
+  },
+  {
+    "word": "construction",
+    "pos": "n.",
+    "raw": "construction n."
+  },
+  {
+    "word": "contemporary",
+    "pos": "adj.",
+    "raw": "contemporary adj."
+  },
+  {
+    "word": "contest",
+    "pos": "n., v.",
+    "raw": "contest n., v."
+  },
+  {
+    "word": "contract",
+    "pos": "n., v.",
+    "raw": "contract n., v."
+  },
+  {
+    "word": "contribute",
+    "pos": "v.",
+    "raw": "contribute v."
+  },
+  {
+    "word": "contribution",
+    "pos": "n.",
+    "raw": "contribution n."
+  },
+  {
+    "word": "convert",
+    "pos": "v.",
+    "raw": "convert v."
+  },
+  {
+    "word": "convinced",
+    "pos": "adj.",
+    "raw": "convinced adj."
+  },
+  {
+    "word": "core",
+    "pos": "n., adj.",
+    "raw": "core n., adj."
+  },
+  {
+    "word": "corporate",
+    "pos": "adj.",
+    "raw": "corporate adj."
+  },
+  {
+    "word": "council",
+    "pos": "n.",
+    "raw": "council n."
+  },
+  {
+    "word": "county",
+    "pos": "n.",
+    "raw": "county n."
+  },
+  {
+    "word": "courage",
+    "pos": "n.",
+    "raw": "courage n."
+  },
+  {
+    "word": "crash",
+    "pos": "n., v.",
+    "raw": "crash n., v."
+  },
+  {
+    "word": "creation",
+    "pos": "n.",
+    "raw": "creation n."
+  },
+  {
+    "word": "creature",
+    "pos": "n.",
+    "raw": "creature n."
+  },
+  {
+    "word": "credit",
+    "pos": "v.",
+    "raw": "credit v."
+  },
+  {
+    "word": "crew",
+    "pos": "n.",
+    "raw": "crew n."
+  },
+  {
+    "word": "crisis",
+    "pos": "n.",
+    "raw": "crisis n."
+  },
+  {
+    "word": "criterion",
+    "pos": "n.",
+    "raw": "criterion n."
+  },
+  {
+    "word": "critic",
+    "pos": "n.",
+    "raw": "critic n."
+  },
+  {
+    "word": "critical",
+    "pos": "adj.",
+    "raw": "critical adj."
+  },
+  {
+    "word": "criticism",
+    "pos": "n.",
+    "raw": "criticism n."
+  },
+  {
+    "word": "criticize",
+    "pos": "v.",
+    "raw": "criticize v."
+  },
+  {
+    "word": "crop",
+    "pos": "n.",
+    "raw": "crop n."
+  },
+  {
+    "word": "crucial",
+    "pos": "adj.",
+    "raw": "crucial adj."
+  },
+  {
+    "word": "cry",
+    "pos": "n.",
+    "raw": "cry n."
+  },
+  {
+    "word": "cure",
+    "pos": "v., n.",
+    "raw": "cure v., n."
+  },
+  {
+    "word": "current",
+    "pos": "n.",
+    "raw": "current n."
+  },
+  {
+    "word": "curve",
+    "pos": "n., v.",
+    "raw": "curve n., v."
+  },
+  {
+    "word": "curved",
+    "pos": "adj.",
+    "raw": "curved adj."
+  },
+  {
+    "word": "date",
+    "pos": "v.",
+    "raw": "date v."
+  },
+  {
+    "word": "debate",
+    "pos": "n., v.",
+    "raw": "debate n., v."
+  },
+  {
+    "word": "debt",
+    "pos": "n.",
+    "raw": "debt n."
+  },
+  {
+    "word": "decent",
+    "pos": "adj.",
+    "raw": "decent adj."
+  },
+  {
+    "word": "declare",
+    "pos": "v. -- 10 of 12 --",
+    "raw": "declare v. -- 10 of 12 --"
+  },
+  {
+    "word": "decline",
+    "pos": "v., n.",
+    "raw": "decline v., n."
+  },
+  {
+    "word": "decoration",
+    "pos": "n.",
+    "raw": "decoration n."
+  },
+  {
+    "word": "decrease",
+    "pos": "v., n.",
+    "raw": "decrease v., n."
+  },
+  {
+    "word": "deeply",
+    "pos": "adv.",
+    "raw": "deeply adv."
+  },
+  {
+    "word": "defeat",
+    "pos": "v., n.",
+    "raw": "defeat v., n."
+  },
+  {
+    "word": "defence",
+    "pos": "n.",
+    "raw": "defence n."
+  },
+  {
+    "word": "defend",
+    "pos": "v.",
+    "raw": "defend v."
+  },
+  {
+    "word": "delay",
+    "pos": "v., n.",
+    "raw": "delay v., n."
+  },
+  {
+    "word": "deliberate",
+    "pos": "adj.",
+    "raw": "deliberate adj."
+  },
+  {
+    "word": "deliberately",
+    "pos": "adv.",
+    "raw": "deliberately adv."
+  },
+  {
+    "word": "delight",
+    "pos": "v., n.",
+    "raw": "delight v., n."
+  },
+  {
+    "word": "delighted",
+    "pos": "adj.",
+    "raw": "delighted adj."
+  },
+  {
+    "word": "delivery",
+    "pos": "n.",
+    "raw": "delivery n."
+  },
+  {
+    "word": "demand",
+    "pos": "n., v.",
+    "raw": "demand n., v."
+  },
+  {
+    "word": "demonstrate",
+    "pos": "v.",
+    "raw": "demonstrate v."
+  },
+  {
+    "word": "deny",
+    "pos": "v.",
+    "raw": "deny v."
+  },
+  {
+    "word": "depressed",
+    "pos": "adj.",
+    "raw": "depressed adj."
+  },
+  {
+    "word": "depressing",
+    "pos": "adj.",
+    "raw": "depressing adj."
+  },
+  {
+    "word": "depth",
+    "pos": "n.",
+    "raw": "depth n."
+  },
+  {
+    "word": "desert",
+    "pos": "v.",
+    "raw": "desert v."
+  },
+  {
+    "word": "deserve",
+    "pos": "v.",
+    "raw": "deserve v."
+  },
+  {
+    "word": "desire",
+    "pos": "n., v.",
+    "raw": "desire n., v."
+  },
+  {
+    "word": "desperate",
+    "pos": "adj.",
+    "raw": "desperate adj."
+  },
+  {
+    "word": "detail",
+    "pos": "v.",
+    "raw": "detail v."
+  },
+  {
+    "word": "detailed",
+    "pos": "adj.",
+    "raw": "detailed adj."
+  },
+  {
+    "word": "detect",
+    "pos": "v.",
+    "raw": "detect v."
+  },
+  {
+    "word": "dig",
+    "pos": "v.",
+    "raw": "dig v."
+  },
+  {
+    "word": "disc",
+    "pos": "n.",
+    "raw": "disc n."
+  },
+  {
+    "word": "discipline",
+    "pos": "n.",
+    "raw": "discipline n."
+  },
+  {
+    "word": "discount",
+    "pos": "v.",
+    "raw": "discount v."
+  },
+  {
+    "word": "dishonest",
+    "pos": "adj.",
+    "raw": "dishonest adj."
+  },
+  {
+    "word": "dismiss",
+    "pos": "v.",
+    "raw": "dismiss v."
+  },
+  {
+    "word": "display",
+    "pos": "v., n.",
+    "raw": "display v., n."
+  },
+  {
+    "word": "distribute",
+    "pos": "v.",
+    "raw": "distribute v."
+  },
+  {
+    "word": "distribution",
+    "pos": "n.",
+    "raw": "distribution n."
+  },
+  {
+    "word": "district",
+    "pos": "n.",
+    "raw": "district n."
+  },
+  {
+    "word": "divide",
+    "pos": "n.",
+    "raw": "divide n."
+  },
+  {
+    "word": "division",
+    "pos": "n.",
+    "raw": "division n."
+  },
+  {
+    "word": "document",
+    "pos": "v.",
+    "raw": "document v."
+  },
+  {
+    "word": "domestic",
+    "pos": "adj.",
+    "raw": "domestic adj."
+  },
+  {
+    "word": "dominate",
+    "pos": "v.",
+    "raw": "dominate v."
+  },
+  {
+    "word": "downwards",
+    "pos": "adv.",
+    "raw": "downwards adv."
+  },
+  {
+    "word": "dozen",
+    "pos": "n., det.",
+    "raw": "dozen n., det."
+  },
+  {
+    "word": "draft",
+    "pos": "n., v.",
+    "raw": "draft n., v."
+  },
+  {
+    "word": "drag",
+    "pos": "v.",
+    "raw": "drag v."
+  },
+  {
+    "word": "dramatic",
+    "pos": "adj.",
+    "raw": "dramatic adj."
+  },
+  {
+    "word": "edit",
+    "pos": "v.",
+    "raw": "edit v."
+  },
+  {
+    "word": "edition",
+    "pos": "n.",
+    "raw": "edition n."
+  },
+  {
+    "word": "efficient",
+    "pos": "adj.",
+    "raw": "efficient adj."
+  },
+  {
+    "word": "elderly",
+    "pos": "adj.",
+    "raw": "elderly adj."
+  },
+  {
+    "word": "elect",
+    "pos": "v.",
+    "raw": "elect v."
+  },
+  {
+    "word": "elsewhere",
+    "pos": "adv.",
+    "raw": "elsewhere adv."
+  },
+  {
+    "word": "emerge",
+    "pos": "v.",
+    "raw": "emerge v."
+  },
+  {
+    "word": "emotional",
+    "pos": "adj.",
+    "raw": "emotional adj."
+  },
+  {
+    "word": "emphasis",
+    "pos": "n.",
+    "raw": "emphasis n."
+  },
+  {
+    "word": "emphasize",
+    "pos": "v.",
+    "raw": "emphasize v."
+  },
+  {
+    "word": "enable",
+    "pos": "v.",
+    "raw": "enable v."
+  },
+  {
+    "word": "encounter",
+    "pos": "v., n.",
+    "raw": "encounter v., n."
+  },
+  {
+    "word": "engage",
+    "pos": "v.",
+    "raw": "engage v."
+  },
+  {
+    "word": "enhance",
+    "pos": "v.",
+    "raw": "enhance v."
+  },
+  {
+    "word": "enquiry",
+    "pos": "n.",
+    "raw": "enquiry n."
+  },
+  {
+    "word": "ensure",
+    "pos": "v.",
+    "raw": "ensure v."
+  },
+  {
+    "word": "enthusiasm",
+    "pos": "n.",
+    "raw": "enthusiasm n."
+  },
+  {
+    "word": "enthusiastic",
+    "pos": "adj.",
+    "raw": "enthusiastic adj."
+  },
+  {
+    "word": "entire",
+    "pos": "adj.",
+    "raw": "entire adj."
+  },
+  {
+    "word": "entirely",
+    "pos": "adv.",
+    "raw": "entirely adv."
+  },
+  {
+    "word": "equal",
+    "pos": "n.",
+    "raw": "equal n."
+  },
+  {
+    "word": "establish",
+    "pos": "v.",
+    "raw": "establish v."
+  },
+  {
+    "word": "estate",
+    "pos": "n.",
+    "raw": "estate n."
+  },
+  {
+    "word": "estimate",
+    "pos": "v., n.",
+    "raw": "estimate v., n."
+  },
+  {
+    "word": "ethical",
+    "pos": "adj.",
+    "raw": "ethical adj."
+  },
+  {
+    "word": "evaluate",
+    "pos": "v.",
+    "raw": "evaluate v."
+  },
+  {
+    "word": "even",
+    "pos": "adj.",
+    "raw": "even adj."
+  },
+  {
+    "word": "evil",
+    "pos": "adj., n.",
+    "raw": "evil adj., n."
+  },
+  {
+    "word": "examination",
+    "pos": "n.",
+    "raw": "examination n."
+  },
+  {
+    "word": "excuse",
+    "pos": "n., v.",
+    "raw": "excuse n., v."
+  },
+  {
+    "word": "executive",
+    "pos": "n., adj.",
+    "raw": "executive n., adj."
+  },
+  {
+    "word": "existence",
+    "pos": "n.",
+    "raw": "existence n."
+  },
+  {
+    "word": "expectation",
+    "pos": "n.",
+    "raw": "expectation n."
+  },
+  {
+    "word": "expense",
+    "pos": "n.",
+    "raw": "expense n."
+  },
+  {
+    "word": "exploration",
+    "pos": "n.",
+    "raw": "exploration n."
+  },
+  {
+    "word": "expose",
+    "pos": "v.",
+    "raw": "expose v."
+  },
+  {
+    "word": "extend",
+    "pos": "v.",
+    "raw": "extend v."
+  },
+  {
+    "word": "extent",
+    "pos": "n.",
+    "raw": "extent n."
+  },
+  {
+    "word": "external",
+    "pos": "adj.",
+    "raw": "external adj."
+  },
+  {
+    "word": "extraordinary",
+    "pos": "adj.",
+    "raw": "extraordinary adj."
+  },
+  {
+    "word": "extreme",
+    "pos": "n.",
+    "raw": "extreme n."
+  },
+  {
+    "word": "facility",
+    "pos": "n.",
+    "raw": "facility n."
+  },
+  {
+    "word": "failure",
+    "pos": "n.",
+    "raw": "failure n."
+  },
+  {
+    "word": "faith",
+    "pos": "n.",
+    "raw": "faith n."
+  },
+  {
+    "word": "fault",
+    "pos": "n.",
+    "raw": "fault n."
+  },
+  {
+    "word": "favour",
+    "pos": "v.",
+    "raw": "favour v."
+  },
+  {
+    "word": "feather",
+    "pos": "n.",
+    "raw": "feather n."
+  },
+  {
+    "word": "fee",
+    "pos": "n.",
+    "raw": "fee n."
+  },
+  {
+    "word": "feed",
+    "pos": "n.",
+    "raw": "feed n."
+  },
+  {
+    "word": "feedback",
+    "pos": "n.",
+    "raw": "feedback n."
+  },
+  {
+    "word": "feel",
+    "pos": "n.",
+    "raw": "feel n."
+  },
+  {
+    "word": "fellow",
+    "pos": "adj.",
+    "raw": "fellow adj."
+  },
+  {
+    "word": "figure",
+    "pos": "v.",
+    "raw": "figure v."
+  },
+  {
+    "word": "file",
+    "pos": "v.",
+    "raw": "file v."
+  },
+  {
+    "word": "finance",
+    "pos": "n., v.",
+    "raw": "finance n., v."
+  },
+  {
+    "word": "finding",
+    "pos": "n.",
+    "raw": "finding n."
+  },
+  {
+    "word": "firm",
+    "pos": "n.",
+    "raw": "firm n."
+  },
+  {
+    "word": "fix",
+    "pos": "n.",
+    "raw": "fix n."
+  },
+  {
+    "word": "flame",
+    "pos": "n.",
+    "raw": "flame n."
+  },
+  {
+    "word": "flash",
+    "pos": "n., v.",
+    "raw": "flash n., v."
+  },
+  {
+    "word": "flexible",
+    "pos": "adj.",
+    "raw": "flexible adj."
+  },
+  {
+    "word": "float",
+    "pos": "v.",
+    "raw": "float v."
+  },
+  {
+    "word": "fold",
+    "pos": "n.",
+    "raw": "fold n."
+  },
+  {
+    "word": "folding",
+    "pos": "adj.",
+    "raw": "folding adj."
+  },
+  {
+    "word": "following",
+    "pos": "prep.",
+    "raw": "following prep."
+  },
+  {
+    "word": "forgive",
+    "pos": "v.",
+    "raw": "forgive v."
+  },
+  {
+    "word": "former",
+    "pos": "adj.",
+    "raw": "former adj."
+  },
+  {
+    "word": "fortune",
+    "pos": "n.",
+    "raw": "fortune n."
+  },
+  {
+    "word": "forward",
+    "pos": "adj.",
+    "raw": "forward adj."
+  },
+  {
+    "word": "found",
+    "pos": "v.",
+    "raw": "found v."
+  },
+  {
+    "word": "free",
+    "pos": "v.",
+    "raw": "free v."
+  },
+  {
+    "word": "freedom",
+    "pos": "n.",
+    "raw": "freedom n."
+  },
+  {
+    "word": "frequency",
+    "pos": "n.",
+    "raw": "frequency n."
+  },
+  {
+    "word": "fuel",
+    "pos": "v.",
+    "raw": "fuel v."
+  },
+  {
+    "word": "fully",
+    "pos": "adv.",
+    "raw": "fully adv."
+  },
+  {
+    "word": "function",
+    "pos": "v.",
+    "raw": "function v."
+  },
+  {
+    "word": "fund",
+    "pos": "n., v.",
+    "raw": "fund n., v."
+  },
+  {
+    "word": "fundamental",
+    "pos": "adj.",
+    "raw": "fundamental adj."
+  },
+  {
+    "word": "funding",
+    "pos": "n.",
+    "raw": "funding n."
+  },
+  {
+    "word": "furthermore",
+    "pos": "adv.",
+    "raw": "furthermore adv."
+  },
+  {
+    "word": "gain",
+    "pos": "v., n.",
+    "raw": "gain v., n."
+  },
+  {
+    "word": "gang",
+    "pos": "n.",
+    "raw": "gang n."
+  },
+  {
+    "word": "generate",
+    "pos": "v.",
+    "raw": "generate v."
+  },
+  {
+    "word": "genre",
+    "pos": "n.",
+    "raw": "genre n."
+  },
+  {
+    "word": "govern",
+    "pos": "v.",
+    "raw": "govern v."
+  },
+  {
+    "word": "grab",
+    "pos": "v.",
+    "raw": "grab v."
+  },
+  {
+    "word": "grade",
+    "pos": "v.",
+    "raw": "grade v."
+  },
+  {
+    "word": "gradually",
+    "pos": "adv.",
+    "raw": "gradually adv."
+  },
+  {
+    "word": "grand",
+    "pos": "adj.",
+    "raw": "grand adj."
+  },
+  {
+    "word": "grant",
+    "pos": "v., n.",
+    "raw": "grant v., n."
+  },
+  {
+    "word": "guarantee",
+    "pos": "v., n.",
+    "raw": "guarantee v., n."
+  },
+  {
+    "word": "handle",
+    "pos": "v., n.",
+    "raw": "handle v., n."
+  },
+  {
+    "word": "harm",
+    "pos": "n., v.",
+    "raw": "harm n., v."
+  },
+  {
+    "word": "harmful",
+    "pos": "adj.",
+    "raw": "harmful adj."
+  },
+  {
+    "word": "hearing",
+    "pos": "n.",
+    "raw": "hearing n."
+  },
+  {
+    "word": "heaven",
+    "pos": "n.",
+    "raw": "heaven n."
+  },
+  {
+    "word": "heel",
+    "pos": "n.",
+    "raw": "heel n."
+  },
+  {
+    "word": "hell",
+    "pos": "n.",
+    "raw": "hell n."
+  },
+  {
+    "word": "hesitate",
+    "pos": "v.",
+    "raw": "hesitate v."
+  },
+  {
+    "word": "high",
+    "pos": "n.",
+    "raw": "high n."
+  },
+  {
+    "word": "hire",
+    "pos": "n.",
+    "raw": "hire n."
+  },
+  {
+    "word": "hold",
+    "pos": "n.",
+    "raw": "hold n."
+  },
+  {
+    "word": "hollow",
+    "pos": "adj.",
+    "raw": "hollow adj."
+  },
+  {
+    "word": "holy",
+    "pos": "adj.",
+    "raw": "holy adj."
+  },
+  {
+    "word": "honour",
+    "pos": "n., v.",
+    "raw": "honour n., v."
+  },
+  {
+    "word": "host",
+    "pos": "v.",
+    "raw": "host v."
+  },
+  {
+    "word": "house",
+    "pos": "v.",
+    "raw": "house v."
+  },
+  {
+    "word": "household",
+    "pos": "n.",
+    "raw": "household n."
+  },
+  {
+    "word": "housing",
+    "pos": "n.",
+    "raw": "housing n."
+  },
+  {
+    "word": "humorous",
+    "pos": "adj.",
+    "raw": "humorous adj."
+  },
+  {
+    "word": "humour",
+    "pos": "n.",
+    "raw": "humour n."
+  },
+  {
+    "word": "hunt",
+    "pos": "n.",
+    "raw": "hunt n."
+  },
+  {
+    "word": "hunting",
+    "pos": "n.",
+    "raw": "hunting n."
+  },
+  {
+    "word": "hurt",
+    "pos": "n.",
+    "raw": "hurt n."
+  },
+  {
+    "word": "ideal",
+    "pos": "n.",
+    "raw": "ideal n."
+  },
+  {
+    "word": "illustrate",
+    "pos": "v.",
+    "raw": "illustrate v."
+  },
+  {
+    "word": "illustration",
+    "pos": "n.",
+    "raw": "illustration n."
+  },
+  {
+    "word": "imagination",
+    "pos": "n.",
+    "raw": "imagination n."
+  },
+  {
+    "word": "impatient",
+    "pos": "adj.",
+    "raw": "impatient adj."
+  },
+  {
+    "word": "imply",
+    "pos": "v.",
+    "raw": "imply v."
+  },
+  {
+    "word": "impose",
+    "pos": "v.",
+    "raw": "impose v."
+  },
+  {
+    "word": "impress",
+    "pos": "v.",
+    "raw": "impress v."
+  },
+  {
+    "word": "impressed",
+    "pos": "adj.",
+    "raw": "impressed adj."
+  },
+  {
+    "word": "inch",
+    "pos": "n.",
+    "raw": "inch n."
+  },
+  {
+    "word": "incident",
+    "pos": "n.",
+    "raw": "incident n."
+  },
+  {
+    "word": "income",
+    "pos": "n.",
+    "raw": "income n."
+  },
+  {
+    "word": "increasingly",
+    "pos": "adv.",
+    "raw": "increasingly adv."
+  },
+  {
+    "word": "industrial",
+    "pos": "adj.",
+    "raw": "industrial adj."
+  },
+  {
+    "word": "infection",
+    "pos": "n.",
+    "raw": "infection n."
+  },
+  {
+    "word": "inform",
+    "pos": "v.",
+    "raw": "inform v."
+  },
+  {
+    "word": "initial",
+    "pos": "adj.",
+    "raw": "initial adj."
+  },
+  {
+    "word": "initially",
+    "pos": "adv.",
+    "raw": "initially adv."
+  },
+  {
+    "word": "initiative",
+    "pos": "n.",
+    "raw": "initiative n."
+  },
+  {
+    "word": "inner",
+    "pos": "adj.",
+    "raw": "inner adj."
+  },
+  {
+    "word": "insight",
+    "pos": "n.",
+    "raw": "insight n."
+  },
+  {
+    "word": "insist",
+    "pos": "v.",
+    "raw": "insist v."
+  },
+  {
+    "word": "inspire",
+    "pos": "v.",
+    "raw": "inspire v."
+  },
+  {
+    "word": "install",
+    "pos": "v.",
+    "raw": "install v."
+  },
+  {
+    "word": "instance",
+    "pos": "n.",
+    "raw": "instance n."
+  },
+  {
+    "word": "institute",
+    "pos": "n.",
+    "raw": "institute n."
+  },
+  {
+    "word": "institution",
+    "pos": "n.",
+    "raw": "institution n."
+  },
+  {
+    "word": "insurance",
+    "pos": "n.",
+    "raw": "insurance n."
+  },
+  {
+    "word": "intended",
+    "pos": "adj.",
+    "raw": "intended adj."
+  },
+  {
+    "word": "intense",
+    "pos": "adj.",
+    "raw": "intense adj."
+  },
+  {
+    "word": "internal",
+    "pos": "adj.",
+    "raw": "internal adj."
+  },
+  {
+    "word": "interpret",
+    "pos": "v.",
+    "raw": "interpret v."
+  },
+  {
+    "word": "interrupt",
+    "pos": "v.",
+    "raw": "interrupt v."
+  },
+  {
+    "word": "investigation",
+    "pos": "n.",
+    "raw": "investigation n."
+  },
+  {
+    "word": "investment",
+    "pos": "n.",
+    "raw": "investment n."
+  },
+  {
+    "word": "issue",
+    "pos": "v.",
+    "raw": "issue v."
+  },
+  {
+    "word": "joy",
+    "pos": "n.",
+    "raw": "joy n."
+  },
+  {
+    "word": "judgement",
+    "pos": "n.",
+    "raw": "judgement n."
+  },
+  {
+    "word": "junior",
+    "pos": "adj.",
+    "raw": "junior adj."
+  },
+  {
+    "word": "justice",
+    "pos": "n.",
+    "raw": "justice n."
+  },
+  {
+    "word": "justify",
+    "pos": "v.",
+    "raw": "justify v."
+  },
+  {
+    "word": "labour",
+    "pos": "n.",
+    "raw": "labour n."
+  },
+  {
+    "word": "landscape",
+    "pos": "n.",
+    "raw": "landscape n."
+  },
+  {
+    "word": "largely",
+    "pos": "adv.",
+    "raw": "largely adv."
+  },
+  {
+    "word": "latest",
+    "pos": "n.",
+    "raw": "latest n."
+  },
+  {
+    "word": "launch",
+    "pos": "v., n.",
+    "raw": "launch v., n."
+  },
+  {
+    "word": "leadership",
+    "pos": "n.",
+    "raw": "leadership n."
+  },
+  {
+    "word": "league",
+    "pos": "n.",
+    "raw": "league n."
+  },
+  {
+    "word": "lean",
+    "pos": "v.",
+    "raw": "lean v."
+  },
+  {
+    "word": "leave",
+    "pos": "n.",
+    "raw": "leave n."
+  },
+  {
+    "word": "level",
+    "pos": "v.",
+    "raw": "level v."
+  },
+  {
+    "word": "licence",
+    "pos": "n.",
+    "raw": "licence n."
+  },
+  {
+    "word": "limited",
+    "pos": "adj.",
+    "raw": "limited adj."
+  },
+  {
+    "word": "line",
+    "pos": "v.",
+    "raw": "line v."
+  },
+  {
+    "word": "lively",
+    "pos": "adj.",
+    "raw": "lively adj."
+  },
+  {
+    "word": "load",
+    "pos": "n., v.",
+    "raw": "load n., v."
+  },
+  {
+    "word": "loan",
+    "pos": "n.",
+    "raw": "loan n."
+  },
+  {
+    "word": "logical",
+    "pos": "adj.",
+    "raw": "logical adj."
+  },
+  {
+    "word": "long-term",
+    "pos": "adj., adv.",
+    "raw": "long-term adj., adv."
+  },
+  {
+    "word": "loose",
+    "pos": "adj.",
+    "raw": "loose adj."
+  },
+  {
+    "word": "lord",
+    "pos": "n.",
+    "raw": "lord n."
+  },
+  {
+    "word": "low",
+    "pos": "n.",
+    "raw": "low n."
+  },
+  {
+    "word": "lower",
+    "pos": "v.",
+    "raw": "lower v."
+  },
+  {
+    "word": "lung",
+    "pos": "n.",
+    "raw": "lung n."
+  },
+  {
+    "word": "maintain",
+    "pos": "v.",
+    "raw": "maintain v."
+  },
+  {
+    "word": "majority",
+    "pos": "n.",
+    "raw": "majority n."
+  },
+  {
+    "word": "make",
+    "pos": "n.",
+    "raw": "make n."
+  },
+  {
+    "word": "map",
+    "pos": "v.",
+    "raw": "map v."
+  },
+  {
+    "word": "mass",
+    "pos": "n., adj.",
+    "raw": "mass n., adj."
+  },
+  {
+    "word": "massive",
+    "pos": "adj.",
+    "raw": "massive adj."
+  },
+  {
+    "word": "master",
+    "pos": "n., v.",
+    "raw": "master n., v."
+  },
+  {
+    "word": "matching",
+    "pos": "adj.",
+    "raw": "matching adj."
+  },
+  {
+    "word": "material",
+    "pos": "adj.",
+    "raw": "material adj."
+  },
+  {
+    "word": "maximum",
+    "pos": "adj., n.",
+    "raw": "maximum adj., n."
+  },
+  {
+    "word": "means",
+    "pos": "n.",
+    "raw": "means n."
+  },
+  {
+    "word": "measurement",
+    "pos": "n.",
+    "raw": "measurement n."
+  },
+  {
+    "word": "medium",
+    "pos": "n.",
+    "raw": "medium n."
+  },
+  {
+    "word": "melt",
+    "pos": "v.",
+    "raw": "melt v."
+  },
+  {
+    "word": "military",
+    "pos": "adj., n.",
+    "raw": "military adj., n."
+  },
+  {
+    "word": "mineral",
+    "pos": "n.",
+    "raw": "mineral n."
+  },
+  {
+    "word": "minimum",
+    "pos": "adj., n.",
+    "raw": "minimum adj., n."
+  },
+  {
+    "word": "minister",
+    "pos": "n.",
+    "raw": "minister n."
+  },
+  {
+    "word": "minor",
+    "pos": "adj.",
+    "raw": "minor adj."
+  },
+  {
+    "word": "minority",
+    "pos": "n.",
+    "raw": "minority n."
+  },
+  {
+    "word": "mission",
+    "pos": "n.",
+    "raw": "mission n."
+  },
+  {
+    "word": "mistake",
+    "pos": "v.",
+    "raw": "mistake v."
+  },
+  {
+    "word": "mixed",
+    "pos": "adj.",
+    "raw": "mixed adj."
+  },
+  {
+    "word": "model",
+    "pos": "v.",
+    "raw": "model v."
+  },
+  {
+    "word": "modify",
+    "pos": "v.",
+    "raw": "modify v."
+  },
+  {
+    "word": "monitor",
+    "pos": "n., v.",
+    "raw": "monitor n., v."
+  },
+  {
+    "word": "moral",
+    "pos": "adj., n.",
+    "raw": "moral adj., n."
+  },
+  {
+    "word": "motor",
+    "pos": "n., adj.",
+    "raw": "motor n., adj."
+  },
+  {
+    "word": "mount",
+    "pos": "v.",
+    "raw": "mount v."
+  },
+  {
+    "word": "multiple",
+    "pos": "adj.",
+    "raw": "multiple adj."
+  },
+  {
+    "word": "multiply",
+    "pos": "v.",
+    "raw": "multiply v."
+  },
+  {
+    "word": "mysterious",
+    "pos": "adj.",
+    "raw": "mysterious adj."
+  },
+  {
+    "word": "narrow",
+    "pos": "v.",
+    "raw": "narrow v."
+  },
+  {
+    "word": "national",
+    "pos": "n.",
+    "raw": "national n."
+  },
+  {
+    "word": "neat",
+    "pos": "adj.",
+    "raw": "neat adj."
+  },
+  {
+    "word": "negative",
+    "pos": "n.",
+    "raw": "negative n."
+  },
+  {
+    "word": "nerve",
+    "pos": "n.",
+    "raw": "nerve n."
+  },
+  {
+    "word": "nevertheless",
+    "pos": "adv.",
+    "raw": "nevertheless adv."
+  },
+  {
+    "word": "nightmare",
+    "pos": "n.",
+    "raw": "nightmare n."
+  },
+  {
+    "word": "notion",
+    "pos": "n.",
+    "raw": "notion n."
+  },
+  {
+    "word": "numerous",
+    "pos": "adj.",
+    "raw": "numerous adj."
+  },
+  {
+    "word": "obey",
+    "pos": "v.",
+    "raw": "obey v."
+  },
+  {
+    "word": "object",
+    "pos": "v.",
+    "raw": "object v."
+  },
+  {
+    "word": "objective",
+    "pos": "n., adj.",
+    "raw": "objective n., adj."
+  },
+  {
+    "word": "obligation",
+    "pos": "n.",
+    "raw": "obligation n."
+  },
+  {
+    "word": "observation",
+    "pos": "n.",
+    "raw": "observation n."
+  },
+  {
+    "word": "observe",
+    "pos": "v.",
+    "raw": "observe v."
+  },
+  {
+    "word": "obtain",
+    "pos": "v.",
+    "raw": "obtain v."
+  },
+  {
+    "word": "occasionally",
+    "pos": "adv.",
+    "raw": "occasionally adv."
+  },
+  {
+    "word": "offence",
+    "pos": "n.",
+    "raw": "offence n."
+  },
+  {
+    "word": "offend",
+    "pos": "v.",
+    "raw": "offend v."
+  },
+  {
+    "word": "offensive",
+    "pos": "adj.",
+    "raw": "offensive adj."
+  },
+  {
+    "word": "official",
+    "pos": "n.",
+    "raw": "official n."
+  },
+  {
+    "word": "opening",
+    "pos": "n.",
+    "raw": "opening n."
+  },
+  {
+    "word": "operate",
+    "pos": "v.",
+    "raw": "operate v."
+  },
+  {
+    "word": "opponent",
+    "pos": "n. -- 11 of 12 --",
+    "raw": "opponent n. -- 11 of 12 --"
+  },
+  {
+    "word": "oppose",
+    "pos": "v.",
+    "raw": "oppose v."
+  },
+  {
+    "word": "opposed",
+    "pos": "adj.",
+    "raw": "opposed adj."
+  },
+  {
+    "word": "opposition",
+    "pos": "n.",
+    "raw": "opposition n."
+  },
+  {
+    "word": "organ",
+    "pos": "n.",
+    "raw": "organ n."
+  },
+  {
+    "word": "origin",
+    "pos": "n.",
+    "raw": "origin n."
+  },
+  {
+    "word": "otherwise",
+    "pos": "adv.",
+    "raw": "otherwise adv."
+  },
+  {
+    "word": "outcome",
+    "pos": "n.",
+    "raw": "outcome n."
+  },
+  {
+    "word": "outer",
+    "pos": "adj.",
+    "raw": "outer adj."
+  },
+  {
+    "word": "outline",
+    "pos": "n., v.",
+    "raw": "outline n., v."
+  },
+  {
+    "word": "overall",
+    "pos": "adj., adv.",
+    "raw": "overall adj., adv."
+  },
+  {
+    "word": "owe",
+    "pos": "v.",
+    "raw": "owe v."
+  },
+  {
+    "word": "pace",
+    "pos": "n., v.",
+    "raw": "pace n., v."
+  },
+  {
+    "word": "package",
+    "pos": "v.",
+    "raw": "package v."
+  },
+  {
+    "word": "panel",
+    "pos": "n.",
+    "raw": "panel n."
+  },
+  {
+    "word": "parliament",
+    "pos": "n.",
+    "raw": "parliament n."
+  },
+  {
+    "word": "participant",
+    "pos": "n.",
+    "raw": "participant n."
+  },
+  {
+    "word": "partly",
+    "pos": "adv.",
+    "raw": "partly adv."
+  },
+  {
+    "word": "passage",
+    "pos": "n.",
+    "raw": "passage n."
+  },
+  {
+    "word": "patient",
+    "pos": "adj.",
+    "raw": "patient adj."
+  },
+  {
+    "word": "pension1",
+    "pos": "n.",
+    "raw": "pension1 n."
+  },
+  {
+    "word": "permanent",
+    "pos": "adj.",
+    "raw": "permanent adj."
+  },
+  {
+    "word": "permit",
+    "pos": "v., n.",
+    "raw": "permit v., n."
+  },
+  {
+    "word": "perspective",
+    "pos": "n.",
+    "raw": "perspective n."
+  },
+  {
+    "word": "phase",
+    "pos": "n.",
+    "raw": "phase n."
+  },
+  {
+    "word": "phenomenon",
+    "pos": "n.",
+    "raw": "phenomenon n."
+  },
+  {
+    "word": "philosophy",
+    "pos": "n.",
+    "raw": "philosophy n."
+  },
+  {
+    "word": "pick",
+    "pos": "n.",
+    "raw": "pick n."
+  },
+  {
+    "word": "picture",
+    "pos": "v.",
+    "raw": "picture v."
+  },
+  {
+    "word": "pile",
+    "pos": "n., v.",
+    "raw": "pile n., v."
+  },
+  {
+    "word": "pitch",
+    "pos": "n.",
+    "raw": "pitch n."
+  },
+  {
+    "word": "plain",
+    "pos": "adj.",
+    "raw": "plain adj."
+  },
+  {
+    "word": "plot",
+    "pos": "v.",
+    "raw": "plot v."
+  },
+  {
+    "word": "plus1",
+    "pos": "adj., n., conj.",
+    "raw": "plus1 adj., n., conj."
+  },
+  {
+    "word": "pointed",
+    "pos": "adj.",
+    "raw": "pointed adj."
+  },
+  {
+    "word": "popularity",
+    "pos": "n.",
+    "raw": "popularity n."
+  },
+  {
+    "word": "pose",
+    "pos": "v.",
+    "raw": "pose v."
+  },
+  {
+    "word": "position",
+    "pos": "v.",
+    "raw": "position v."
+  },
+  {
+    "word": "positive",
+    "pos": "n.",
+    "raw": "positive n."
+  },
+  {
+    "word": "possess",
+    "pos": "v.",
+    "raw": "possess v."
+  },
+  {
+    "word": "potential",
+    "pos": "adj., n.",
+    "raw": "potential adj., n."
+  },
+  {
+    "word": "power",
+    "pos": "v.",
+    "raw": "power v."
+  },
+  {
+    "word": "praise",
+    "pos": "n., v.",
+    "raw": "praise n., v."
+  },
+  {
+    "word": "pregnant",
+    "pos": "adj.",
+    "raw": "pregnant adj."
+  },
+  {
+    "word": "preparation",
+    "pos": "n.",
+    "raw": "preparation n."
+  },
+  {
+    "word": "presence",
+    "pos": "n.",
+    "raw": "presence n."
+  },
+  {
+    "word": "preserve",
+    "pos": "v.",
+    "raw": "preserve v."
+  },
+  {
+    "word": "price",
+    "pos": "v.",
+    "raw": "price v."
+  },
+  {
+    "word": "prime",
+    "pos": "adj.",
+    "raw": "prime adj."
+  },
+  {
+    "word": "principle",
+    "pos": "n.",
+    "raw": "principle n."
+  },
+  {
+    "word": "print",
+    "pos": "n.",
+    "raw": "print n."
+  },
+  {
+    "word": "priority",
+    "pos": "n.",
+    "raw": "priority n."
+  },
+  {
+    "word": "privacy",
+    "pos": "n.",
+    "raw": "privacy n."
+  },
+  {
+    "word": "procedure",
+    "pos": "n.",
+    "raw": "procedure n."
+  },
+  {
+    "word": "process",
+    "pos": "v.",
+    "raw": "process v."
+  },
+  {
+    "word": "produce",
+    "pos": "n.",
+    "raw": "produce n."
+  },
+  {
+    "word": "professional",
+    "pos": "n.",
+    "raw": "professional n."
+  },
+  {
+    "word": "progress",
+    "pos": "v.",
+    "raw": "progress v."
+  },
+  {
+    "word": "project",
+    "pos": "v.",
+    "raw": "project v."
+  },
+  {
+    "word": "proof",
+    "pos": "n.",
+    "raw": "proof n."
+  },
+  {
+    "word": "proposal",
+    "pos": "n.",
+    "raw": "proposal n."
+  },
+  {
+    "word": "propose",
+    "pos": "v.",
+    "raw": "propose v."
+  },
+  {
+    "word": "prospect",
+    "pos": "n.",
+    "raw": "prospect n."
+  },
+  {
+    "word": "protection",
+    "pos": "n.",
+    "raw": "protection n."
+  },
+  {
+    "word": "psychologist",
+    "pos": "n.",
+    "raw": "psychologist n."
+  },
+  {
+    "word": "psychology",
+    "pos": "n.",
+    "raw": "psychology n."
+  },
+  {
+    "word": "publication",
+    "pos": "n.",
+    "raw": "publication n."
+  },
+  {
+    "word": "pupil",
+    "pos": "n.",
+    "raw": "pupil n."
+  },
+  {
+    "word": "purchase",
+    "pos": "n., v.",
+    "raw": "purchase n., v."
+  },
+  {
+    "word": "pure",
+    "pos": "adj.",
+    "raw": "pure adj."
+  },
+  {
+    "word": "pursue",
+    "pos": "v.",
+    "raw": "pursue v."
+  },
+  {
+    "word": "range",
+    "pos": "v.",
+    "raw": "range v."
+  },
+  {
+    "word": "rank",
+    "pos": "n., v.",
+    "raw": "rank n., v."
+  },
+  {
+    "word": "rapid",
+    "pos": "adj.",
+    "raw": "rapid adj."
+  },
+  {
+    "word": "rapidly",
+    "pos": "adv.",
+    "raw": "rapidly adv."
+  },
+  {
+    "word": "rate",
+    "pos": "v.",
+    "raw": "rate v."
+  },
+  {
+    "word": "raw",
+    "pos": "adj.",
+    "raw": "raw adj."
+  },
+  {
+    "word": "reach",
+    "pos": "n.",
+    "raw": "reach n."
+  },
+  {
+    "word": "realistic",
+    "pos": "adj.",
+    "raw": "realistic adj."
+  },
+  {
+    "word": "reasonable",
+    "pos": "adj.",
+    "raw": "reasonable adj."
+  },
+  {
+    "word": "recall",
+    "pos": "v.",
+    "raw": "recall v."
+  },
+  {
+    "word": "recover",
+    "pos": "v.",
+    "raw": "recover v."
+  },
+  {
+    "word": "reduction",
+    "pos": "n.",
+    "raw": "reduction n."
+  },
+  {
+    "word": "regard",
+    "pos": "v., n.",
+    "raw": "regard v., n."
+  },
+  {
+    "word": "regional",
+    "pos": "adj.",
+    "raw": "regional adj."
+  },
+  {
+    "word": "register",
+    "pos": "v., n.",
+    "raw": "register v., n."
+  },
+  {
+    "word": "regret",
+    "pos": "v., n.",
+    "raw": "regret v., n."
+  },
+  {
+    "word": "regulation",
+    "pos": "n.",
+    "raw": "regulation n."
+  },
+  {
+    "word": "relatively",
+    "pos": "adv.",
+    "raw": "relatively adv."
+  },
+  {
+    "word": "relevant",
+    "pos": "adj.",
+    "raw": "relevant adj."
+  },
+  {
+    "word": "relief",
+    "pos": "n.",
+    "raw": "relief n."
+  },
+  {
+    "word": "rely",
+    "pos": "v.",
+    "raw": "rely v."
+  },
+  {
+    "word": "remark",
+    "pos": "n., v.",
+    "raw": "remark n., v."
+  },
+  {
+    "word": "representative",
+    "pos": "n., adj.",
+    "raw": "representative n., adj."
+  },
+  {
+    "word": "reputation",
+    "pos": "n.",
+    "raw": "reputation n."
+  },
+  {
+    "word": "requirement",
+    "pos": "n.",
+    "raw": "requirement n."
+  },
+  {
+    "word": "rescue",
+    "pos": "v., n.",
+    "raw": "rescue v., n."
+  },
+  {
+    "word": "reserve",
+    "pos": "n., v.",
+    "raw": "reserve n., v."
+  },
+  {
+    "word": "resident",
+    "pos": "n., adj.",
+    "raw": "resident n., adj."
+  },
+  {
+    "word": "resist",
+    "pos": "v.",
+    "raw": "resist v."
+  },
+  {
+    "word": "resolve",
+    "pos": "v.",
+    "raw": "resolve v."
+  },
+  {
+    "word": "resort",
+    "pos": "n.",
+    "raw": "resort n."
+  },
+  {
+    "word": "retain",
+    "pos": "v.",
+    "raw": "retain v."
+  },
+  {
+    "word": "reveal",
+    "pos": "v.",
+    "raw": "reveal v."
+  },
+  {
+    "word": "revolution",
+    "pos": "n.",
+    "raw": "revolution n."
+  },
+  {
+    "word": "reward",
+    "pos": "n., v.",
+    "raw": "reward n., v."
+  },
+  {
+    "word": "rhythm",
+    "pos": "n.",
+    "raw": "rhythm n."
+  },
+  {
+    "word": "rid",
+    "pos": "v.",
+    "raw": "rid v."
+  },
+  {
+    "word": "root",
+    "pos": "n.",
+    "raw": "root n."
+  },
+  {
+    "word": "round",
+    "pos": "n.",
+    "raw": "round n."
+  },
+  {
+    "word": "routine",
+    "pos": "adj.",
+    "raw": "routine adj."
+  },
+  {
+    "word": "rub",
+    "pos": "v.",
+    "raw": "rub v."
+  },
+  {
+    "word": "rubber",
+    "pos": "n., adj.",
+    "raw": "rubber n., adj."
+  },
+  {
+    "word": "rural",
+    "pos": "adj.",
+    "raw": "rural adj."
+  },
+  {
+    "word": "rush",
+    "pos": "v., n.",
+    "raw": "rush v., n."
+  },
+  {
+    "word": "sample",
+    "pos": "v.",
+    "raw": "sample v."
+  },
+  {
+    "word": "satellite",
+    "pos": "n.",
+    "raw": "satellite n."
+  },
+  {
+    "word": "satisfied",
+    "pos": "adj.",
+    "raw": "satisfied adj."
+  },
+  {
+    "word": "satisfy",
+    "pos": "v.",
+    "raw": "satisfy v."
+  },
+  {
+    "word": "saving",
+    "pos": "n.",
+    "raw": "saving n."
+  },
+  {
+    "word": "scale",
+    "pos": "n.",
+    "raw": "scale n."
+  },
+  {
+    "word": "schedule",
+    "pos": "v.",
+    "raw": "schedule v."
+  },
+  {
+    "word": "scheme",
+    "pos": "n.",
+    "raw": "scheme n."
+  },
+  {
+    "word": "scream",
+    "pos": "v., n.",
+    "raw": "scream v., n."
+  },
+  {
+    "word": "screen",
+    "pos": "v.",
+    "raw": "screen v."
+  },
+  {
+    "word": "seat",
+    "pos": "v.",
+    "raw": "seat v."
+  },
+  {
+    "word": "sector",
+    "pos": "n.",
+    "raw": "sector n."
+  },
+  {
+    "word": "secure",
+    "pos": "v., adj.",
+    "raw": "secure v., adj."
+  },
+  {
+    "word": "seek",
+    "pos": "v.",
+    "raw": "seek v."
+  },
+  {
+    "word": "select",
+    "pos": "v.",
+    "raw": "select v."
+  },
+  {
+    "word": "selection",
+    "pos": "n.",
+    "raw": "selection n."
+  },
+  {
+    "word": "self",
+    "pos": "n.",
+    "raw": "self n."
+  },
+  {
+    "word": "senior",
+    "pos": "adj.",
+    "raw": "senior adj."
+  },
+  {
+    "word": "sense",
+    "pos": "v.",
+    "raw": "sense v."
+  },
+  {
+    "word": "sensitive",
+    "pos": "adj.",
+    "raw": "sensitive adj."
+  },
+  {
+    "word": "sentence",
+    "pos": "v.",
+    "raw": "sentence v."
+  },
+  {
+    "word": "sequence",
+    "pos": "n.",
+    "raw": "sequence n."
+  },
+  {
+    "word": "session",
+    "pos": "n.",
+    "raw": "session n."
+  },
+  {
+    "word": "settle",
+    "pos": "v.",
+    "raw": "settle v."
+  },
+  {
+    "word": "severe",
+    "pos": "adj.",
+    "raw": "severe adj."
+  },
+  {
+    "word": "shade",
+    "pos": "n.",
+    "raw": "shade n."
+  },
+  {
+    "word": "shadow",
+    "pos": "n.",
+    "raw": "shadow n."
+  },
+  {
+    "word": "shallow",
+    "pos": "adj.",
+    "raw": "shallow adj."
+  },
+  {
+    "word": "shame",
+    "pos": "n.",
+    "raw": "shame n."
+  },
+  {
+    "word": "shape",
+    "pos": "v.",
+    "raw": "shape v."
+  },
+  {
+    "word": "shelter",
+    "pos": "n., v.",
+    "raw": "shelter n., v."
+  },
+  {
+    "word": "shift",
+    "pos": "v.",
+    "raw": "shift v."
+  },
+  {
+    "word": "ship",
+    "pos": "v.",
+    "raw": "ship v."
+  },
+  {
+    "word": "shock",
+    "pos": "n., v.",
+    "raw": "shock n., v."
+  },
+  {
+    "word": "shocked",
+    "pos": "adj.",
+    "raw": "shocked adj."
+  },
+  {
+    "word": "shooting",
+    "pos": "n.",
+    "raw": "shooting n."
+  },
+  {
+    "word": "shot",
+    "pos": "n.",
+    "raw": "shot n."
+  },
+  {
+    "word": "significant",
+    "pos": "adj.",
+    "raw": "significant adj."
+  },
+  {
+    "word": "significantly",
+    "pos": "adv.",
+    "raw": "significantly adv."
+  },
+  {
+    "word": "silence",
+    "pos": "n.",
+    "raw": "silence n."
+  },
+  {
+    "word": "silk",
+    "pos": "n.",
+    "raw": "silk n."
+  },
+  {
+    "word": "sincere",
+    "pos": "adj.",
+    "raw": "sincere adj."
+  },
+  {
+    "word": "slave",
+    "pos": "n.",
+    "raw": "slave n."
+  },
+  {
+    "word": "slide",
+    "pos": "v., n.",
+    "raw": "slide v., n."
+  },
+  {
+    "word": "slight",
+    "pos": "adj.",
+    "raw": "slight adj."
+  },
+  {
+    "word": "slip",
+    "pos": "v.",
+    "raw": "slip v."
+  },
+  {
+    "word": "slope",
+    "pos": "n., v.",
+    "raw": "slope n., v."
+  },
+  {
+    "word": "solar",
+    "pos": "adj.",
+    "raw": "solar adj."
+  },
+  {
+    "word": "somewhat",
+    "pos": "adv.",
+    "raw": "somewhat adv."
+  },
+  {
+    "word": "soul",
+    "pos": "n.",
+    "raw": "soul n."
+  },
+  {
+    "word": "specialist",
+    "pos": "n., adj.",
+    "raw": "specialist n., adj."
+  },
+  {
+    "word": "species",
+    "pos": "n.",
+    "raw": "species n."
+  },
+  {
+    "word": "speed",
+    "pos": "v.",
+    "raw": "speed v."
+  },
+  {
+    "word": "spiritual",
+    "pos": "adj.",
+    "raw": "spiritual adj."
+  },
+  {
+    "word": "split",
+    "pos": "v., n.",
+    "raw": "split v., n."
+  },
+  {
+    "word": "sponsor",
+    "pos": "v., n.",
+    "raw": "sponsor v., n."
+  },
+  {
+    "word": "spot",
+    "pos": "v.",
+    "raw": "spot v."
+  },
+  {
+    "word": "spread",
+    "pos": "n.",
+    "raw": "spread n."
+  },
+  {
+    "word": "stable",
+    "pos": "adj.",
+    "raw": "stable adj."
+  },
+  {
+    "word": "stage",
+    "pos": "v.",
+    "raw": "stage v."
+  },
+  {
+    "word": "stand",
+    "pos": "n.",
+    "raw": "stand n."
+  },
+  {
+    "word": "stare",
+    "pos": "v.",
+    "raw": "stare v."
+  },
+  {
+    "word": "status",
+    "pos": "n.",
+    "raw": "status n."
+  },
+  {
+    "word": "steady",
+    "pos": "adj.",
+    "raw": "steady adj."
+  },
+  {
+    "word": "steel",
+    "pos": "n.",
+    "raw": "steel n."
+  },
+  {
+    "word": "steep",
+    "pos": "adj.",
+    "raw": "steep adj."
+  },
+  {
+    "word": "step",
+    "pos": "v.",
+    "raw": "step v."
+  },
+  {
+    "word": "sticky",
+    "pos": "adj.",
+    "raw": "sticky adj."
+  },
+  {
+    "word": "stiff",
+    "pos": "adj.",
+    "raw": "stiff adj."
+  },
+  {
+    "word": "stock",
+    "pos": "n.",
+    "raw": "stock n."
+  },
+  {
+    "word": "stream",
+    "pos": "n.",
+    "raw": "stream n."
+  },
+  {
+    "word": "stretch",
+    "pos": "v., n.",
+    "raw": "stretch v., n."
+  },
+  {
+    "word": "strict",
+    "pos": "adj.",
+    "raw": "strict adj."
+  },
+  {
+    "word": "strike",
+    "pos": "v., n.",
+    "raw": "strike v., n."
+  },
+  {
+    "word": "structure",
+    "pos": "v.",
+    "raw": "structure v."
+  },
+  {
+    "word": "struggle",
+    "pos": "v., n.",
+    "raw": "struggle v., n."
+  },
+  {
+    "word": "stuff",
+    "pos": "v.",
+    "raw": "stuff v."
+  },
+  {
+    "word": "subject",
+    "pos": "adj.",
+    "raw": "subject adj."
+  },
+  {
+    "word": "submit",
+    "pos": "v.",
+    "raw": "submit v."
+  },
+  {
+    "word": "sum",
+    "pos": "n., v.",
+    "raw": "sum n., v."
+  },
+  {
+    "word": "surgery",
+    "pos": "n.",
+    "raw": "surgery n."
+  },
+  {
+    "word": "surround",
+    "pos": "v.",
+    "raw": "surround v."
+  },
+  {
+    "word": "surrounding",
+    "pos": "adj.",
+    "raw": "surrounding adj."
+  },
+  {
+    "word": "survey",
+    "pos": "v.",
+    "raw": "survey v."
+  },
+  {
+    "word": "suspect",
+    "pos": "v., n.",
+    "raw": "suspect v., n."
+  },
+  {
+    "word": "swear",
+    "pos": "v.",
+    "raw": "swear v."
+  },
+  {
+    "word": "sweep",
+    "pos": "v.",
+    "raw": "sweep v."
+  },
+  {
+    "word": "switch",
+    "pos": "n.",
+    "raw": "switch n."
+  },
+  {
+    "word": "sympathy",
+    "pos": "n.",
+    "raw": "sympathy n."
+  },
+  {
+    "word": "tale",
+    "pos": "n.",
+    "raw": "tale n."
+  },
+  {
+    "word": "tank",
+    "pos": "n.",
+    "raw": "tank n."
+  },
+  {
+    "word": "target",
+    "pos": "v.",
+    "raw": "target v."
+  },
+  {
+    "word": "tear1",
+    "pos": "v., n.",
+    "raw": "tear1 v., n."
+  },
+  {
+    "word": "tear2",
+    "pos": "n.",
+    "raw": "tear2 n."
+  },
+  {
+    "word": "temporary",
+    "pos": "adj.",
+    "raw": "temporary adj."
+  },
+  {
+    "word": "term",
+    "pos": "v.",
+    "raw": "term v."
+  },
+  {
+    "word": "therapy",
+    "pos": "n.",
+    "raw": "therapy n."
+  },
+  {
+    "word": "threat",
+    "pos": "n.",
+    "raw": "threat n."
+  },
+  {
+    "word": "threaten",
+    "pos": "v.",
+    "raw": "threaten v."
+  },
+  {
+    "word": "thus",
+    "pos": "adv.",
+    "raw": "thus adv."
+  },
+  {
+    "word": "time",
+    "pos": "v.",
+    "raw": "time v."
+  },
+  {
+    "word": "title",
+    "pos": "v.",
+    "raw": "title v."
+  },
+  {
+    "word": "tone",
+    "pos": "n.",
+    "raw": "tone n."
+  },
+  {
+    "word": "tough",
+    "pos": "adj.",
+    "raw": "tough adj."
+  },
+  {
+    "word": "track",
+    "pos": "v.",
+    "raw": "track v."
+  },
+  {
+    "word": "transfer",
+    "pos": "v., n.",
+    "raw": "transfer v., n."
+  },
+  {
+    "word": "transform",
+    "pos": "v.",
+    "raw": "transform v."
+  },
+  {
+    "word": "transition",
+    "pos": "n.",
+    "raw": "transition n."
+  },
+  {
+    "word": "trial",
+    "pos": "n.",
+    "raw": "trial n."
+  },
+  {
+    "word": "trip",
+    "pos": "v.",
+    "raw": "trip v."
+  },
+  {
+    "word": "tropical",
+    "pos": "adj.",
+    "raw": "tropical adj."
+  },
+  {
+    "word": "trouble",
+    "pos": "v.",
+    "raw": "trouble v."
+  },
+  {
+    "word": "truly",
+    "pos": "adv.",
+    "raw": "truly adv."
+  },
+  {
+    "word": "trust",
+    "pos": "n., v.",
+    "raw": "trust n., v."
+  },
+  {
+    "word": "try",
+    "pos": "n.",
+    "raw": "try n."
+  },
+  {
+    "word": "tune",
+    "pos": "n.",
+    "raw": "tune n."
+  },
+  {
+    "word": "tunnel",
+    "pos": "n.",
+    "raw": "tunnel n."
+  },
+  {
+    "word": "ultimately",
+    "pos": "adv.",
+    "raw": "ultimately adv."
+  },
+  {
+    "word": "unconscious",
+    "pos": "adj.",
+    "raw": "unconscious adj."
+  },
+  {
+    "word": "unexpected",
+    "pos": "adj.",
+    "raw": "unexpected adj."
+  },
+  {
+    "word": "unique",
+    "pos": "adj.",
+    "raw": "unique adj."
+  },
+  {
+    "word": "universe",
+    "pos": "n.",
+    "raw": "universe n."
+  },
+  {
+    "word": "unknown",
+    "pos": "adj.",
+    "raw": "unknown adj."
+  },
+  {
+    "word": "upper",
+    "pos": "adj.",
+    "raw": "upper adj."
+  },
+  {
+    "word": "upwards",
+    "pos": "adv.",
+    "raw": "upwards adv."
+  },
+  {
+    "word": "urban",
+    "pos": "adj.",
+    "raw": "urban adj."
+  },
+  {
+    "word": "urge",
+    "pos": "v.",
+    "raw": "urge v."
+  },
+  {
+    "word": "value",
+    "pos": "v.",
+    "raw": "value v."
+  },
+  {
+    "word": "vary",
+    "pos": "v.",
+    "raw": "vary v."
+  },
+  {
+    "word": "vast",
+    "pos": "adj.",
+    "raw": "vast adj."
+  },
+  {
+    "word": "venue",
+    "pos": "n.",
+    "raw": "venue n."
+  },
+  {
+    "word": "very",
+    "pos": "adj.",
+    "raw": "very adj."
+  },
+  {
+    "word": "via",
+    "pos": "prep.",
+    "raw": "via prep."
+  },
+  {
+    "word": "victory",
+    "pos": "n.",
+    "raw": "victory n."
+  },
+  {
+    "word": "violence",
+    "pos": "n.",
+    "raw": "violence n."
+  },
+  {
+    "word": "virtual",
+    "pos": "adj.",
+    "raw": "virtual adj."
+  },
+  {
+    "word": "vision",
+    "pos": "n.",
+    "raw": "vision n."
+  },
+  {
+    "word": "visual",
+    "pos": "adj.",
+    "raw": "visual adj."
+  },
+  {
+    "word": "vital",
+    "pos": "adj.",
+    "raw": "vital adj."
+  },
+  {
+    "word": "vitamin",
+    "pos": "n.",
+    "raw": "vitamin n."
+  },
+  {
+    "word": "volume",
+    "pos": "n.",
+    "raw": "volume n."
+  },
+  {
+    "word": "wage",
+    "pos": "n.",
+    "raw": "wage n."
+  },
+  {
+    "word": "way",
+    "pos": "adv.",
+    "raw": "way adv."
+  },
+  {
+    "word": "weakness",
+    "pos": "n.",
+    "raw": "weakness n."
+  },
+  {
+    "word": "wealth",
+    "pos": "n.",
+    "raw": "wealth n."
+  },
+  {
+    "word": "wealthy",
+    "pos": "adj.",
+    "raw": "wealthy adj."
+  },
+  {
+    "word": "whereas",
+    "pos": "conj.",
+    "raw": "whereas conj."
+  },
+  {
+    "word": "wherever",
+    "pos": "conj.",
+    "raw": "wherever conj."
+  },
+  {
+    "word": "whisper",
+    "pos": "v., n.",
+    "raw": "whisper v., n."
+  },
+  {
+    "word": "whom",
+    "pos": "pron.",
+    "raw": "whom pron."
+  },
+  {
+    "word": "widely",
+    "pos": "adv.",
+    "raw": "widely adv."
+  },
+  {
+    "word": "wildlife",
+    "pos": "n.",
+    "raw": "wildlife n."
+  },
+  {
+    "word": "willing",
+    "pos": "adj.",
+    "raw": "willing adj."
+  },
+  {
+    "word": "wind2",
+    "pos": "v.",
+    "raw": "wind2 v."
+  },
+  {
+    "word": "wire",
+    "pos": "n.",
+    "raw": "wire n."
+  },
+  {
+    "word": "wise",
+    "pos": "adj.",
+    "raw": "wise adj."
+  },
+  {
+    "word": "witness",
+    "pos": "n., v.",
+    "raw": "witness n., v."
+  },
+  {
+    "word": "worse",
+    "pos": "n.",
+    "raw": "worse n."
+  },
+  {
+    "word": "worst",
+    "pos": "n.",
+    "raw": "worst n."
+  },
+  {
+    "word": "worth",
+    "pos": "n.",
+    "raw": "worth n."
+  },
+  {
+    "word": "wound",
+    "pos": "n., v.",
+    "raw": "wound n., v."
+  },
+  {
+    "word": "wrap",
+    "pos": "v.",
+    "raw": "wrap v."
+  },
+  {
+    "word": "wrong",
+    "pos": "n.",
+    "raw": "wrong n."
+  },
+  {
+    "word": "yet",
+    "pos": "conj.",
+    "raw": "yet conj."
+  },
+  {
+    "word": "zone",
+    "pos": "n. -- 12 of 12 --",
+    "raw": "zone n. -- 12 of 12 --"
+  },
+  {
+    "word": "absorb",
+    "pos": "v.",
+    "raw": "absorb v."
+  },
+  {
+    "word": "abstract",
+    "pos": "adj.",
+    "raw": "abstract adj."
+  },
+  {
+    "word": "accent",
+    "pos": "n.",
+    "raw": "accent n."
+  },
+  {
+    "word": "accidentally",
+    "pos": "adv.",
+    "raw": "accidentally adv."
+  },
+  {
+    "word": "accommodate",
+    "pos": "v.",
+    "raw": "accommodate v."
+  },
+  {
+    "word": "accomplish",
+    "pos": "v.",
+    "raw": "accomplish v."
+  },
+  {
+    "word": "accountant",
+    "pos": "n.",
+    "raw": "accountant n."
+  },
+  {
+    "word": "accuracy",
+    "pos": "n.",
+    "raw": "accuracy n."
+  },
+  {
+    "word": "accurately",
+    "pos": "adv.",
+    "raw": "accurately adv."
+  },
+  {
+    "word": "acid",
+    "pos": "n.",
+    "raw": "acid n."
+  },
+  {
+    "word": "activate",
+    "pos": "v.",
+    "raw": "activate v."
+  },
+  {
+    "word": "addiction",
+    "pos": "n.",
+    "raw": "addiction n."
+  },
+  {
+    "word": "additionally",
+    "pos": "adv.",
+    "raw": "additionally adv."
+  },
+  {
+    "word": "adequate",
+    "pos": "adj.",
+    "raw": "adequate adj."
+  },
+  {
+    "word": "adequately",
+    "pos": "adv.",
+    "raw": "adequately adv."
+  },
+  {
+    "word": "adjust",
+    "pos": "v.",
+    "raw": "adjust v."
+  },
+  {
+    "word": "affordable",
+    "pos": "adj.",
+    "raw": "affordable adj."
+  },
+  {
+    "word": "agriculture",
+    "pos": "n.",
+    "raw": "agriculture n."
+  },
+  {
+    "word": "AIDS",
+    "pos": "n.",
+    "raw": "AIDS n."
+  },
+  {
+    "word": "alien",
+    "pos": "n.",
+    "raw": "alien n."
+  },
+  {
+    "word": "alongside",
+    "pos": "prep.",
+    "raw": "alongside prep."
+  },
+  {
+    "word": "altogether",
+    "pos": "adv.",
+    "raw": "altogether adv."
+  },
+  {
+    "word": "ambulance",
+    "pos": "n.",
+    "raw": "ambulance n."
+  },
+  {
+    "word": "amusing",
+    "pos": "adj.",
+    "raw": "amusing adj."
+  },
+  {
+    "word": "analyst",
+    "pos": "n.",
+    "raw": "analyst n."
+  },
+  {
+    "word": "ancestor",
+    "pos": "n.",
+    "raw": "ancestor n."
+  },
+  {
+    "word": "animation",
+    "pos": "n.",
+    "raw": "animation n."
+  },
+  {
+    "word": "annually",
+    "pos": "adv.",
+    "raw": "annually adv."
+  },
+  {
+    "word": "anticipate",
+    "pos": "v.",
+    "raw": "anticipate v."
+  },
+  {
+    "word": "anxiety",
+    "pos": "n.",
+    "raw": "anxiety n."
+  },
+  {
+    "word": "apology",
+    "pos": "n.",
+    "raw": "apology n."
+  },
+  {
+    "word": "applicant",
+    "pos": "n.",
+    "raw": "applicant n."
+  },
+  {
+    "word": "appropriately",
+    "pos": "adv.",
+    "raw": "appropriately adv."
+  },
+  {
+    "word": "arrow",
+    "pos": "n.",
+    "raw": "arrow n."
+  },
+  {
+    "word": "artwork",
+    "pos": "n.",
+    "raw": "artwork n."
+  },
+  {
+    "word": "aside",
+    "pos": "adv.",
+    "raw": "aside adv."
+  },
+  {
+    "word": "asset",
+    "pos": "n.",
+    "raw": "asset n."
+  },
+  {
+    "word": "assign",
+    "pos": "v.",
+    "raw": "assign v."
+  },
+  {
+    "word": "assistance",
+    "pos": "n.",
+    "raw": "assistance n."
+  },
+  {
+    "word": "assumption",
+    "pos": "n.",
+    "raw": "assumption n."
+  },
+  {
+    "word": "assure",
+    "pos": "v.",
+    "raw": "assure v."
+  },
+  {
+    "word": "astonishing",
+    "pos": "adj.",
+    "raw": "astonishing adj."
+  },
+  {
+    "word": "attachment",
+    "pos": "n.",
+    "raw": "attachment n."
+  },
+  {
+    "word": "auction",
+    "pos": "n.",
+    "raw": "auction n."
+  },
+  {
+    "word": "audio",
+    "pos": "adj.",
+    "raw": "audio adj."
+  },
+  {
+    "word": "automatic",
+    "pos": "adj.",
+    "raw": "automatic adj."
+  },
+  {
+    "word": "automatically",
+    "pos": "adv.",
+    "raw": "automatically adv."
+  },
+  {
+    "word": "awareness",
+    "pos": "n.",
+    "raw": "awareness n."
+  },
+  {
+    "word": "awkward",
+    "pos": "adj.",
+    "raw": "awkward adj."
+  },
+  {
+    "word": "badge",
+    "pos": "n.",
+    "raw": "badge n."
+  },
+  {
+    "word": "balanced",
+    "pos": "adj.",
+    "raw": "balanced adj."
+  },
+  {
+    "word": "ballet",
+    "pos": "n.",
+    "raw": "ballet n."
+  },
+  {
+    "word": "balloon",
+    "pos": "n.",
+    "raw": "balloon n."
+  },
+  {
+    "word": "barely",
+    "pos": "adv.",
+    "raw": "barely adv."
+  },
+  {
+    "word": "bargain",
+    "pos": "n.",
+    "raw": "bargain n."
+  },
+  {
+    "word": "basement",
+    "pos": "n.",
+    "raw": "basement n."
+  },
+  {
+    "word": "basket",
+    "pos": "n.",
+    "raw": "basket n."
+  },
+  {
+    "word": "bat",
+    "pos": "n.",
+    "raw": "bat n."
+  },
+  {
+    "word": "beneficial",
+    "pos": "adj.",
+    "raw": "beneficial adj."
+  },
+  {
+    "word": "beside",
+    "pos": "prep.",
+    "raw": "beside prep."
+  },
+  {
+    "word": "besides",
+    "pos": "prep., adv.",
+    "raw": "besides prep., adv."
+  },
+  {
+    "word": "bias",
+    "pos": "n.",
+    "raw": "bias n."
+  },
+  {
+    "word": "bid",
+    "pos": "n., v.",
+    "raw": "bid n., v."
+  },
+  {
+    "word": "biological",
+    "pos": "adj.",
+    "raw": "biological adj."
+  },
+  {
+    "word": "blanket",
+    "pos": "n.",
+    "raw": "blanket n."
+  },
+  {
+    "word": "blow",
+    "pos": "n.",
+    "raw": "blow n."
+  },
+  {
+    "word": "bold",
+    "pos": "adj.",
+    "raw": "bold adj."
+  },
+  {
+    "word": "bombing",
+    "pos": "n.",
+    "raw": "bombing n."
+  },
+  {
+    "word": "booking",
+    "pos": "n.",
+    "raw": "booking n."
+  },
+  {
+    "word": "boost",
+    "pos": "v., n.",
+    "raw": "boost v., n."
+  },
+  {
+    "word": "bound",
+    "pos": "adj.",
+    "raw": "bound adj."
+  },
+  {
+    "word": "brick",
+    "pos": "n.",
+    "raw": "brick n."
+  },
+  {
+    "word": "briefly",
+    "pos": "adv.",
+    "raw": "briefly adv."
+  },
+  {
+    "word": "broadcaster",
+    "pos": "n.",
+    "raw": "broadcaster n."
+  },
+  {
+    "word": "broadly",
+    "pos": "adv.",
+    "raw": "broadly adv."
+  },
+  {
+    "word": "bug",
+    "pos": "n.",
+    "raw": "bug n."
+  },
+  {
+    "word": "cabin",
+    "pos": "n.",
+    "raw": "cabin n."
+  },
+  {
+    "word": "canal",
+    "pos": "n.",
+    "raw": "canal n."
+  },
+  {
+    "word": "candle",
+    "pos": "n.",
+    "raw": "candle n."
+  },
+  {
+    "word": "carbon",
+    "pos": "n.",
+    "raw": "carbon n."
+  },
+  {
+    "word": "casual",
+    "pos": "adj.",
+    "raw": "casual adj."
+  },
+  {
+    "word": "cave",
+    "pos": "n.",
+    "raw": "cave n."
+  },
+  {
+    "word": "certainty",
+    "pos": "n.",
+    "raw": "certainty n."
+  },
+  {
+    "word": "certificate",
+    "pos": "n.",
+    "raw": "certificate n."
+  },
+  {
+    "word": "challenging",
+    "pos": "adj.",
+    "raw": "challenging adj."
+  },
+  {
+    "word": "championship",
+    "pos": "n.",
+    "raw": "championship n."
+  },
+  {
+    "word": "charming",
+    "pos": "adj.",
+    "raw": "charming adj."
+  },
+  {
+    "word": "chase",
+    "pos": "v., n.",
+    "raw": "chase v., n."
+  },
+  {
+    "word": "cheek",
+    "pos": "n.",
+    "raw": "cheek n."
+  },
+  {
+    "word": "cheer",
+    "pos": "v., n.",
+    "raw": "cheer v., n."
+  },
+  {
+    "word": "choir",
+    "pos": "n.",
+    "raw": "choir n."
+  },
+  {
+    "word": "chop",
+    "pos": "v.",
+    "raw": "chop v."
+  },
+  {
+    "word": "circuit",
+    "pos": "n.",
+    "raw": "circuit n."
+  },
+  {
+    "word": "civilization",
+    "pos": "n.",
+    "raw": "civilization n."
+  },
+  {
+    "word": "clarify",
+    "pos": "v.",
+    "raw": "clarify v."
+  },
+  {
+    "word": "classify",
+    "pos": "v.",
+    "raw": "classify v."
+  },
+  {
+    "word": "clerk",
+    "pos": "n.",
+    "raw": "clerk n."
+  },
+  {
+    "word": "cliff",
+    "pos": "n.",
+    "raw": "cliff n."
+  },
+  {
+    "word": "clinic",
+    "pos": "n.",
+    "raw": "clinic n."
+  },
+  {
+    "word": "clip",
+    "pos": "n.",
+    "raw": "clip n."
+  },
+  {
+    "word": "coincidence",
+    "pos": "n.",
+    "raw": "coincidence n."
+  },
+  {
+    "word": "collector",
+    "pos": "n.",
+    "raw": "collector n."
+  },
+  {
+    "word": "colony",
+    "pos": "n.",
+    "raw": "colony n."
+  },
+  {
+    "word": "colourful",
+    "pos": "adj.",
+    "raw": "colourful adj."
+  },
+  {
+    "word": "comic",
+    "pos": "adj., n.",
+    "raw": "comic adj., n."
+  },
+  {
+    "word": "commander",
+    "pos": "n.",
+    "raw": "commander n."
+  },
+  {
+    "word": "comparative",
+    "pos": "adj.",
+    "raw": "comparative adj."
+  },
+  {
+    "word": "completion",
+    "pos": "n.",
+    "raw": "completion n."
+  },
+  {
+    "word": "compose",
+    "pos": "v.",
+    "raw": "compose v."
+  },
+  {
+    "word": "composer",
+    "pos": "n.",
+    "raw": "composer n."
+  },
+  {
+    "word": "compound",
+    "pos": "n.",
+    "raw": "compound n."
+  },
+  {
+    "word": "comprehensive",
+    "pos": "adj.",
+    "raw": "comprehensive adj."
+  },
+  {
+    "word": "comprise",
+    "pos": "v.",
+    "raw": "comprise v."
+  },
+  {
+    "word": "compulsory",
+    "pos": "adj.",
+    "raw": "compulsory adj."
+  },
+  {
+    "word": "concrete",
+    "pos": "adj., n.",
+    "raw": "concrete adj., n."
+  },
+  {
+    "word": "confess",
+    "pos": "v.",
+    "raw": "confess v."
+  },
+  {
+    "word": "confusion",
+    "pos": "n.",
+    "raw": "confusion n."
+  },
+  {
+    "word": "consequently",
+    "pos": "adv.",
+    "raw": "consequently adv."
+  },
+  {
+    "word": "conservation",
+    "pos": "n.",
+    "raw": "conservation n."
+  },
+  {
+    "word": "considerable",
+    "pos": "adj.",
+    "raw": "considerable adj."
+  },
+  {
+    "word": "considerably",
+    "pos": "adv.",
+    "raw": "considerably adv."
+  },
+  {
+    "word": "consistently",
+    "pos": "adv.",
+    "raw": "consistently adv."
+  },
+  {
+    "word": "conspiracy",
+    "pos": "n.",
+    "raw": "conspiracy n."
+  },
+  {
+    "word": "consult",
+    "pos": "v.",
+    "raw": "consult v."
+  },
+  {
+    "word": "consultant",
+    "pos": "n.",
+    "raw": "consultant n."
+  },
+  {
+    "word": "consumption",
+    "pos": "n.",
+    "raw": "consumption n."
+  },
+  {
+    "word": "controversial",
+    "pos": "adj.",
+    "raw": "controversial adj."
+  },
+  {
+    "word": "controversy",
+    "pos": "n.",
+    "raw": "controversy n."
+  },
+  {
+    "word": "convenience",
+    "pos": "n.",
+    "raw": "convenience n."
+  },
+  {
+    "word": "convention",
+    "pos": "n.",
+    "raw": "convention n."
+  },
+  {
+    "word": "conventional",
+    "pos": "adj.",
+    "raw": "conventional adj."
+  },
+  {
+    "word": "convey",
+    "pos": "v.",
+    "raw": "convey v."
+  },
+  {
+    "word": "convincing",
+    "pos": "adj.",
+    "raw": "convincing adj."
+  },
+  {
+    "word": "cope",
+    "pos": "v.",
+    "raw": "cope v."
+  },
+  {
+    "word": "corporation",
+    "pos": "n.",
+    "raw": "corporation n."
+  },
+  {
+    "word": "corridor",
+    "pos": "n.",
+    "raw": "corridor n."
+  },
+  {
+    "word": "counter (long flat surface)",
+    "pos": "n.",
+    "raw": "counter (long flat surface) n."
+  },
+  {
+    "word": "coverage",
+    "pos": "n.",
+    "raw": "coverage n."
+  },
+  {
+    "word": "crack",
+    "pos": "v., n.",
+    "raw": "crack v., n."
+  },
+  {
+    "word": "craft",
+    "pos": "n.",
+    "raw": "craft n."
+  },
+  {
+    "word": "creativity",
+    "pos": "n.",
+    "raw": "creativity n."
+  },
+  {
+    "word": "critically",
+    "pos": "adv.",
+    "raw": "critically adv."
+  },
+  {
+    "word": "cruise",
+    "pos": "n., v.",
+    "raw": "cruise n., v."
+  },
+  {
+    "word": "cue",
+    "pos": "n.",
+    "raw": "cue n."
+  },
+  {
+    "word": "curious",
+    "pos": "adj.",
+    "raw": "curious adj."
+  },
+  {
+    "word": "curriculum",
+    "pos": "n.",
+    "raw": "curriculum n."
+  },
+  {
+    "word": "cute",
+    "pos": "adj.",
+    "raw": "cute adj."
+  },
+  {
+    "word": "dairy",
+    "pos": "n., adj.",
+    "raw": "dairy n., adj."
+  },
+  {
+    "word": "dare",
+    "pos": "v.",
+    "raw": "dare v."
+  },
+  {
+    "word": "darkness",
+    "pos": "n.",
+    "raw": "darkness n."
+  },
+  {
+    "word": "database",
+    "pos": "n.",
+    "raw": "database n."
+  },
+  {
+    "word": "deadline",
+    "pos": "n.",
+    "raw": "deadline n."
+  },
+  {
+    "word": "deadly",
+    "pos": "adj.",
+    "raw": "deadly adj."
+  },
+  {
+    "word": "dealer",
+    "pos": "n.",
+    "raw": "dealer n."
+  },
+  {
+    "word": "deck",
+    "pos": "n.",
+    "raw": "deck n."
+  },
+  {
+    "word": "defender",
+    "pos": "n.",
+    "raw": "defender n."
+  },
+  {
+    "word": "delete",
+    "pos": "v.",
+    "raw": "delete v."
+  },
+  {
+    "word": "democracy",
+    "pos": "n.",
+    "raw": "democracy n."
+  },
+  {
+    "word": "democratic",
+    "pos": "adj.",
+    "raw": "democratic adj."
+  },
+  {
+    "word": "demonstration",
+    "pos": "n.",
+    "raw": "demonstration n."
+  },
+  {
+    "word": "depart",
+    "pos": "v.",
+    "raw": "depart v."
+  },
+  {
+    "word": "dependent",
+    "pos": "adj.",
+    "raw": "dependent adj."
+  },
+  {
+    "word": "deposit",
+    "pos": "n.",
+    "raw": "deposit n."
+  },
+  {
+    "word": "depression",
+    "pos": "n.",
+    "raw": "depression n."
+  },
+  {
+    "word": "derive",
+    "pos": "v.",
+    "raw": "derive v."
+  },
+  {
+    "word": "desperately",
+    "pos": "adv.",
+    "raw": "desperately adv."
+  },
+  {
+    "word": "destruction",
+    "pos": "n.",
+    "raw": "destruction n."
+  },
+  {
+    "word": "determination",
+    "pos": "n.",
+    "raw": "determination n."
+  },
+  {
+    "word": "devote",
+    "pos": "v.",
+    "raw": "devote v."
+  },
+  {
+    "word": "differ",
+    "pos": "v.",
+    "raw": "differ v."
+  },
+  {
+    "word": "disability",
+    "pos": "n.",
+    "raw": "disability n."
+  },
+  {
+    "word": "disabled",
+    "pos": "adj.",
+    "raw": "disabled adj."
+  },
+  {
+    "word": "disagreement",
+    "pos": "n.",
+    "raw": "disagreement n."
+  },
+  {
+    "word": "disappoint",
+    "pos": "v.",
+    "raw": "disappoint v."
+  },
+  {
+    "word": "disappointment",
+    "pos": "n.",
+    "raw": "disappointment n."
+  },
+  {
+    "word": "discourage",
+    "pos": "v.",
+    "raw": "discourage v."
+  },
+  {
+    "word": "disorder",
+    "pos": "n.",
+    "raw": "disorder n."
+  },
+  {
+    "word": "distant",
+    "pos": "adj.",
+    "raw": "distant adj."
+  },
+  {
+    "word": "distinct",
+    "pos": "adj.",
+    "raw": "distinct adj."
+  },
+  {
+    "word": "distinguish",
+    "pos": "v.",
+    "raw": "distinguish v."
+  },
+  {
+    "word": "distract",
+    "pos": "v.",
+    "raw": "distract v."
+  },
+  {
+    "word": "disturb",
+    "pos": "v.",
+    "raw": "disturb v."
+  },
+  {
+    "word": "dive",
+    "pos": "v., n.",
+    "raw": "dive v., n."
+  },
+  {
+    "word": "diverse",
+    "pos": "adj.",
+    "raw": "diverse adj."
+  },
+  {
+    "word": "diversity",
+    "pos": "n.",
+    "raw": "diversity n."
+  },
+  {
+    "word": "divorce",
+    "pos": "n., v.",
+    "raw": "divorce n., v."
+  },
+  {
+    "word": "dominant",
+    "pos": "adj.",
+    "raw": "dominant adj."
+  },
+  {
+    "word": "donation",
+    "pos": "n.",
+    "raw": "donation n."
+  },
+  {
+    "word": "dot",
+    "pos": "n.",
+    "raw": "dot n."
+  },
+  {
+    "word": "downtown",
+    "pos": "n., adj., adv.",
+    "raw": "downtown n., adj., adv."
+  },
+  {
+    "word": "dramatically",
+    "pos": "adv.",
+    "raw": "dramatically adv."
+  },
+  {
+    "word": "drought",
+    "pos": "n.",
+    "raw": "drought n."
+  },
+  {
+    "word": "dull",
+    "pos": "adj.",
+    "raw": "dull adj."
+  },
+  {
+    "word": "dump",
+    "pos": "v.",
+    "raw": "dump v."
+  },
+  {
+    "word": "duration",
+    "pos": "n.",
+    "raw": "duration n."
+  },
+  {
+    "word": "dynamic",
+    "pos": "adj.",
+    "raw": "dynamic adj."
+  },
+  {
+    "word": "economics",
+    "pos": "n.",
+    "raw": "economics n."
+  },
+  {
+    "word": "economist",
+    "pos": "n.",
+    "raw": "economist n."
+  },
+  {
+    "word": "editorial",
+    "pos": "adj.",
+    "raw": "editorial adj."
+  },
+  {
+    "word": "efficiently",
+    "pos": "adv.",
+    "raw": "efficiently adv."
+  },
+  {
+    "word": "elbow",
+    "pos": "n.",
+    "raw": "elbow n."
+  },
+  {
+    "word": "electronics",
+    "pos": "n.",
+    "raw": "electronics n."
+  },
+  {
+    "word": "elegant",
+    "pos": "adj.",
+    "raw": "elegant adj."
+  },
+  {
+    "word": "elementary",
+    "pos": "adj.",
+    "raw": "elementary adj."
+  },
+  {
+    "word": "eliminate",
+    "pos": "v.",
+    "raw": "eliminate v."
+  },
+  {
+    "word": "embrace",
+    "pos": "v.",
+    "raw": "embrace v."
+  },
+  {
+    "word": "emission",
+    "pos": "n.",
+    "raw": "emission n."
+  },
+  {
+    "word": "emotionally",
+    "pos": "adv.",
+    "raw": "emotionally adv."
+  },
+  {
+    "word": "empire",
+    "pos": "n.",
+    "raw": "empire n."
+  },
+  {
+    "word": "enjoyable",
+    "pos": "adj.",
+    "raw": "enjoyable adj."
+  },
+  {
+    "word": "entertaining",
+    "pos": "adj.",
+    "raw": "entertaining adj."
+  },
+  {
+    "word": "entrepreneur",
+    "pos": "n.",
+    "raw": "entrepreneur n."
+  },
+  {
+    "word": "envelope",
+    "pos": "n.",
+    "raw": "envelope n."
+  },
+  {
+    "word": "equip",
+    "pos": "v.",
+    "raw": "equip v."
+  },
+  {
+    "word": "equivalent",
+    "pos": "n., adj.",
+    "raw": "equivalent n., adj."
+  },
+  {
+    "word": "era",
+    "pos": "n.",
+    "raw": "era n."
+  },
+  {
+    "word": "erupt",
+    "pos": "v.",
+    "raw": "erupt v."
+  },
+  {
+    "word": "essentially",
+    "pos": "adv.",
+    "raw": "essentially adv."
+  },
+  {
+    "word": "ethic",
+    "pos": "n.",
+    "raw": "ethic n."
+  },
+  {
+    "word": "ethnic",
+    "pos": "adj.",
+    "raw": "ethnic adj."
+  },
+  {
+    "word": "evaluation",
+    "pos": "n.",
+    "raw": "evaluation n."
+  },
+  {
+    "word": "evident",
+    "pos": "adj.",
+    "raw": "evident adj."
+  },
+  {
+    "word": "evolution",
+    "pos": "n.",
+    "raw": "evolution n."
+  },
+  {
+    "word": "evolve",
+    "pos": "v.",
+    "raw": "evolve v."
+  },
+  {
+    "word": "exceed",
+    "pos": "v.",
+    "raw": "exceed v."
+  },
+  {
+    "word": "exception",
+    "pos": "n.",
+    "raw": "exception n."
+  },
+  {
+    "word": "excessive",
+    "pos": "adj.",
+    "raw": "excessive adj."
+  },
+  {
+    "word": "exclude",
+    "pos": "v.",
+    "raw": "exclude v."
+  },
+  {
+    "word": "exhibit",
+    "pos": "v., n.",
+    "raw": "exhibit v., n."
+  },
+  {
+    "word": "exit",
+    "pos": "n.",
+    "raw": "exit n."
+  },
+  {
+    "word": "exotic",
+    "pos": "adj.",
+    "raw": "exotic adj."
+  },
+  {
+    "word": "expansion",
+    "pos": "n.",
+    "raw": "expansion n."
+  },
+  {
+    "word": "expertise",
+    "pos": "n.",
+    "raw": "expertise n."
+  },
+  {
+    "word": "exploit",
+    "pos": "v.",
+    "raw": "exploit v."
+  },
+  {
+    "word": "exposure",
+    "pos": "n.",
+    "raw": "exposure n."
+  },
+  {
+    "word": "extension",
+    "pos": "n.",
+    "raw": "extension n."
+  },
+  {
+    "word": "extensive",
+    "pos": "adj.",
+    "raw": "extensive adj."
+  },
+  {
+    "word": "extensively",
+    "pos": "adv. -- 1 of 8 --",
+    "raw": "extensively adv. -- 1 of 8 --"
+  },
+  {
+    "word": "extract",
+    "pos": "n.",
+    "raw": "extract n."
+  },
+  {
+    "word": "fabric",
+    "pos": "n.",
+    "raw": "fabric n."
+  },
+  {
+    "word": "fabulous",
+    "pos": "adj.",
+    "raw": "fabulous adj."
+  },
+  {
+    "word": "failed",
+    "pos": "adj.",
+    "raw": "failed adj."
+  },
+  {
+    "word": "fake",
+    "pos": "adj.",
+    "raw": "fake adj."
+  },
+  {
+    "word": "fame",
+    "pos": "n.",
+    "raw": "fame n."
+  },
+  {
+    "word": "fantasy",
+    "pos": "n.",
+    "raw": "fantasy n."
+  },
+  {
+    "word": "fare",
+    "pos": "n.",
+    "raw": "fare n."
+  },
+  {
+    "word": "federal",
+    "pos": "adj.",
+    "raw": "federal adj."
+  },
+  {
+    "word": "fever",
+    "pos": "n.",
+    "raw": "fever n."
+  },
+  {
+    "word": "firefighter",
+    "pos": "n.",
+    "raw": "firefighter n."
+  },
+  {
+    "word": "firework",
+    "pos": "n.",
+    "raw": "firework n."
+  },
+  {
+    "word": "firm",
+    "pos": "adj.",
+    "raw": "firm adj."
+  },
+  {
+    "word": "firmly",
+    "pos": "adv.",
+    "raw": "firmly adv."
+  },
+  {
+    "word": "flavour",
+    "pos": "n.",
+    "raw": "flavour n."
+  },
+  {
+    "word": "fond",
+    "pos": "adj.",
+    "raw": "fond adj."
+  },
+  {
+    "word": "fool",
+    "pos": "n.",
+    "raw": "fool n."
+  },
+  {
+    "word": "forbid",
+    "pos": "v.",
+    "raw": "forbid v."
+  },
+  {
+    "word": "forecast",
+    "pos": "n., v.",
+    "raw": "forecast n., v."
+  },
+  {
+    "word": "format",
+    "pos": "n.",
+    "raw": "format n."
+  },
+  {
+    "word": "formation",
+    "pos": "n.",
+    "raw": "formation n."
+  },
+  {
+    "word": "formerly",
+    "pos": "adv.",
+    "raw": "formerly adv."
+  },
+  {
+    "word": "fortunate",
+    "pos": "adj.",
+    "raw": "fortunate adj."
+  },
+  {
+    "word": "forum",
+    "pos": "n.",
+    "raw": "forum n."
+  },
+  {
+    "word": "fossil",
+    "pos": "n.",
+    "raw": "fossil n."
+  },
+  {
+    "word": "foundation",
+    "pos": "n.",
+    "raw": "foundation n."
+  },
+  {
+    "word": "founder",
+    "pos": "n.",
+    "raw": "founder n."
+  },
+  {
+    "word": "fraction",
+    "pos": "n.",
+    "raw": "fraction n."
+  },
+  {
+    "word": "fragment",
+    "pos": "n.",
+    "raw": "fragment n."
+  },
+  {
+    "word": "framework",
+    "pos": "n.",
+    "raw": "framework n."
+  },
+  {
+    "word": "fraud",
+    "pos": "n.",
+    "raw": "fraud n."
+  },
+  {
+    "word": "freely",
+    "pos": "adv.",
+    "raw": "freely adv."
+  },
+  {
+    "word": "frequent",
+    "pos": "adj.",
+    "raw": "frequent adj."
+  },
+  {
+    "word": "fulfil",
+    "pos": "v.",
+    "raw": "fulfil v."
+  },
+  {
+    "word": "full-time",
+    "pos": "adj./adv.",
+    "raw": "full-time adj./adv."
+  },
+  {
+    "word": "fundamentally",
+    "pos": "adv.",
+    "raw": "fundamentally adv."
+  },
+  {
+    "word": "furious",
+    "pos": "adj.",
+    "raw": "furious adj."
+  },
+  {
+    "word": "gaming",
+    "pos": "n.",
+    "raw": "gaming n."
+  },
+  {
+    "word": "gay",
+    "pos": "adj.",
+    "raw": "gay adj."
+  },
+  {
+    "word": "gender",
+    "pos": "n.",
+    "raw": "gender n."
+  },
+  {
+    "word": "gene",
+    "pos": "n.",
+    "raw": "gene n."
+  },
+  {
+    "word": "genetic",
+    "pos": "adj.",
+    "raw": "genetic adj."
+  },
+  {
+    "word": "genius",
+    "pos": "n.",
+    "raw": "genius n."
+  },
+  {
+    "word": "genuine",
+    "pos": "adj.",
+    "raw": "genuine adj."
+  },
+  {
+    "word": "genuinely",
+    "pos": "adv.",
+    "raw": "genuinely adv."
+  },
+  {
+    "word": "gesture",
+    "pos": "n.",
+    "raw": "gesture n."
+  },
+  {
+    "word": "gig",
+    "pos": "n.",
+    "raw": "gig n."
+  },
+  {
+    "word": "globalization",
+    "pos": "n.",
+    "raw": "globalization n."
+  },
+  {
+    "word": "globe",
+    "pos": "n.",
+    "raw": "globe n."
+  },
+  {
+    "word": "golden",
+    "pos": "adj.",
+    "raw": "golden adj."
+  },
+  {
+    "word": "goodness",
+    "pos": "n.",
+    "raw": "goodness n."
+  },
+  {
+    "word": "gorgeous",
+    "pos": "adj.",
+    "raw": "gorgeous adj."
+  },
+  {
+    "word": "governor",
+    "pos": "n.",
+    "raw": "governor n."
+  },
+  {
+    "word": "graphic",
+    "pos": "adj.",
+    "raw": "graphic adj."
+  },
+  {
+    "word": "graphics",
+    "pos": "n.",
+    "raw": "graphics n."
+  },
+  {
+    "word": "greatly",
+    "pos": "adv.",
+    "raw": "greatly adv."
+  },
+  {
+    "word": "greenhouse",
+    "pos": "n.",
+    "raw": "greenhouse n."
+  },
+  {
+    "word": "grocery",
+    "pos": "n.",
+    "raw": "grocery n."
+  },
+  {
+    "word": "guideline",
+    "pos": "n.",
+    "raw": "guideline n."
+  },
+  {
+    "word": "habitat",
+    "pos": "n.",
+    "raw": "habitat n."
+  },
+  {
+    "word": "harbour",
+    "pos": "n.",
+    "raw": "harbour n."
+  },
+  {
+    "word": "headquarters",
+    "pos": "n.",
+    "raw": "headquarters n."
+  },
+  {
+    "word": "heal",
+    "pos": "v.",
+    "raw": "heal v."
+  },
+  {
+    "word": "healthcare",
+    "pos": "n.",
+    "raw": "healthcare n."
+  },
+  {
+    "word": "helmet",
+    "pos": "n.",
+    "raw": "helmet n."
+  },
+  {
+    "word": "hence",
+    "pos": "adv.",
+    "raw": "hence adv."
+  },
+  {
+    "word": "herb",
+    "pos": "n.",
+    "raw": "herb n."
+  },
+  {
+    "word": "hidden",
+    "pos": "adj.",
+    "raw": "hidden adj."
+  },
+  {
+    "word": "highway",
+    "pos": "n.",
+    "raw": "highway n."
+  },
+  {
+    "word": "hilarious",
+    "pos": "adj.",
+    "raw": "hilarious adj."
+  },
+  {
+    "word": "hip",
+    "pos": "n.",
+    "raw": "hip n."
+  },
+  {
+    "word": "historian",
+    "pos": "n.",
+    "raw": "historian n."
+  },
+  {
+    "word": "homeless",
+    "pos": "adj.",
+    "raw": "homeless adj."
+  },
+  {
+    "word": "honesty",
+    "pos": "n.",
+    "raw": "honesty n."
+  },
+  {
+    "word": "hook",
+    "pos": "n.",
+    "raw": "hook n."
+  },
+  {
+    "word": "hopefully",
+    "pos": "adv.",
+    "raw": "hopefully adv."
+  },
+  {
+    "word": "hunger",
+    "pos": "n.",
+    "raw": "hunger n."
+  },
+  {
+    "word": "hypothesis",
+    "pos": "n.",
+    "raw": "hypothesis n."
+  },
+  {
+    "word": "icon",
+    "pos": "n.",
+    "raw": "icon n."
+  },
+  {
+    "word": "ID",
+    "pos": "n.",
+    "raw": "ID n."
+  },
+  {
+    "word": "identical",
+    "pos": "adj.",
+    "raw": "identical adj."
+  },
+  {
+    "word": "illusion",
+    "pos": "n.",
+    "raw": "illusion n."
+  },
+  {
+    "word": "immigration",
+    "pos": "n.",
+    "raw": "immigration n."
+  },
+  {
+    "word": "immune",
+    "pos": "adj.",
+    "raw": "immune adj."
+  },
+  {
+    "word": "implement",
+    "pos": "v.",
+    "raw": "implement v."
+  },
+  {
+    "word": "implication",
+    "pos": "n.",
+    "raw": "implication n."
+  },
+  {
+    "word": "incentive",
+    "pos": "n.",
+    "raw": "incentive n."
+  },
+  {
+    "word": "incorporate",
+    "pos": "v.",
+    "raw": "incorporate v."
+  },
+  {
+    "word": "incorrect",
+    "pos": "adj.",
+    "raw": "incorrect adj."
+  },
+  {
+    "word": "independence",
+    "pos": "n.",
+    "raw": "independence n."
+  },
+  {
+    "word": "index",
+    "pos": "n.",
+    "raw": "index n."
+  },
+  {
+    "word": "indication",
+    "pos": "n.",
+    "raw": "indication n."
+  },
+  {
+    "word": "inevitable",
+    "pos": "adj.",
+    "raw": "inevitable adj."
+  },
+  {
+    "word": "inevitably",
+    "pos": "adv.",
+    "raw": "inevitably adv."
+  },
+  {
+    "word": "infer",
+    "pos": "v.",
+    "raw": "infer v."
+  },
+  {
+    "word": "inflation",
+    "pos": "n.",
+    "raw": "inflation n."
+  },
+  {
+    "word": "info",
+    "pos": "n.",
+    "raw": "info n."
+  },
+  {
+    "word": "infrastructure",
+    "pos": "n.",
+    "raw": "infrastructure n."
+  },
+  {
+    "word": "inhabitant",
+    "pos": "n.",
+    "raw": "inhabitant n."
+  },
+  {
+    "word": "inherit",
+    "pos": "v.",
+    "raw": "inherit v."
+  },
+  {
+    "word": "ink",
+    "pos": "n.",
+    "raw": "ink n."
+  },
+  {
+    "word": "innovation",
+    "pos": "n.",
+    "raw": "innovation n."
+  },
+  {
+    "word": "innovative",
+    "pos": "adj.",
+    "raw": "innovative adj."
+  },
+  {
+    "word": "input",
+    "pos": "n.",
+    "raw": "input n."
+  },
+  {
+    "word": "insert",
+    "pos": "v.",
+    "raw": "insert v."
+  },
+  {
+    "word": "inspector",
+    "pos": "n.",
+    "raw": "inspector n."
+  },
+  {
+    "word": "installation",
+    "pos": "n.",
+    "raw": "installation n."
+  },
+  {
+    "word": "instant",
+    "pos": "adj.",
+    "raw": "instant adj."
+  },
+  {
+    "word": "instantly",
+    "pos": "adv.",
+    "raw": "instantly adv."
+  },
+  {
+    "word": "integrate",
+    "pos": "v.",
+    "raw": "integrate v."
+  },
+  {
+    "word": "intellectual",
+    "pos": "adj.",
+    "raw": "intellectual adj."
+  },
+  {
+    "word": "interact",
+    "pos": "v.",
+    "raw": "interact v."
+  },
+  {
+    "word": "interaction",
+    "pos": "n.",
+    "raw": "interaction n."
+  },
+  {
+    "word": "interpretation",
+    "pos": "n.",
+    "raw": "interpretation n."
+  },
+  {
+    "word": "interval",
+    "pos": "n.",
+    "raw": "interval n."
+  },
+  {
+    "word": "invade",
+    "pos": "v.",
+    "raw": "invade v."
+  },
+  {
+    "word": "invasion",
+    "pos": "n.",
+    "raw": "invasion n."
+  },
+  {
+    "word": "investor",
+    "pos": "n.",
+    "raw": "investor n."
+  },
+  {
+    "word": "isolate",
+    "pos": "v.",
+    "raw": "isolate v."
+  },
+  {
+    "word": "isolated",
+    "pos": "adj.",
+    "raw": "isolated adj."
+  },
+  {
+    "word": "jail",
+    "pos": "n., v.",
+    "raw": "jail n., v."
+  },
+  {
+    "word": "jet",
+    "pos": "n.",
+    "raw": "jet n."
+  },
+  {
+    "word": "joint",
+    "pos": "adj., n.",
+    "raw": "joint adj., n."
+  },
+  {
+    "word": "journalism",
+    "pos": "n.",
+    "raw": "journalism n."
+  },
+  {
+    "word": "jury",
+    "pos": "n.",
+    "raw": "jury n."
+  },
+  {
+    "word": "kit",
+    "pos": "n.",
+    "raw": "kit n."
+  },
+  {
+    "word": "ladder",
+    "pos": "n.",
+    "raw": "ladder n."
+  },
+  {
+    "word": "landing",
+    "pos": "n.",
+    "raw": "landing n."
+  },
+  {
+    "word": "lane",
+    "pos": "n.",
+    "raw": "lane n."
+  },
+  {
+    "word": "lately",
+    "pos": "adv.",
+    "raw": "lately adv."
+  },
+  {
+    "word": "leaflet",
+    "pos": "n.",
+    "raw": "leaflet n."
+  },
+  {
+    "word": "legend",
+    "pos": "n.",
+    "raw": "legend n."
+  },
+  {
+    "word": "lens",
+    "pos": "n.",
+    "raw": "lens n."
+  },
+  {
+    "word": "lifetime",
+    "pos": "n.",
+    "raw": "lifetime n."
+  },
+  {
+    "word": "lighting",
+    "pos": "n.",
+    "raw": "lighting n."
+  },
+  {
+    "word": "likewise",
+    "pos": "adv.",
+    "raw": "likewise adv."
+  },
+  {
+    "word": "limitation",
+    "pos": "n.",
+    "raw": "limitation n."
+  },
+  {
+    "word": "literally",
+    "pos": "adv.",
+    "raw": "literally adv."
+  },
+  {
+    "word": "literary",
+    "pos": "adj.",
+    "raw": "literary adj."
+  },
+  {
+    "word": "litre",
+    "pos": "n.",
+    "raw": "litre n."
+  },
+  {
+    "word": "litter",
+    "pos": "n.",
+    "raw": "litter n."
+  },
+  {
+    "word": "logo",
+    "pos": "n.",
+    "raw": "logo n."
+  },
+  {
+    "word": "lottery",
+    "pos": "n.",
+    "raw": "lottery n."
+  },
+  {
+    "word": "loyal",
+    "pos": "adj.",
+    "raw": "loyal adj."
+  },
+  {
+    "word": "lyric",
+    "pos": "n.",
+    "raw": "lyric n."
+  },
+  {
+    "word": "magnificent",
+    "pos": "adj.",
+    "raw": "magnificent adj."
+  },
+  {
+    "word": "make-up",
+    "pos": "n.",
+    "raw": "make-up n."
+  },
+  {
+    "word": "making",
+    "pos": "n.",
+    "raw": "making n."
+  },
+  {
+    "word": "manufacture",
+    "pos": "v.",
+    "raw": "manufacture v."
+  },
+  {
+    "word": "manufacturing",
+    "pos": "n.",
+    "raw": "manufacturing n."
+  },
+  {
+    "word": "marathon",
+    "pos": "n.",
+    "raw": "marathon n."
+  },
+  {
+    "word": "margin",
+    "pos": "n.",
+    "raw": "margin n."
+  },
+  {
+    "word": "marker",
+    "pos": "n.",
+    "raw": "marker n."
+  },
+  {
+    "word": "martial",
+    "pos": "adj.",
+    "raw": "martial adj."
+  },
+  {
+    "word": "mate",
+    "pos": "n., v.",
+    "raw": "mate n., v."
+  },
+  {
+    "word": "mayor",
+    "pos": "n.",
+    "raw": "mayor n."
+  },
+  {
+    "word": "mechanic",
+    "pos": "n.",
+    "raw": "mechanic n."
+  },
+  {
+    "word": "mechanical",
+    "pos": "adj.",
+    "raw": "mechanical adj."
+  },
+  {
+    "word": "mechanism",
+    "pos": "n.",
+    "raw": "mechanism n."
+  },
+  {
+    "word": "medal",
+    "pos": "n.",
+    "raw": "medal n."
+  },
+  {
+    "word": "medication",
+    "pos": "n.",
+    "raw": "medication n."
+  },
+  {
+    "word": "membership",
+    "pos": "n.",
+    "raw": "membership n."
+  },
+  {
+    "word": "memorable",
+    "pos": "adj.",
+    "raw": "memorable adj."
+  },
+  {
+    "word": "metaphor",
+    "pos": "n.",
+    "raw": "metaphor n."
+  },
+  {
+    "word": "miner",
+    "pos": "n.",
+    "raw": "miner n."
+  },
+  {
+    "word": "miserable",
+    "pos": "adj.",
+    "raw": "miserable adj."
+  },
+  {
+    "word": "mode",
+    "pos": "n.",
+    "raw": "mode n."
+  },
+  {
+    "word": "modest",
+    "pos": "adj.",
+    "raw": "modest adj."
+  },
+  {
+    "word": "monster",
+    "pos": "n.",
+    "raw": "monster n."
+  },
+  {
+    "word": "monthly",
+    "pos": "adj.",
+    "raw": "monthly adj."
+  },
+  {
+    "word": "monument",
+    "pos": "n.",
+    "raw": "monument n."
+  },
+  {
+    "word": "moreover",
+    "pos": "adv.",
+    "raw": "moreover adv."
+  },
+  {
+    "word": "mortgage",
+    "pos": "n.",
+    "raw": "mortgage n."
+  },
+  {
+    "word": "mosque",
+    "pos": "n.",
+    "raw": "mosque n."
+  },
+  {
+    "word": "motion",
+    "pos": "n.",
+    "raw": "motion n."
+  },
+  {
+    "word": "motivate",
+    "pos": "v.",
+    "raw": "motivate v."
+  },
+  {
+    "word": "motivation",
+    "pos": "n.",
+    "raw": "motivation n."
+  },
+  {
+    "word": "moving",
+    "pos": "adj.",
+    "raw": "moving adj."
+  },
+  {
+    "word": "myth",
+    "pos": "n.",
+    "raw": "myth n."
+  },
+  {
+    "word": "naked",
+    "pos": "adj.",
+    "raw": "naked adj."
+  },
+  {
+    "word": "nasty",
+    "pos": "adj.",
+    "raw": "nasty adj."
+  },
+  {
+    "word": "navigation",
+    "pos": "n.",
+    "raw": "navigation n."
+  },
+  {
+    "word": "nearby",
+    "pos": "adj., adv.",
+    "raw": "nearby adj., adv."
+  },
+  {
+    "word": "necessity",
+    "pos": "n.",
+    "raw": "necessity n."
+  },
+  {
+    "word": "negotiate",
+    "pos": "v.",
+    "raw": "negotiate v."
+  },
+  {
+    "word": "negotiation",
+    "pos": "n.",
+    "raw": "negotiation n."
+  },
+  {
+    "word": "neutral",
+    "pos": "adj.",
+    "raw": "neutral adj."
+  },
+  {
+    "word": "newly",
+    "pos": "adv.",
+    "raw": "newly adv."
+  },
+  {
+    "word": "norm",
+    "pos": "n.",
+    "raw": "norm n."
+  },
+  {
+    "word": "notebook",
+    "pos": "n.",
+    "raw": "notebook n."
+  },
+  {
+    "word": "novelist",
+    "pos": "n.",
+    "raw": "novelist n."
+  },
+  {
+    "word": "nowadays",
+    "pos": "adv.",
+    "raw": "nowadays adv."
+  },
+  {
+    "word": "nursing",
+    "pos": "adj.",
+    "raw": "nursing adj."
+  },
+  {
+    "word": "nutrition",
+    "pos": "n.",
+    "raw": "nutrition n."
+  },
+  {
+    "word": "obesity",
+    "pos": "n.",
+    "raw": "obesity n."
+  },
+  {
+    "word": "observer",
+    "pos": "n.",
+    "raw": "observer n."
+  },
+  {
+    "word": "obstacle",
+    "pos": "n.",
+    "raw": "obstacle n."
+  },
+  {
+    "word": "occupation",
+    "pos": "n.",
+    "raw": "occupation n."
+  },
+  {
+    "word": "occupy",
+    "pos": "v.",
+    "raw": "occupy v."
+  },
+  {
+    "word": "offender",
+    "pos": "n.",
+    "raw": "offender n."
+  },
+  {
+    "word": "ongoing",
+    "pos": "adj.",
+    "raw": "ongoing adj."
+  },
+  {
+    "word": "openly",
+    "pos": "adv.",
+    "raw": "openly adv."
+  },
+  {
+    "word": "opera",
+    "pos": "n.",
+    "raw": "opera n."
+  },
+  {
+    "word": "operator",
+    "pos": "n.",
+    "raw": "operator n."
+  },
+  {
+    "word": "optimistic",
+    "pos": "adj.",
+    "raw": "optimistic adj."
+  },
+  {
+    "word": "orchestra",
+    "pos": "n.",
+    "raw": "orchestra n."
+  },
+  {
+    "word": "organic",
+    "pos": "adj.",
+    "raw": "organic adj."
+  },
+  {
+    "word": "outfit",
+    "pos": "n.",
+    "raw": "outfit n."
+  },
+  {
+    "word": "output",
+    "pos": "n.",
+    "raw": "output n."
+  },
+  {
+    "word": "outstanding",
+    "pos": "adj.",
+    "raw": "outstanding adj."
+  },
+  {
+    "word": "overcome",
+    "pos": "v.",
+    "raw": "overcome v."
+  },
+  {
+    "word": "overnight",
+    "pos": "adv.",
+    "raw": "overnight adv."
+  },
+  {
+    "word": "overseas",
+    "pos": "adv., adj.",
+    "raw": "overseas adv., adj."
+  },
+  {
+    "word": "ownership",
+    "pos": "n.",
+    "raw": "ownership n."
+  },
+  {
+    "word": "oxygen",
+    "pos": "n.",
+    "raw": "oxygen n."
+  },
+  {
+    "word": "packet",
+    "pos": "n.",
+    "raw": "packet n."
+  },
+  {
+    "word": "palm",
+    "pos": "n.",
+    "raw": "palm n."
+  },
+  {
+    "word": "panic",
+    "pos": "n.",
+    "raw": "panic n."
+  },
+  {
+    "word": "parade",
+    "pos": "n.",
+    "raw": "parade n."
+  },
+  {
+    "word": "parallel",
+    "pos": "adj., n.",
+    "raw": "parallel adj., n."
+  },
+  {
+    "word": "participation",
+    "pos": "n.",
+    "raw": "participation n."
+  },
+  {
+    "word": "partnership",
+    "pos": "n.",
+    "raw": "partnership n."
+  },
+  {
+    "word": "part-time",
+    "pos": "adj./adv.",
+    "raw": "part-time adj./adv."
+  },
+  {
+    "word": "passionate",
+    "pos": "adj.",
+    "raw": "passionate adj."
+  },
+  {
+    "word": "password",
+    "pos": "n.",
+    "raw": "password n."
+  },
+  {
+    "word": "patience",
+    "pos": "n.",
+    "raw": "patience n."
+  },
+  {
+    "word": "pause",
+    "pos": "v., n.",
+    "raw": "pause v., n."
+  },
+  {
+    "word": "peer",
+    "pos": "n.",
+    "raw": "peer n."
+  },
+  {
+    "word": "penalty",
+    "pos": "n.",
+    "raw": "penalty n."
+  },
+  {
+    "word": "perceive",
+    "pos": "v.",
+    "raw": "perceive v."
+  },
+  {
+    "word": "perception",
+    "pos": "n.",
+    "raw": "perception n."
+  },
+  {
+    "word": "permanently",
+    "pos": "adv.",
+    "raw": "permanently adv."
+  },
+  {
+    "word": "pill",
+    "pos": "n.",
+    "raw": "pill n."
+  },
+  {
+    "word": "pity",
+    "pos": "n.",
+    "raw": "pity n."
+  },
+  {
+    "word": "placement",
+    "pos": "n.",
+    "raw": "placement n."
+  },
+  {
+    "word": "portion",
+    "pos": "n.",
+    "raw": "portion n."
+  },
+  {
+    "word": "potentially",
+    "pos": "adv.",
+    "raw": "potentially adv."
+  },
+  {
+    "word": "precede",
+    "pos": "v.",
+    "raw": "precede v."
+  },
+  {
+    "word": "precious",
+    "pos": "adj.",
+    "raw": "precious adj."
+  },
+  {
+    "word": "precise",
+    "pos": "adj.",
+    "raw": "precise adj."
+  },
+  {
+    "word": "precisely",
+    "pos": "adv.",
+    "raw": "precisely adv."
+  },
+  {
+    "word": "predictable",
+    "pos": "adj.",
+    "raw": "predictable adj."
+  },
+  {
+    "word": "preference",
+    "pos": "n.",
+    "raw": "preference n."
+  },
+  {
+    "word": "pride",
+    "pos": "n.",
+    "raw": "pride n."
+  },
+  {
+    "word": "primarily",
+    "pos": "adv.",
+    "raw": "primarily adv."
+  },
+  {
+    "word": "principal",
+    "pos": "adj.",
+    "raw": "principal adj."
+  },
+  {
+    "word": "prior",
+    "pos": "adj.",
+    "raw": "prior adj."
+  },
+  {
+    "word": "probability",
+    "pos": "n.",
+    "raw": "probability n."
+  },
+  {
+    "word": "probable",
+    "pos": "adj.",
+    "raw": "probable adj."
+  },
+  {
+    "word": "proceed",
+    "pos": "v.",
+    "raw": "proceed v."
+  },
+  {
+    "word": "programming",
+    "pos": "n.",
+    "raw": "programming n."
+  },
+  {
+    "word": "progressive",
+    "pos": "adj.",
+    "raw": "progressive adj."
+  },
+  {
+    "word": "prohibit",
+    "pos": "v.",
+    "raw": "prohibit v."
+  },
+  {
+    "word": "promising",
+    "pos": "adj.",
+    "raw": "promising adj."
+  },
+  {
+    "word": "promotion",
+    "pos": "n.",
+    "raw": "promotion n."
+  },
+  {
+    "word": "prompt",
+    "pos": "v.",
+    "raw": "prompt v."
+  },
+  {
+    "word": "proportion",
+    "pos": "n.",
+    "raw": "proportion n."
+  },
+  {
+    "word": "protein",
+    "pos": "n.",
+    "raw": "protein n."
+  },
+  {
+    "word": "protester",
+    "pos": "n.",
+    "raw": "protester n."
+  },
+  {
+    "word": "psychological",
+    "pos": "adj.",
+    "raw": "psychological adj."
+  },
+  {
+    "word": "publicity",
+    "pos": "n.",
+    "raw": "publicity n."
+  },
+  {
+    "word": "publishing",
+    "pos": "n.",
+    "raw": "publishing n."
+  },
+  {
+    "word": "punk",
+    "pos": "n.",
+    "raw": "punk n."
+  },
+  {
+    "word": "purely",
+    "pos": "adv.",
+    "raw": "purely adv."
+  },
+  {
+    "word": "pursuit",
+    "pos": "n.",
+    "raw": "pursuit n."
+  },
+  {
+    "word": "puzzle",
+    "pos": "n.",
+    "raw": "puzzle n."
+  },
+  {
+    "word": "questionnaire",
+    "pos": "n.",
+    "raw": "questionnaire n."
+  },
+  {
+    "word": "racial",
+    "pos": "adj.",
+    "raw": "racial adj."
+  },
+  {
+    "word": "racism",
+    "pos": "n.",
+    "raw": "racism n."
+  },
+  {
+    "word": "racist",
+    "pos": "adj., n.",
+    "raw": "racist adj., n."
+  },
+  {
+    "word": "radiation",
+    "pos": "n.",
+    "raw": "radiation n."
+  },
+  {
+    "word": "rail",
+    "pos": "n.",
+    "raw": "rail n."
+  },
+  {
+    "word": "random",
+    "pos": "adj.",
+    "raw": "random adj."
+  },
+  {
+    "word": "rat",
+    "pos": "n.",
+    "raw": "rat n."
+  },
+  {
+    "word": "rating",
+    "pos": "n.",
+    "raw": "rating n."
+  },
+  {
+    "word": "reasonably",
+    "pos": "adv.",
+    "raw": "reasonably adv."
+  },
+  {
+    "word": "rebuild",
+    "pos": "v.",
+    "raw": "rebuild v."
+  },
+  {
+    "word": "receiver",
+    "pos": "n.",
+    "raw": "receiver n."
+  },
+  {
+    "word": "recession",
+    "pos": "n.",
+    "raw": "recession n."
+  },
+  {
+    "word": "reckon",
+    "pos": "v. -- 2 of 8 --",
+    "raw": "reckon v. -- 2 of 8 --"
+  },
+  {
+    "word": "recognition",
+    "pos": "n.",
+    "raw": "recognition n."
+  },
+  {
+    "word": "recovery",
+    "pos": "n.",
+    "raw": "recovery n."
+  },
+  {
+    "word": "recruit",
+    "pos": "v., n.",
+    "raw": "recruit v., n."
+  },
+  {
+    "word": "recruitment",
+    "pos": "n.",
+    "raw": "recruitment n."
+  },
+  {
+    "word": "referee",
+    "pos": "n.",
+    "raw": "referee n."
+  },
+  {
+    "word": "refugee",
+    "pos": "n.",
+    "raw": "refugee n."
+  },
+  {
+    "word": "registration",
+    "pos": "n.",
+    "raw": "registration n."
+  },
+  {
+    "word": "regulate",
+    "pos": "v.",
+    "raw": "regulate v."
+  },
+  {
+    "word": "reinforce",
+    "pos": "v.",
+    "raw": "reinforce v."
+  },
+  {
+    "word": "relieve",
+    "pos": "v.",
+    "raw": "relieve v."
+  },
+  {
+    "word": "relieved",
+    "pos": "adj.",
+    "raw": "relieved adj."
+  },
+  {
+    "word": "remarkable",
+    "pos": "adj.",
+    "raw": "remarkable adj."
+  },
+  {
+    "word": "remarkably",
+    "pos": "adv.",
+    "raw": "remarkably adv."
+  },
+  {
+    "word": "reporting",
+    "pos": "n.",
+    "raw": "reporting n."
+  },
+  {
+    "word": "resign",
+    "pos": "v.",
+    "raw": "resign v."
+  },
+  {
+    "word": "resolution",
+    "pos": "n.",
+    "raw": "resolution n."
+  },
+  {
+    "word": "restore",
+    "pos": "v.",
+    "raw": "restore v."
+  },
+  {
+    "word": "restrict",
+    "pos": "v.",
+    "raw": "restrict v."
+  },
+  {
+    "word": "restriction",
+    "pos": "n.",
+    "raw": "restriction n."
+  },
+  {
+    "word": "retail",
+    "pos": "n.",
+    "raw": "retail n."
+  },
+  {
+    "word": "retirement",
+    "pos": "n.",
+    "raw": "retirement n."
+  },
+  {
+    "word": "revenue",
+    "pos": "n.",
+    "raw": "revenue n."
+  },
+  {
+    "word": "revision",
+    "pos": "n.",
+    "raw": "revision n."
+  },
+  {
+    "word": "ridiculous",
+    "pos": "adj.",
+    "raw": "ridiculous adj."
+  },
+  {
+    "word": "risky",
+    "pos": "adj.",
+    "raw": "risky adj."
+  },
+  {
+    "word": "rival",
+    "pos": "n., adj.",
+    "raw": "rival n., adj."
+  },
+  {
+    "word": "rob",
+    "pos": "v.",
+    "raw": "rob v."
+  },
+  {
+    "word": "robbery",
+    "pos": "n.",
+    "raw": "robbery n."
+  },
+  {
+    "word": "rocket",
+    "pos": "n.",
+    "raw": "rocket n."
+  },
+  {
+    "word": "romance",
+    "pos": "n.",
+    "raw": "romance n."
+  },
+  {
+    "word": "rose",
+    "pos": "n.",
+    "raw": "rose n."
+  },
+  {
+    "word": "roughly",
+    "pos": "adv.",
+    "raw": "roughly adv."
+  },
+  {
+    "word": "ruin",
+    "pos": "v., n.",
+    "raw": "ruin v., n."
+  },
+  {
+    "word": "satisfaction",
+    "pos": "n.",
+    "raw": "satisfaction n."
+  },
+  {
+    "word": "scandal",
+    "pos": "n.",
+    "raw": "scandal n."
+  },
+  {
+    "word": "scare",
+    "pos": "v., n.",
+    "raw": "scare v., n."
+  },
+  {
+    "word": "scenario",
+    "pos": "n.",
+    "raw": "scenario n."
+  },
+  {
+    "word": "scholar",
+    "pos": "n.",
+    "raw": "scholar n."
+  },
+  {
+    "word": "scholarship",
+    "pos": "n.",
+    "raw": "scholarship n."
+  },
+  {
+    "word": "scratch",
+    "pos": "v., n.",
+    "raw": "scratch v., n."
+  },
+  {
+    "word": "screening",
+    "pos": "n.",
+    "raw": "screening n."
+  },
+  {
+    "word": "seeker",
+    "pos": "n.",
+    "raw": "seeker n."
+  },
+  {
+    "word": "seminar",
+    "pos": "n.",
+    "raw": "seminar n."
+  },
+  {
+    "word": "settler",
+    "pos": "n.",
+    "raw": "settler n."
+  },
+  {
+    "word": "severely",
+    "pos": "adv.",
+    "raw": "severely adv."
+  },
+  {
+    "word": "sexy",
+    "pos": "adj.",
+    "raw": "sexy adj."
+  },
+  {
+    "word": "shaped",
+    "pos": "adj.",
+    "raw": "shaped adj."
+  },
+  {
+    "word": "shocking",
+    "pos": "adj.",
+    "raw": "shocking adj."
+  },
+  {
+    "word": "shore",
+    "pos": "n.",
+    "raw": "shore n."
+  },
+  {
+    "word": "shortage",
+    "pos": "n.",
+    "raw": "shortage n."
+  },
+  {
+    "word": "shortly",
+    "pos": "adv.",
+    "raw": "shortly adv."
+  },
+  {
+    "word": "short-term",
+    "pos": "adj.",
+    "raw": "short-term adj."
+  },
+  {
+    "word": "sibling",
+    "pos": "n.",
+    "raw": "sibling n."
+  },
+  {
+    "word": "signature",
+    "pos": "n.",
+    "raw": "signature n."
+  },
+  {
+    "word": "significance",
+    "pos": "n.",
+    "raw": "significance n."
+  },
+  {
+    "word": "skilled",
+    "pos": "adj.",
+    "raw": "skilled adj."
+  },
+  {
+    "word": "skull",
+    "pos": "n.",
+    "raw": "skull n."
+  },
+  {
+    "word": "slogan",
+    "pos": "n.",
+    "raw": "slogan n."
+  },
+  {
+    "word": "so-called",
+    "pos": "adj.",
+    "raw": "so-called adj."
+  },
+  {
+    "word": "somehow",
+    "pos": "adv.",
+    "raw": "somehow adv."
+  },
+  {
+    "word": "sometime",
+    "pos": "adv.",
+    "raw": "sometime adv."
+  },
+  {
+    "word": "sophisticated",
+    "pos": "adj.",
+    "raw": "sophisticated adj."
+  },
+  {
+    "word": "spare",
+    "pos": "adj.",
+    "raw": "spare adj."
+  },
+  {
+    "word": "specialize",
+    "pos": "v.",
+    "raw": "specialize v."
+  },
+  {
+    "word": "specify",
+    "pos": "v.",
+    "raw": "specify v."
+  },
+  {
+    "word": "spectacular",
+    "pos": "adj.",
+    "raw": "spectacular adj."
+  },
+  {
+    "word": "spectator",
+    "pos": "n.",
+    "raw": "spectator n."
+  },
+  {
+    "word": "speculate",
+    "pos": "v.",
+    "raw": "speculate v."
+  },
+  {
+    "word": "speculation",
+    "pos": "n.",
+    "raw": "speculation n."
+  },
+  {
+    "word": "spice",
+    "pos": "n.",
+    "raw": "spice n."
+  },
+  {
+    "word": "spill",
+    "pos": "v.",
+    "raw": "spill v."
+  },
+  {
+    "word": "spite",
+    "pos": "n.",
+    "raw": "spite n."
+  },
+  {
+    "word": "spoil",
+    "pos": "v.",
+    "raw": "spoil v."
+  },
+  {
+    "word": "spokesman",
+    "pos": "n.",
+    "raw": "spokesman n."
+  },
+  {
+    "word": "spokesperson",
+    "pos": "n.",
+    "raw": "spokesperson n."
+  },
+  {
+    "word": "spokeswoman",
+    "pos": "n.",
+    "raw": "spokeswoman n."
+  },
+  {
+    "word": "sponsorship",
+    "pos": "n.",
+    "raw": "sponsorship n."
+  },
+  {
+    "word": "sporting",
+    "pos": "adj.",
+    "raw": "sporting adj."
+  },
+  {
+    "word": "stall",
+    "pos": "n.",
+    "raw": "stall n."
+  },
+  {
+    "word": "stance",
+    "pos": "n.",
+    "raw": "stance n."
+  },
+  {
+    "word": "starve",
+    "pos": "v.",
+    "raw": "starve v."
+  },
+  {
+    "word": "steadily",
+    "pos": "adv.",
+    "raw": "steadily adv."
+  },
+  {
+    "word": "steam",
+    "pos": "n.",
+    "raw": "steam n."
+  },
+  {
+    "word": "stimulate",
+    "pos": "v.",
+    "raw": "stimulate v."
+  },
+  {
+    "word": "strengthen",
+    "pos": "v.",
+    "raw": "strengthen v."
+  },
+  {
+    "word": "strictly",
+    "pos": "adv.",
+    "raw": "strictly adv."
+  },
+  {
+    "word": "stroke",
+    "pos": "n.",
+    "raw": "stroke n."
+  },
+  {
+    "word": "stunning",
+    "pos": "adj.",
+    "raw": "stunning adj."
+  },
+  {
+    "word": "subsequent",
+    "pos": "adj.",
+    "raw": "subsequent adj."
+  },
+  {
+    "word": "subsequently",
+    "pos": "adv.",
+    "raw": "subsequently adv."
+  },
+  {
+    "word": "suburb",
+    "pos": "n.",
+    "raw": "suburb n."
+  },
+  {
+    "word": "suffering",
+    "pos": "n.",
+    "raw": "suffering n."
+  },
+  {
+    "word": "sufficient",
+    "pos": "adj.",
+    "raw": "sufficient adj."
+  },
+  {
+    "word": "sufficiently",
+    "pos": "adv.",
+    "raw": "sufficiently adv."
+  },
+  {
+    "word": "super",
+    "pos": "adj.",
+    "raw": "super adj."
+  },
+  {
+    "word": "surgeon",
+    "pos": "n.",
+    "raw": "surgeon n."
+  },
+  {
+    "word": "survival",
+    "pos": "n.",
+    "raw": "survival n."
+  },
+  {
+    "word": "survivor",
+    "pos": "n.",
+    "raw": "survivor n."
+  },
+  {
+    "word": "suspend",
+    "pos": "v.",
+    "raw": "suspend v."
+  },
+  {
+    "word": "sustainable",
+    "pos": "adj.",
+    "raw": "sustainable adj."
+  },
+  {
+    "word": "swallow",
+    "pos": "v.",
+    "raw": "swallow v."
+  },
+  {
+    "word": "sympathetic",
+    "pos": "adj.",
+    "raw": "sympathetic adj."
+  },
+  {
+    "word": "tackle",
+    "pos": "v.",
+    "raw": "tackle v."
+  },
+  {
+    "word": "tag",
+    "pos": "n., v.",
+    "raw": "tag n., v."
+  },
+  {
+    "word": "tap",
+    "pos": "v., n.",
+    "raw": "tap v., n."
+  },
+  {
+    "word": "technological",
+    "pos": "adj.",
+    "raw": "technological adj."
+  },
+  {
+    "word": "teens",
+    "pos": "n.",
+    "raw": "teens n."
+  },
+  {
+    "word": "temple",
+    "pos": "n.",
+    "raw": "temple n."
+  },
+  {
+    "word": "temporarily",
+    "pos": "adv.",
+    "raw": "temporarily adv."
+  },
+  {
+    "word": "tendency",
+    "pos": "n.",
+    "raw": "tendency n."
+  },
+  {
+    "word": "tension",
+    "pos": "n.",
+    "raw": "tension n."
+  },
+  {
+    "word": "terminal",
+    "pos": "n.",
+    "raw": "terminal n."
+  },
+  {
+    "word": "terms",
+    "pos": "n.",
+    "raw": "terms n."
+  },
+  {
+    "word": "terribly",
+    "pos": "adv.",
+    "raw": "terribly adv."
+  },
+  {
+    "word": "terrify",
+    "pos": "v.",
+    "raw": "terrify v."
+  },
+  {
+    "word": "territory",
+    "pos": "n.",
+    "raw": "territory n."
+  },
+  {
+    "word": "terror",
+    "pos": "n.",
+    "raw": "terror n."
+  },
+  {
+    "word": "terrorism",
+    "pos": "n.",
+    "raw": "terrorism n."
+  },
+  {
+    "word": "terrorist",
+    "pos": "n.",
+    "raw": "terrorist n."
+  },
+  {
+    "word": "testing",
+    "pos": "n.",
+    "raw": "testing n."
+  },
+  {
+    "word": "textbook",
+    "pos": "n.",
+    "raw": "textbook n."
+  },
+  {
+    "word": "theft",
+    "pos": "n.",
+    "raw": "theft n."
+  },
+  {
+    "word": "therapist",
+    "pos": "n.",
+    "raw": "therapist n."
+  },
+  {
+    "word": "thesis",
+    "pos": "n.",
+    "raw": "thesis n."
+  },
+  {
+    "word": "thorough",
+    "pos": "adj.",
+    "raw": "thorough adj."
+  },
+  {
+    "word": "thoroughly",
+    "pos": "adv.",
+    "raw": "thoroughly adv."
+  },
+  {
+    "word": "thumb",
+    "pos": "n.",
+    "raw": "thumb n."
+  },
+  {
+    "word": "timing",
+    "pos": "n.",
+    "raw": "timing n."
+  },
+  {
+    "word": "tissue",
+    "pos": "n.",
+    "raw": "tissue n."
+  },
+  {
+    "word": "ton",
+    "pos": "n.",
+    "raw": "ton n."
+  },
+  {
+    "word": "tonne",
+    "pos": "n.",
+    "raw": "tonne n."
+  },
+  {
+    "word": "tournament",
+    "pos": "n.",
+    "raw": "tournament n."
+  },
+  {
+    "word": "trace",
+    "pos": "v.",
+    "raw": "trace v."
+  },
+  {
+    "word": "trading",
+    "pos": "n.",
+    "raw": "trading n."
+  },
+  {
+    "word": "tragedy",
+    "pos": "n.",
+    "raw": "tragedy n."
+  },
+  {
+    "word": "tragic",
+    "pos": "adj.",
+    "raw": "tragic adj."
+  },
+  {
+    "word": "trait",
+    "pos": "n.",
+    "raw": "trait n."
+  },
+  {
+    "word": "transmit",
+    "pos": "v.",
+    "raw": "transmit v."
+  },
+  {
+    "word": "transportation",
+    "pos": "n.",
+    "raw": "transportation n."
+  },
+  {
+    "word": "trap",
+    "pos": "v., n.",
+    "raw": "trap v., n."
+  },
+  {
+    "word": "treasure",
+    "pos": "n.",
+    "raw": "treasure n."
+  },
+  {
+    "word": "tribe",
+    "pos": "n.",
+    "raw": "tribe n."
+  },
+  {
+    "word": "trigger",
+    "pos": "v.",
+    "raw": "trigger v."
+  },
+  {
+    "word": "trillion",
+    "pos": "number",
+    "raw": "trillion number"
+  },
+  {
+    "word": "troop",
+    "pos": "n.",
+    "raw": "troop n."
+  },
+  {
+    "word": "tsunami",
+    "pos": "n.",
+    "raw": "tsunami n."
+  },
+  {
+    "word": "ultimate",
+    "pos": "adj.",
+    "raw": "ultimate adj."
+  },
+  {
+    "word": "unacceptable",
+    "pos": "adj.",
+    "raw": "unacceptable adj."
+  },
+  {
+    "word": "uncertainty",
+    "pos": "n.",
+    "raw": "uncertainty n."
+  },
+  {
+    "word": "undergo",
+    "pos": "v.",
+    "raw": "undergo v."
+  },
+  {
+    "word": "undertake",
+    "pos": "v.",
+    "raw": "undertake v."
+  },
+  {
+    "word": "unfold",
+    "pos": "v.",
+    "raw": "unfold v."
+  },
+  {
+    "word": "unfortunate",
+    "pos": "adj.",
+    "raw": "unfortunate adj."
+  },
+  {
+    "word": "unite",
+    "pos": "v.",
+    "raw": "unite v."
+  },
+  {
+    "word": "unity",
+    "pos": "n.",
+    "raw": "unity n."
+  },
+  {
+    "word": "universal",
+    "pos": "adj.",
+    "raw": "universal adj."
+  },
+  {
+    "word": "urgent",
+    "pos": "adj.",
+    "raw": "urgent adj."
+  },
+  {
+    "word": "usage",
+    "pos": "n.",
+    "raw": "usage n."
+  },
+  {
+    "word": "useless",
+    "pos": "adj.",
+    "raw": "useless adj."
+  },
+  {
+    "word": "valid",
+    "pos": "adj.",
+    "raw": "valid adj."
+  },
+  {
+    "word": "variation",
+    "pos": "n.",
+    "raw": "variation n."
+  },
+  {
+    "word": "vertical",
+    "pos": "adj.",
+    "raw": "vertical adj."
+  },
+  {
+    "word": "viewpoint",
+    "pos": "n.",
+    "raw": "viewpoint n."
+  },
+  {
+    "word": "visa",
+    "pos": "n.",
+    "raw": "visa n."
+  },
+  {
+    "word": "visible",
+    "pos": "adj.",
+    "raw": "visible adj."
+  },
+  {
+    "word": "voluntary",
+    "pos": "adj.",
+    "raw": "voluntary adj."
+  },
+  {
+    "word": "voting",
+    "pos": "n.",
+    "raw": "voting n."
+  },
+  {
+    "word": "wander",
+    "pos": "v.",
+    "raw": "wander v."
+  },
+  {
+    "word": "warming",
+    "pos": "n.",
+    "raw": "warming n."
+  },
+  {
+    "word": "weekly",
+    "pos": "adj.",
+    "raw": "weekly adj."
+  },
+  {
+    "word": "weird",
+    "pos": "adj.",
+    "raw": "weird adj."
+  },
+  {
+    "word": "welfare",
+    "pos": "n.",
+    "raw": "welfare n."
+  },
+  {
+    "word": "wheat",
+    "pos": "n.",
+    "raw": "wheat n."
+  },
+  {
+    "word": "whoever",
+    "pos": "pron.",
+    "raw": "whoever pron."
+  },
+  {
+    "word": "widespread",
+    "pos": "adj.",
+    "raw": "widespread adj."
+  },
+  {
+    "word": "wisdom",
+    "pos": "n.",
+    "raw": "wisdom n."
+  },
+  {
+    "word": "withdraw",
+    "pos": "v.",
+    "raw": "withdraw v."
+  },
+  {
+    "word": "workforce",
+    "pos": "n.",
+    "raw": "workforce n."
+  },
+  {
+    "word": "workplace",
+    "pos": "n.",
+    "raw": "workplace n."
+  },
+  {
+    "word": "workshop",
+    "pos": "n.",
+    "raw": "workshop n."
+  },
+  {
+    "word": "worm",
+    "pos": "n.",
+    "raw": "worm n."
+  },
+  {
+    "word": "wrist",
+    "pos": "n.",
+    "raw": "wrist n."
+  }
+]
