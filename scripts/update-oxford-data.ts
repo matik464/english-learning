@@ -13,7 +13,7 @@ type Entry = {
 };
 
 const inputDir = "oxford-files";
-const outputDir = "src/features/vocabularies";
+const outputDir = "src/features/vocabularies/data";
 
 const levels: Level[] = ["A1", "A2", "B1", "B2", "C1"];
 const levelRe = /^(A1|A2|B1|B2|C1)$/;
